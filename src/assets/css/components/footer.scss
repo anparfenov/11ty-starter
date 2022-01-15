@@ -1,5 +1,19 @@
 @use "sass:map";
-@use "../mixins";
+@forward "link";
 
 .c-footer {
+    background-color: var(--color-accent);
+
+    &_wrapper {
+        display: flex;
+        flex-flow: row wrap;
+        gap: 1rem;
+        justify-content: space-between;
+        align-items: center;
+        padding: 1rem;
+    }
+    &_source {
+        display: flex;
+        gap: 0.25rem;
+    }
 }

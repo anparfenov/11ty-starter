@@ -1,19 +1,32 @@
 {% for post in postslist %}
     <li class="c-post-item">
-        <article class="l-post-grid">
-            <a href="{{ post.url | url }}" class="c-gradient-link l-post-grid_title">
-                <h3 class="c-post-item_title">{{ post.data.title }}</h3>
-            </a>
+        <article class="{% if includeImage and post.data.image %} l-post-grid--image {% else %} l-post-grid {% endif %}">
+            {% if includeImage and post.data.image %}
+                <picture class="l-post-grid_image">
+                    <img src="/static/images/{{ post.data.image }}">
+                </picture>
+            {% endif %}
+            <div class="l-post-grid_title">
+                <a href="{{ post.url | url }}" class="c-gradient-link">
+                    <h3 class="c-post-item_title">{{ post.data.title }}</h3>
+                </a>
+            </div>
             <p class="c-post-item_desc l-post-grid_desc">{{ post.data.description }}</p>
-            <time class="c-post-item_date l-post-grid_date" datetime="{{ post.date | htmlDateString }}">
-                {{ post.date | readableDate }}
-            </time>
+            {% if locale == 'en' %}
+                <time class="c-post-item_date l-post-grid_date" datetime="{{ post.date | htmlDateString }}">
+                    {{ post.date | en_readableDate }}
+                </time>
+            {% else %}
+                <time class="c-post-item_date l-post-grid_date" datetime="{{ post.date | htmlDateString }}">
+                    {{ post.date | ru_readableDate }}
+                </time>
+            {% endif %}
             {% if post.data.tags %}
-                <ul class="c-post-item_tags l-post-grid_tags">
+                <ul class="l-post-grid_tags c-post-item_tags">
                     {% for tag in post.data.tags %}
-                    <li class="c-post-item_tag">
-                        <a href="/tags/{{ tag | slug }}/" class="c-simple-link">{{ tag }}</a>
-                    </li>
+                        <li class="c-post-item_tag">
+                            <a href="/tags/{{ tag | slug }}/" class="c-underline-link">{{ tag }}</a>
+                        </li>
                     {% endfor %}
                 </ul>
             {% endif %}

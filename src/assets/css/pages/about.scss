@@ -2,15 +2,8 @@
 @use "../components/link";
 
 .p-about {
-    &_links {
-        border-top: 1px solid var(--color-border);
-        padding: 0.5rem 0;
-        margin-top: 1rem;
-        display: flex;
-        align-items: center;
-        gap: 0.5rem;
-    }
-    &_para {
-        line-height: 1.8;
+    padding: 1rem;
+    &_content {
+        margin-top: 1.5rem;
     }
 }

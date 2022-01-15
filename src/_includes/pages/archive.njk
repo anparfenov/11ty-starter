@@ -1,6 +1,12 @@
-<h1 class="p-acrhive_title"></h1>
+<div class="p-archive">
+    <h1 class="p-acrhive_title">{{ archive[locale].title }}</h1>
 
-{% set postslist = collections.posts %}
-{% if postslist | length %}
-{% else %}
-{% endif %}
+    {% set postslist = collections.posts %}
+    {% if postslist | length %}
+        <ul class="c-posts-list c-posts-list--archive">
+            {% set includeImage = true %}
+            {% include "components/blog-post-items.njk" %}
+        </ul>
+    {% else %}
+    {% endif %}
+</div>

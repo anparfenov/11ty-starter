@@ -39,6 +39,26 @@
     }
 }
 
+.c-underline-link {
+    text-decoration: underline;
+    color: var(--color-text);
+
+    &:hover {
+        text-decoration-color: var(--color-extra);
+        background-color: var(--color-gray-200);
+    }
+
+    &:visited {
+        text-decoration: underline;
+        color: var(--color-text);
+
+        &:hover {
+            text-decoration-color: var(--color-extra);
+            background-color: var(--color-gray-200);
+        }
+    }
+}
+
 .c-gradient-link {
     background: var(--main-gradient);
     display: inline-block;
@@ -50,5 +70,28 @@
         display: inline-block;
         -webkit-background-clip: unset;
         -webkit-text-fill-color: unset;
+    }
+}
+
+.c-icon-link {
+    --color: var(--color-text);
+    --hover-color: var(--color-accent);
+
+    &--hover-accent {
+        --hover-color: var(--color-accent);
+    }
+    &--hover-extra {
+        --hover-color: var(--color-extra);
+    }
+
+    svg {
+        stroke: currentColor;
+        color: var(--color);
+    }
+
+    &:hover {
+        svg {
+            color: var(--hover-color);
+        }
     }
 }

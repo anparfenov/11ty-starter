@@ -1,16 +1,18 @@
+@use "../mixins";
 @use "link";
 @forward "../layouts/post-grid";
 
 .c-posts-list {
     display: flex;
     flex-flow: row wrap;
-    margin-left: -1rem;
-    margin-bottom: -1rem;
+    gap: 1rem;
+
+    &--archive {
+        margin-top: 1.5rem;
+    }
 }
 .c-post-item {
-    margin-left: 1rem;
-    margin-bottom: 1rem;
-
+    min-width: calc(100% / 2 - 1rem);
     &_date {
         font-size: var(--text-sm);
     }

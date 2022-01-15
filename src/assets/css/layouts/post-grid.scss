@@ -2,16 +2,17 @@
     display: grid;
     grid-template-columns: 3fr 1fr;
     grid-template-areas:
-        "title title"
+        "title ."
         "desc tags"
         "date tags";
     gap: 0.5rem;
 
     &--image {
-        grid-template-columns: repeat(2, 1fr);
-        grid-template-rows: 2fr 1fr;
+        grid-template-columns: 3fr 1fr;
+        grid-template-rows: auto repeat(3, 1fr);
         grid-template-areas:
-            "title image"
+            "image image"
+            "title ."
             "date image"
             "tags image";
     }
@@ -30,5 +31,8 @@
 
     &_desc {
         grid-area: desc;
+    }
+    &_image {
+        grid-area: image;
     }
 }
