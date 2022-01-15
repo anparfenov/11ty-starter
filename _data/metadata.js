@@ -17,9 +17,8 @@ module.exports = {
             url: `${url}/feed/en.feed.json`,
         },
         source: {
-            icon: 'brand-github',
             label: 'github',
-            link: 'TODO'
+            link: 'https://github.com/moody-person/11ty-starter'
         },
         author: {
             url,

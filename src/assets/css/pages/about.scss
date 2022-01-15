@@ -2,6 +2,9 @@
 @use "../components/link";
 
 .p-about {
+    width: 100%;
+    max-width: var(--max-content-width);
+    margin: 0 auto;
     padding: 1rem;
     &_content {
         margin-top: 1.5rem;

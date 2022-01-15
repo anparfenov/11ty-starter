@@ -5,6 +5,10 @@
     background-color: var(--color-accent);
 
     &_wrapper {
+        width: 100%;
+        max-width: var(--max-content-width);
+        margin: 0 auto;
+
         display: flex;
         flex-flow: row wrap;
         gap: 1rem;

@@ -1,12 +1,21 @@
 @use "../components/page-banner";
+@use "../mixins";
 
 .p-index {
+    width: 100%;
+    max-width: var(--max-content-width);
+    margin: 0 auto;
 
     &_hero {
         font-family: var(--monospace);
         padding: 1rem;
         background: var(--color-dark);
         color: var(--color-main);
+
+        @include mixins.media('tablet') {
+            border-radius: 0.5rem;
+            box-shadow: 2px 2px 5px var(--color-gray-500);
+        }
     }
 
     &_latest {

@@ -3,6 +3,10 @@
 @forward "logo";
 
 .c-header {
+    width: 100%;
+    max-width: var(--max-content-width);
+    margin: 0 auto;
+
     display: flex;
     flex-flow: row wrap;
     align-items: center;
