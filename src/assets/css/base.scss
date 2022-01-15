@@ -1,0 +1,123 @@
+@use "mixins";
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  font-family: var(--monospace);
+  color: var(--color-text);
+  background-color: var(--color-main);
+  min-height: 100vh;
+  line-height: 1.5;
+}
+
+.default-layout {
+    display: flex;
+    flex-direction: column;
+}
+
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+h1 {
+    font-size: var(--text-xxl);
+    font-weight: 900;
+}
+h2 {
+    font-size: var(--text-xl);
+    font-weight: 800;
+}
+h3 {
+    font-size: var(--text-lg);
+    font-weight: 800;
+}
+h4 {
+    font-size: var(--text-base);
+    font-weight: 800;
+}
+h5 {
+    font-size: var(--text-sm);
+    font-weight: 800;
+}
+h6 {
+    font-size: var(--text-xs);
+    font-weight: 800;
+}
+
+main {
+    margin: 0 auto;
+    max-width: var(--max-main-width);
+    width: 100%;
+    flex: 1;
+}
+
+button {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+pre,
+code {
+  font-family: var(--monospace);
+  line-height: 1.5;
+}
+pre {
+  font-size: 14px;
+  line-height: 1.375;
+  direction: ltr;
+  text-align: left;
+  white-space: pre;
+  word-spacing: normal;
+  word-break: normal;
+  -moz-tab-size: 2;
+  -o-tab-size: 2;
+  tab-size: 2;
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  -ms-hyphens: none;
+  hyphens: none;
+  padding: 1em;
+  margin: .5em 0;
+  background-color: #f6f6f6;
+}
+code {
+  word-break: break-all;
+}
+
+table {
+  margin: 1em 0;
+}
+table td,
+table th {
+  padding-right: 1em;
+}
+
+time {
+    font-family: var(--monospace);
+}

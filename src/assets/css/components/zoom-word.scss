@@ -1,0 +1,32 @@
+@use "sass:map";
+@use "../mixins";
+
+.c-zoom-word {
+    display: inline-flex;
+    position: relative;
+
+    &_list {
+        width: 100%;
+        display: inline-block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        visibility: hidden;
+        pointer-events: none;
+    }
+    &_text {
+        position: absolute;
+        top: 0;
+        left: 0;
+        transition: transform 0.5s ease;
+    }
+    &_pointer {
+        color: transparent;
+        -webkit-text-stroke: 1px hsla(0, 0%, 30%);
+        visibility: collapse;
+        display: none;
+        @include mixins.media("tablet") {
+            display: inline;
+        }
+    }
+}

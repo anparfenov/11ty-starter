@@ -1,0 +1,7 @@
+.c-fancy-list {
+    list-style-type: circle;
+    padding-left: 1rem;
+    &_item {
+        margin-top: 0.25rem;
+    }
+}

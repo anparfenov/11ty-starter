@@ -1,0 +1,22 @@
+@use "link";
+@forward "../layouts/post-grid";
+
+.c-posts-list {
+    display: flex;
+    flex-flow: row wrap;
+    margin-left: -1rem;
+    margin-bottom: -1rem;
+}
+.c-post-item {
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+
+    &_date {
+        font-size: var(--text-sm);
+    }
+    &_tags {
+        display: flex;
+        flex-flow: column wrap;
+        gap: 0.25rem;
+    }
+}

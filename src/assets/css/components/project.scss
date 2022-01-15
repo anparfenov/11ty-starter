@@ -1,0 +1,63 @@
+@forward "../layouts/project-grid";
+@forward "picture";
+
+.c-project {
+    max-width: var(--max-project-width);
+    margin: 0 auto;
+    border-radius: 0.5rem;
+    transition: transform 0.5s ease;
+    border: 1px solid var(--color-border);
+
+    &:hover {
+        border: 1px solid var(--color-gray-900);
+    }
+
+    &_bottom {
+        width: 100%;
+        padding: 1rem;
+    }
+
+    &:not(:first-of-type) {
+        margin-top: 2rem;
+    }
+
+    &_figure {
+        height: 22rem;
+    }
+
+    &_link {
+        font-weight: 800;
+        font-size: var(--text-lg);
+    }
+
+    &_title {
+        display: inline-block;
+    }
+
+    &_repo {
+        padding: 0.1rem 0.2rem;
+        &--gitlab {
+            --color-back-link-background: #292961;
+            --color-back-link-text: #e24329;
+        }
+        &--github {
+        }
+    }
+
+    &_section {
+        padding-top: 0.1rem;
+    }
+
+    &_text {
+        font-weight: 800;
+        margin-left: 0.25rem;
+        padding: 0.1rem 0.2rem;
+    }
+
+    &_tech {
+        padding: 0.1rem 0.2rem;
+        &:not(:first-of-type) {
+            margin-left: 0.5rem;
+        }
+    }
+}

@@ -1,0 +1,17 @@
+<footer role="contentinfo" class="c-footer">
+    <div class="c-footer_wrapper">
+        <div class="c-footer_item c-footer_tech">
+            {{ footer[locale].madeWith  }}
+            <a class="c-blue-link" href="https://11ty.dev">
+                11ty
+            </a>
+        </div>
+        <div class="c-footer_item c-footer_author">© {{ year.copyrightYear }} {{ metadata[locale].author.name  }}</div>
+        <div class="c-footer_item c-footer_source">
+            <span>{{ footer[locale].sources }}</span>
+            <a aria-label="github" class="c-footer_icon c-icon-link" href="https://github.com/moody-person/my-site">
+                {% include "icons/brand-github.svg" %}
+            </a>
+        </div>
+    </div>
+</footer>

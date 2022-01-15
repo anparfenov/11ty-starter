@@ -1,0 +1,15 @@
+@use "../components/page-banner";
+
+.p-index {
+
+    &_hero {
+        font-family: var(--monospace);
+        padding: 1rem;
+        background: var(--color-dark);
+        color: var(--color-main);
+    }
+
+    &_latest {
+        padding: 1rem;
+    }
+}

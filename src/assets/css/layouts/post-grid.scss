@@ -1,0 +1,34 @@
+.l-post-grid {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    grid-template-areas:
+        "title title"
+        "desc tags"
+        "date tags";
+    gap: 0.5rem;
+
+    &--image {
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: 2fr 1fr;
+        grid-template-areas:
+            "title image"
+            "date image"
+            "tags image";
+    }
+
+    &_tags {
+        grid-area: tags;
+    }
+
+    &_title {
+        grid-area: title;
+    }
+
+    &_date {
+        grid-area: date;
+    }
+
+    &_desc {
+        grid-area: desc;
+    }
+}

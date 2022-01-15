@@ -1,0 +1,34 @@
+.c-lang {
+    font-family: var(--sans-serif);
+    padding: 0.1rem 0.2rem;
+    border-radius: 0.25rem;
+    word-break: normal;
+
+    &--js {
+        background: #f7df1e;
+    }
+    &--ts {
+        background: #3178c6;
+        color: white;
+    }
+    &--html {
+        background: #dd4a24;
+        color: white;
+    }
+    &--css {
+        background: #196fb4;
+        color: white;
+    }
+    &--vue {
+        background: #41b883;
+        color: white;
+    }
+    &--svelte {
+        background: #f73c00;
+        color: white;
+    }
+    &--react {
+        background: #61dafb;
+        color: black;
+    }
+}

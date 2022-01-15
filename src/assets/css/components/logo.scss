@@ -1,0 +1,13 @@
+.c-logo {
+    background: var(--main-gradient);
+    display: inline-block;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+    &:hover {
+        background: var(--main-gradient-inv);
+        display: inline-block;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+}

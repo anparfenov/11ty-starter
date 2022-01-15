@@ -1,0 +1,11 @@
+.c-article {
+    padding: 1rem;
+    background: var(--gradient-header);
+    border-radius: 0.25rem;
+    margin-bottom: 1rem;
+
+    &_date {
+        font-size: var(--text-sm);
+        margin-right: 0.5rem;
+    }
+}

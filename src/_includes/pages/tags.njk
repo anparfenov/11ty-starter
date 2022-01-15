@@ -1,0 +1,10 @@
+<h1 class="">{{ tagsPage[locale].tag }} “{{ tag }}”</h1>
+
+{% set postslist = collections[ tag ] %}
+{% include "components/postslist.njk" %}
+
+<p class="u-mt--16">{{ tagsPage[locale].see }}
+    <a class="c-blue-link" href="{{ '/tags/' | url }}">
+        {{ tagsPage[locale].allTags }}
+    </a>
+</p>

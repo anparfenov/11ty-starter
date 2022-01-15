@@ -1,0 +1,27 @@
+@use "../variables";
+
+$spacing-types: (
+    "margin": "m",
+    "padding": "p",
+);
+
+$spacing-directions: (
+    "left": "l",
+    "right": "r",
+    "top": "t",
+    "bottom": "b"
+);
+
+@each $type, $type-val in $spacing-types {
+    .#{variables.$utility-prefix}#{$type-val} {
+        @each $direction, $dir-val in $spacing-directions {
+            &#{$dir-val} {
+                @each $size-name, $size in variables.$spacing-sizes {
+                    &--#{$size-name} {
+                        #{$type}-#{$direction}: #{$size};
+                    }
+                }
+            }
+        }
+    }
+}

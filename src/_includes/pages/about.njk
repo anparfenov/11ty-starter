@@ -1,0 +1,22 @@
+<p class="p-about_para">{{ about[locale].first  }}</p>
+<p class="p-about_para">{{ about[locale].second }}</p>
+<p class="p-about_para">{{ about[locale].third  }}</p>
+<p class="p-about_para">{{ about[locale].fourth  }}</p>
+
+<section class="p-about_links">
+    {% for item in about[locale].links %}
+        {% if item.icon %}
+            <a
+                class="c-icon-link"
+                target="_blank"
+                rel="noopener"
+                aria-label="{{ item.label }}"
+                href="{{ item.link }}"
+            >
+                {% include "icons/" + item.icon + ".svg" %}
+            </a>
+        {% else %}
+            <a class="c-simple-link" href="{{ item.link }}">{{ item.text }}</a>
+        {% endif %}
+    {% endfor %}
+</section>

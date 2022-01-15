@@ -1,0 +1,46 @@
+{
+    "name": "my-site",
+    "version": "0.0.4",
+    "description": "My personal website",
+    "scripts": {
+        "clean": "rm -rf _site",
+        "hasher": "node csshash.js",
+        "cssmin": "node cssmin.js",
+        "build": "npm-run-all clean hasher -p build:*",
+        "build:eleventy": "ELEVENTY_ENV=production eleventy",
+        "build:sass": "sass src/assets/css/index.scss _site/assets/css/index.css && npm run cssmin",
+        "dev": "npm-run-all clean hasher -p dev:*",
+        "dev:sass": "sass --watch src/assets/css/index.scss _site/assets/css/index.css",
+        "dev:eleventy": "ELEVENTY_ENV=development eleventy --serve --port=3000",
+        "debug": "DEBUG=* eleventy"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/moody-person/my-site"
+    },
+    "author": {
+        "name": "Andrey Parfenov",
+        "email": "asleeppiano@outlook.com",
+        "url": "https://andreyparfenov.com"
+    },
+    "license": "MIT",
+    "homepage": "https://andreyparfenov.com",
+    "devDependencies": {
+        "@11ty/eleventy": "^1.0.0",
+        "@11ty/eleventy-navigation": "^0.3.2",
+        "@11ty/eleventy-plugin-rss": "^1.1.1",
+        "@11ty/eleventy-plugin-syntaxhighlight": "^3.1.0",
+        "@rollup/plugin-node-resolve": "^13.1.3",
+        "autoprefixer": "^10.2.5",
+        "clean-css": "^5.2.2",
+        "luxon": "^2.3.0",
+        "markdown-it": "^12.0.4",
+        "markdown-it-anchor": "^8.4.1",
+        "markdown-it-container": "^3.0.0",
+        "nanoid": "^3.1.30",
+        "npm-run-all": "^4.1.5",
+        "rollup": "^2.63.0",
+        "rollup-plugin-terser": "^7.0.2",
+        "sass": "^1.46.0"
+    }
+}

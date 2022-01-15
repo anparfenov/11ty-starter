@@ -1,0 +1,66 @@
+@use "../variables";
+@use "../functions";
+@use "../mixins";
+
+.#{variables.$utility-prefix}flex {
+    display: flex;
+}
+.#{variables.$utility-prefix}flex-row {
+    flex-direction: row;
+}
+.#{variables.$utility-prefix}flex-column {
+    flex-direction: column;
+}
+.#{variables.$utility-prefix}flex-wrap {
+    flex-wrap: wrap;
+}
+.#{variables.$utility-prefix}flex-nowrap {
+    flex-wrap: nowrap;
+}
+
+.#{variables.$utility-prefix}items-start    { align-items: flex-start }
+.#{variables.$utility-prefix}items-end      { align-items: flex-end }
+.#{variables.$utility-prefix}items-center   { align-items: center }
+.#{variables.$utility-prefix}items-baseline { align-items: baseline }
+.#{variables.$utility-prefix}items-stretch  { align-items: stretch }
+
+.#{variables.$utility-prefix}self-start    { align-self: flex-start }
+.#{variables.$utility-prefix}self-end      { align-self: flex-end }
+.#{variables.$utility-prefix}self-center   { align-self: center }
+.#{variables.$utility-prefix}self-baseline { align-self: baseline }
+.#{variables.$utility-prefix}self-stretch  { align-self: stretch }
+
+.#{variables.$utility-prefix}justify-start   { justify-content: flex-start }
+.#{variables.$utility-prefix}justify-end     { justify-content: flex-end }
+.#{variables.$utility-prefix}justify-center  { justify-content: center }
+.#{variables.$utility-prefix}justify-between { justify-content: space-between }
+.#{variables.$utility-prefix}justify-around  { justify-content: space-around }
+.#{variables.$utility-prefix}justify-evenly  { justify-content: space-evenly }
+
+.#{variables.$utility-prefix}content-start   { align-content: flex-start }
+.#{variables.$utility-prefix}content-end     { align-content: flex-end }
+.#{variables.$utility-prefix}content-center  { align-content: center }
+.#{variables.$utility-prefix}content-between { align-content: space-between }
+.#{variables.$utility-prefix}content-around  { align-content: space-around }
+.#{variables.$utility-prefix}content-stretch { align-content: stretch }
+
+.#{variables.$utility-prefix}flex-auto {
+  flex: 1 1 auto;
+  min-width: 0; /* 1 */
+  min-height: 0; /* 1 */
+}
+.#{variables.$utility-prefix}flex-none { flex: none }
+
+.#{variables.$utility-prefix}order-0 { order: 0 }
+.#{variables.$utility-prefix}order-1 { order: 1 }
+.#{variables.$utility-prefix}order-2 { order: 2 }
+.#{variables.$utility-prefix}order-3 { order: 3 }
+.#{variables.$utility-prefix}order-last { order: 99999 }
+
+.#{variables.$utility-prefix}flex-gap {
+    @each $size-name, $size in variables.$spacing-sizes {
+        &--#{$size-name} {
+            gap: #{$size};
+        }
+    }
+}

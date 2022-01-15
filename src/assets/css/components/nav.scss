@@ -1,0 +1,22 @@
+@forward "link";
+
+.c-nav {
+}
+
+.c-nav-list {
+    display: flex;
+    flex-flow: row wrap;
+    margin-left: -0.5rem;
+    margin-bottom: -0.5rem;
+
+    &_item {
+        margin-left: 0.5rem;
+        margin-bottom: 0.5rem;
+        &--active {
+            color: var(--color-accent);
+        }
+        &:hover {
+            color: var(--color-accent);
+        }
+    }
+}

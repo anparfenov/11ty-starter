@@ -1,0 +1,5 @@
+@use "variables";
+
+@function get-utility-size-prefix($size) {
+    @return "#{variables.$utility-prefix}#{$size}";
+}

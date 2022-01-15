@@ -1,0 +1,8 @@
+<h1>{{ tagsPage[locale].tags }}</h1>
+
+<div class="u-mt--16">
+{% for tag in collections.tagList | filterTagList %}
+  {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+  <a class="c-big-link" href="{{ tagUrl | url }}">{{ tag }}</a>
+{% endfor %}
+</div>

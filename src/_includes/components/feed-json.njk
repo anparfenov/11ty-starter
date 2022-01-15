@@ -1,0 +1,27 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "{{ metadata[locale].title }}",
+  "language": "{{ locale }}",
+  "home_page_url": "{{ metadata[locale].url }}",
+  "feed_url": "{{ metadata[locale].jsonfeed.url }}",
+  "description": "{{ metadata[locale].description }}",
+  "author": {
+    "name": "{{ metadata[locale].author.name }}",
+    "url": "{{ metadata[locale].author.url }}"
+  },
+  "items": [
+    {%- for post in collections.posts | reverse %}
+    {%- set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata[locale].url) }}{% endset -%}
+    {
+      "id": "{{ absolutePostUrl }}",
+      "url": "{{ absolutePostUrl }}",
+      "title": "{{ post.data.title }}",
+      "content_html": {% if post.templateContent %}{{ post.templateContent | dump | safe }}{% else %}""{% endif %},
+      "date_published": "{{ post.date | rssDate }}"
+    }
+    {%- if not loop.last -%}
+    ,
+    {%- endif -%}
+    {%- endfor %}
+  ]
+}

@@ -1,0 +1,22 @@
+{% for post in postslist %}
+    <li class="c-post-item">
+        <article class="l-post-grid">
+            <a href="{{ post.url | url }}" class="c-gradient-link l-post-grid_title">
+                <h3 class="c-post-item_title">{{ post.data.title }}</h3>
+            </a>
+            <p class="c-post-item_desc l-post-grid_desc">{{ post.data.description }}</p>
+            <time class="c-post-item_date l-post-grid_date" datetime="{{ post.date | htmlDateString }}">
+                {{ post.date | readableDate }}
+            </time>
+            {% if post.data.tags %}
+                <ul class="c-post-item_tags l-post-grid_tags">
+                    {% for tag in post.data.tags %}
+                    <li class="c-post-item_tag">
+                        <a href="/tags/{{ tag | slug }}/" class="c-simple-link">{{ tag }}</a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            {% endif %}
+        </article>
+    </li>
+{% endfor %}

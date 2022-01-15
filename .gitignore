@@ -1,0 +1,10 @@
+_site/
+_cache/
+node_modules/
+static/
+_data/css.json
+
+*.log
+csshash
+_data/csshash.json
+_data/year.json

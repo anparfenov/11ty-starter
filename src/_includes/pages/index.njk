@@ -1,0 +1,25 @@
+<div class="p-index">
+    <section class="p-index_hero">
+        <h1>
+            {{ main[locale].welcome }}
+        </h1>
+        <p>
+            {{ main[locale].siteDescription | safe }}
+        </p>
+    </section>
+    <section class="p-index_latest">
+        <h2 class="u-mb--16">
+            {% set maxPosts = collections.posts.length | min(3) %}
+            {{ main[locale].latest | capitalize }}
+            {% if maxPosts == 1 %}
+                {{ main[locale].post }}
+            {% else %}
+                {{ maxPosts }} {{ main[locale].posts }}
+            {% endif %}
+        </h2>
+        <ul class="c-posts-list">
+            {% set postslist = collections.posts | head(3) %}
+            {% include "components/blog-post-items.njk" %}
+        </ul>
+    </section>
+</div>

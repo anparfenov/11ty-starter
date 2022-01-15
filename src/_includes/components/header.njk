@@ -1,0 +1,26 @@
+<header class="c-header">
+    <a href="/">
+        <span class="c-logo">11ty-starter</span>
+    </a>
+    <nav role="navigation" class="c-nav">
+        {% set navPages = collections.all | eleventyNavigation %}
+        {% macro renderNavListItem(entry) -%}
+        <li class="c-nav-list_item{% if entry.url == page.url %} c-nav-list_item--active{% endif %}">
+            {% if entry.url == page.url %}
+                <span class="c-simple-link c-simple-link--active" href="{{ entry.url | url }}">{{ entry.title }}</span>
+            {% else %}
+                <a class="c-simple-link" href="{{ entry.url | url }}">{{ entry.title }}</a>
+            {% endif %}
+            {%- if entry.children.length -%}
+            <ul class="c-nav-list">
+            {%- for child in entry.children %}{{ renderNavListItem(child) }}{% endfor -%}
+            </ul>
+            {%- endif -%}
+        </li>
+        {%- endmacro %}
+
+        <ul class="c-nav-list">
+            {%- for entry in navPages %}{{ renderNavListItem(entry) }}{%- endfor -%}
+        </ul>
+    </nav>
+</header>

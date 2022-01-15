@@ -1,0 +1,71 @@
+@use "zoom-word";
+
+.c-routes {
+    list-style-type: none;
+    padding: 1rem 0;
+    border-top: 1px solid var(--color-gray-300);
+    border-bottom: 1px solid var(--color-gray-300);
+    &_link {
+        cursor: pointer;
+        color: transparent;
+        &:visited {
+            color: transparent;
+        }
+        &:focus {
+            color: hsla(0, 0%, 30%);
+        }
+    }
+    &_text {
+        position: relative;
+        display: flex;
+        font-size: 3rem;
+        &:hover {
+            .c-zoom-word_list {
+                visibility: visible;
+            }
+            .c-zoom-word_pointer {
+                visibility: visible;
+            }
+            .c-zoom-word_text:nth-of-type(1) {
+                color: hsla(0, 0%, 80%);
+                -webkit-text-stroke: 1px hsla(0, 0%, 80%);
+            }
+            .c-zoom-word_text:nth-of-type(2) {
+                transform: translate3d(4px, 2px, 0);
+                transition-delay: 0.5s;
+                color: hsla(0, 0%, 75%);
+                -webkit-text-stroke: 1px hsla(0, 0%, 75%);
+            }
+            .c-zoom-word_text:nth-of-type(3) {
+                transform: translate3d(6px, 3px, 0);
+                transition-delay: 0.4s;
+                color: hsla(0, 0%, 70%);
+                -webkit-text-stroke: 1px hsla(0, 0%, 70%);
+            }
+            .c-zoom-word_text:nth-of-type(4) {
+                transform: translate3d(8px, 4px, 0);
+                transition-delay: 0.3s;
+                color: hsla(0, 0%, 65%);
+                -webkit-text-stroke: 1px hsla(0, 0%, 65%);
+            }
+            .c-zoom-word_text:nth-of-type(5) {
+                transform: translate3d(10px, 5px, 0);
+                transition-delay: 0.2s;
+                color: hsla(0, 0%, 60%);
+                -webkit-text-stroke: 1px hsla(0, 0%, 60%);
+            }
+            .c-zoom-word_text:nth-of-type(6) {
+                transform: translate3d(12px, 6px, 0);
+                transition-delay: 0.1s;
+                color: hsla(0, 0%, 30%);
+                -webkit-text-stroke: 1px hsla(0, 0%, 30%);
+            }
+        }
+    }
+    &_name {
+        visibility: visible;
+        -webkit-text-stroke: 1px hsla(0, 0%, 30%);
+        font-size: 3rem;
+    }
+}
+

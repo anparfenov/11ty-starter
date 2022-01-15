@@ -1,0 +1,13 @@
+.c-education {
+    display: flex;
+    margin-top: 1rem;
+    &_image {
+        width: 14rem;
+        max-height: 14rem;
+    }
+    &_title {
+        &--sut {
+            color: #f79421;
+        }
+    }
+}

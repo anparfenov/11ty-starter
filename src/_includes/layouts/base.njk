@@ -1,0 +1,41 @@
+{% set currentUrl = page.url | replace('/', '') %}
+<!doctype html>
+<html lang="{{ locale }}">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        {% if currentUrl %}
+            <title>{{ title or metadata[locale][currentUrl].title }}</title>
+            <meta name="description" content="{{ description or metadata[locale][currentUrl].description }}">
+        {% else %}
+            <title>{{ title or metadata[locale].title }}</title>
+            <meta name="description" content="{{ description or metadata[locale].description }}">
+        {% endif %}
+
+        <link rel="icon" href="/static/ap_logo.o.svg" sizes="any" type="image/svg+xml">
+
+        {% if projEnv.eleventy === "production" %}
+            <link rel="preload" href="/assets/css/{{ csshash.indexCSS }}" as="style" />
+            <link rel="stylesheet" href="/assets/css/{{ csshash.indexCSS }}" type="text/css" />
+        {% else %}
+            <link rel="stylesheet" href="/assets/css/index.css" type="text/css" />
+        {% endif %}
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Playfair+Display:ital,wght@0,700;1,400&display=swap" rel="stylesheet">
+
+        <link rel="alternate" href="{{ metadata[locale].feed.path | url }}" type="application/atom+xml" title="{{ metadata[locale].title }}">
+        <link rel="alternate" href="{{ metadata[locale].jsonfeed.path | url }}" type="application/json" title="{{ metadata[locale].title }}">
+    </head>
+    <body class="s-common s-light-theme default-layout">
+        {% include "components/header.njk" %}
+
+        <main class="{% if templateClass %}{{ templateClass }}{% endif %}">
+            {{ content | safe }}
+        </main>
+
+        {% include "components/footer.njk" %}
+    </body>
+</html>

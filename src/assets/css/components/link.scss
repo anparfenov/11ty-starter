@@ -1,0 +1,54 @@
+.c-simple-link {
+    color: var(--color-text);
+    padding: 0.25rem;
+    border-radius: 0.25rem;
+    transition: background 0.2s;
+
+    &:hover {
+        background: var(--color-accent);
+    }
+
+    &:visited {
+        color: var(--color-text);
+
+        &:hover {
+            background: var(--color-accent);
+        }
+    }
+
+    &--active {
+        background: var(--color-accent);
+        color: var(--color-text);
+    }
+}
+
+.c-text-link {
+    transition: color 0.2s;
+    color: var(--color-accent);
+
+    &:hover {
+        color: var(--color-extra);
+    }
+
+    &:visited {
+        color: var(--color-accent);
+
+        &:hover {
+            color: var(--color-extra);
+        }
+    }
+}
+
+.c-gradient-link {
+    background: var(--main-gradient);
+    display: inline-block;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+    &:hover {
+        color: var(--color-main);
+        display: inline-block;
+        -webkit-background-clip: unset;
+        -webkit-text-fill-color: unset;
+    }
+}

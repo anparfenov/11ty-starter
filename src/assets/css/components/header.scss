@@ -1,0 +1,11 @@
+@use "../mixins";
+@forward "nav";
+@forward "logo";
+
+.c-header {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    padding: 1rem;
+    gap: 1rem;
+}

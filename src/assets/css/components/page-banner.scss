@@ -1,0 +1,11 @@
+.c-page-banner {
+    --border-radius: 0.25rem;
+
+    background: var(--gradient-header);
+    padding: min(1rem, 2vh);
+    border-radius: var(--border-radius);
+
+    &_para {
+        margin-top: 0.5rem;
+    }
+}
