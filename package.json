@@ -1,7 +1,7 @@
 {
-    "name": "my-site",
-    "version": "0.0.4",
-    "description": "My personal website",
+    "name": "11ty-starter",
+    "version": "0.0.1",
+    "description": "eleventy starter",
     "scripts": {
         "clean": "rm -rf _site",
         "hasher": "node csshash.js",
@@ -16,7 +16,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/moody-person/my-site"
+        "url": "https://github.com/moody-person/11ty-starter"
     },
     "author": {
         "name": "Andrey Parfenov",
@@ -24,7 +24,6 @@
         "url": "https://andreyparfenov.com"
     },
     "license": "MIT",
-    "homepage": "https://andreyparfenov.com",
     "devDependencies": {
         "@11ty/eleventy": "^1.0.0",
         "@11ty/eleventy-navigation": "^0.3.2",
