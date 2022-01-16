@@ -1,7 +1,12 @@
 .c-pagination {
     margin-top: 2rem;
-    background: var(--color-gray-100);
+    background: var(--color-gray-200);
     color: var(--color-text);
-    padding: 0.5rem 0.2rem;
+    padding: 0.5rem;
     border-radius: 0.25rem;
+    &_list {
+        display: flex;
+        justify-content: space-between;
+        gap: 1rem;
+    }
 }

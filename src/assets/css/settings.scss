@@ -39,17 +39,10 @@
 }
 
 .s-light-theme {
-    --color-main: hsla(0, 0%, 93%, 1);
+    --color-main: hsla(0, 0%, 96%, 1);
     --color-text: hsla(0, 0%, 0%, 1);
     --color-dark: hsla(0, 0%, 20%, 1);
     --color-bg: hsla(0, 0%, 66%, 1);
     --color-accent: hsl(180, 37%, 51%);
     --color-extra: hsl(315, 71%, 53%);
-}
-
-.s-dark-theme {
-    --color-main: hsla(0, 0%, 20%, 1);
-    --color-text: hsla(0, 0%, 93%, 1);
-    --color-bg: hsla(0, 0%, 66%, 1);
-    --color-accent: hsla(62, 100%, 50%, 1);
 }

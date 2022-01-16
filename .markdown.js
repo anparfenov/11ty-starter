@@ -8,7 +8,8 @@ const linkIcon = fs.readFileSync("./src/_includes/icons/link.svg");
 let markdownLibrary = markdownIt({
     html: true,
     breaks: true,
-    linkify: true
+    linkify: true,
+    typographer: true,
 }).use(markdownItAnchor, {
     permalink: true,
     permalinkClass: "direct-link",

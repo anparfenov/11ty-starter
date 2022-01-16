@@ -15,10 +15,16 @@
     min-width: calc(100% / 2 - 1rem);
     &_date {
         font-size: var(--text-sm);
+        color: var(--color-gray-900);
     }
     &_tags {
         display: flex;
         flex-flow: column wrap;
         gap: 0.25rem;
+    }
+    &_meta {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
     }
 }

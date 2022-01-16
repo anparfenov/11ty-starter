@@ -12,24 +12,27 @@
                 </a>
             </div>
             <p class="c-post-item_desc l-post-grid_desc">{{ post.data.description }}</p>
-            {% if locale == 'en' %}
-                <time class="c-post-item_date l-post-grid_date" datetime="{{ post.date | htmlDateString }}">
-                    {{ post.date | en_readableDate }}
-                </time>
-            {% else %}
-                <time class="c-post-item_date l-post-grid_date" datetime="{{ post.date | htmlDateString }}">
-                    {{ post.date | ru_readableDate }}
-                </time>
-            {% endif %}
-            {% if post.data.tags %}
-                <ul class="l-post-grid_tags c-post-item_tags">
-                    {% for tag in post.data.tags %}
-                        <li class="c-post-item_tag">
-                            <a href="/tags/{{ tag | slug }}/" class="c-underline-link">{{ tag }}</a>
-                        </li>
-                    {% endfor %}
-                </ul>
-            {% endif %}
+            <div class="l-post-grid_meta c-post-item_meta">
+                {% if locale == 'en' %}
+                    <time class="c-post-item_date" datetime="{{ post.date | htmlDateString }}">
+                        {{ post.date | en_readableDate }}
+                    </time>
+                {% else %}
+                    <time class="c-post-item_date" datetime="{{ post.date | htmlDateString }}">
+                        {{ post.date | ru_readableDate }}
+                    </time>
+                {% endif %}
+                {% if post.data.tags %}
+                    <span> | </span>
+                    <ul class="l-post-grid_tags">
+                        {% for tag in post.data.tags | filterTagList %}
+                            <li class="c-post-item_tag">
+                                <a href="/tags/{{ tag | slug }}/" class="c-underline-link">{{ tag }}</a>
+                            </li>
+                        {% endfor %}
+                    </ul>
+                {% endif %}
+            </div>
         </article>
     </li>
 {% endfor %}

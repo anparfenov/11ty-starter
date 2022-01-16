@@ -1,20 +1,18 @@
 .l-post-grid {
     display: grid;
-    grid-template-columns: 3fr 1fr;
     grid-template-areas:
-        "title ."
-        "desc tags"
-        "date tags";
+        "title"
+        "desc"
+        "meta";
     gap: 0.5rem;
 
     &--image {
-        grid-template-columns: 3fr 1fr;
         grid-template-rows: auto repeat(3, 1fr);
         grid-template-areas:
-            "image image"
-            "title ."
-            "date image"
-            "tags image";
+            "image"
+            "title"
+            "date"
+            "tags";
     }
 
     &_tags {
@@ -25,13 +23,10 @@
         grid-area: title;
     }
 
-    &_date {
-        grid-area: date;
+    &_meta {
+        grid-area: meta;
     }
 
-    &_desc {
-        grid-area: desc;
-    }
     &_image {
         grid-area: image;
     }

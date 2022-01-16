@@ -1,2 +1,31 @@
-@forward "../components/article";
 @forward "../components/content";
+@forward "../components/pagination";
+
+.p-article {
+    width: 100%;
+    max-width: var(--max-content-width);
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+
+    padding: 0 1rem;
+    background: var(--gradient-header);
+    border-radius: 0.25rem;
+    margin-bottom: 1rem;
+
+    &_hero {
+        border: 1px solid var(--color-text);
+        padding: 1rem;
+        border-radius: 0.5rem;
+    }
+
+    &_date {
+        font-size: var(--text-sm);
+        margin-right: 0.5rem;
+    }
+
+    &_tags {
+        display: flex;
+        gap: 0.5rem;
+    }
+}
