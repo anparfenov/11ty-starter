@@ -7,7 +7,7 @@
     flex-flow: row wrap;
     gap: 1rem;
 
-    &--archive {
+    &--archive, &--tags {
         margin-top: 1.5rem;
     }
 }

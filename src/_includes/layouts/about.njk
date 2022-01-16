@@ -1,0 +1,12 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-about
+---
+
+<div class="p-about">
+    <h1 class="p-about_title">{{ about[locale].title | capitalize }}</h1>
+
+    <div role="main" class="c-content">
+        {{ content | safe }}
+    </div>
+</div>

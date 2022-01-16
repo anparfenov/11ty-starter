@@ -1,5 +1,5 @@
 ---
-layout: layouts/home.njk
+layout: layouts/about.njk
 permalink: /about/
 eleventyNavigation:
     key: about
@@ -7,4 +7,4 @@ eleventyNavigation:
     order: 2
 ---
 
-{% extends "pages/about.njk" %}
+{% extends "pages/about.md" %}

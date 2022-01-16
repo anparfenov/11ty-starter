@@ -1,10 +1,14 @@
-<h1 class="">{{ tagsPage[locale].tag }} “{{ tag }}”</h1>
+<div class="p-tags">
+    <h1 class="">{{ tagsPage[locale].tag | capitalize }}: {{ tag }}</h1>
 
-{% set postslist = collections[ tag ] %}
-{% include "components/postslist.njk" %}
+    {% set postslist = collections[ tag ] %}
+    <ul class="c-posts-list c-posts-list--tags">
+        {% include "components/blog-post-items.njk" %}
+    </ul>
 
-<p class="u-mt--16">{{ tagsPage[locale].see }}
-    <a class="c-blue-link" href="{{ '/tags/' | url }}">
-        {{ tagsPage[locale].allTags }}
-    </a>
-</p>
+    <p class="u-mt--16">{{ tagsPage[locale].see }}
+        <a class="c-blue-link" href="{{ '/tags/' | url }}">
+            {{ tagsPage[locale].allTags }}
+        </a>
+    </p>
+</div>
