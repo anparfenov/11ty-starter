@@ -16,8 +16,9 @@
         <link rel="icon" href="/static/ap_logo.o.svg" sizes="any" type="image/svg+xml">
 
         {% if projEnv.eleventy === "production" %}
-            <link rel="preload" href="/assets/css/{{ csshash.indexCSS }}" as="style" />
-            <link rel="stylesheet" href="/assets/css/{{ csshash.indexCSS }}" type="text/css" />
+            {% set link = "/assets/css/" + csshash.indexCSS %}
+            <link rel="preload" href="{{ link | url }}" as="style" />
+            <link rel="stylesheet" href="{{ link  | url }}" type="text/css" />
         {% else %}
             <link rel="stylesheet" href="/assets/css/index.css" type="text/css" />
         {% endif %}
