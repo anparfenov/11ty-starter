@@ -3,7 +3,7 @@
 	<title>Eleventy starter</title>
 	<subtitle>TODO</subtitle>
 	
-	<link href="https://example.com/feed/en.feed.xml" rel="self"/>
+	<link href="https://example.com/11ty-starter/feed/en.feed.xml" rel="self"/>
 	<link href="https://example.com"/>
 	<updated>2022-01-05T00:00:00Z</updated>
 	<id>TODO</id>
@@ -14,10 +14,10 @@
 	
 	<entry>
 		<title>This is my fifth post.</title>
-		<link href="https://example.com/posts/en/fifth/"/>
+		<link href="https://example.com/11ty-starter/posts/en/fifth/"/>
 		<updated>2022-01-05T00:00:00Z</updated>
-		<id>https://example.com/posts/en/fifth/</id>
-		<content type="html">&lt;h1 id=&quot;hello&quot; tabindex=&quot;-1&quot;&gt;Hello &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/posts/en/fifth/#hello&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
+		<id>https://example.com/11ty-starter/posts/en/fifth/</id>
+		<content type="html">&lt;h1 id=&quot;hello&quot; tabindex=&quot;-1&quot;&gt;Hello &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/11ty-starter/posts/en/fifth/#hello&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
   &lt;path stroke=&quot;none&quot; d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&quot;&gt;&lt;/path&gt;
@@ -52,10 +52,10 @@
 	
 	<entry>
 		<title>This is my fourth post.</title>
-		<link href="https://example.com/posts/en/fourth/"/>
+		<link href="https://example.com/11ty-starter/posts/en/fourth/"/>
 		<updated>2022-01-04T00:00:00Z</updated>
-		<id>https://example.com/posts/en/fourth/</id>
-		<content type="html">&lt;h1 id=&quot;hello&quot; tabindex=&quot;-1&quot;&gt;Hello &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/posts/en/fourth/#hello&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
+		<id>https://example.com/11ty-starter/posts/en/fourth/</id>
+		<content type="html">&lt;h1 id=&quot;hello&quot; tabindex=&quot;-1&quot;&gt;Hello &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/11ty-starter/posts/en/fourth/#hello&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
   &lt;path stroke=&quot;none&quot; d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&quot;&gt;&lt;/path&gt;
@@ -73,10 +73,10 @@
 	
 	<entry>
 		<title>This is my third post.</title>
-		<link href="https://example.com/posts/en/third/"/>
+		<link href="https://example.com/11ty-starter/posts/en/third/"/>
 		<updated>2022-01-03T00:00:00Z</updated>
-		<id>https://example.com/posts/en/third/</id>
-		<content type="html">&lt;h1 id=&quot;hello&quot; tabindex=&quot;-1&quot;&gt;Hello &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/posts/en/third/#hello&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
+		<id>https://example.com/11ty-starter/posts/en/third/</id>
+		<content type="html">&lt;h1 id=&quot;hello&quot; tabindex=&quot;-1&quot;&gt;Hello &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/11ty-starter/posts/en/third/#hello&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
   &lt;path stroke=&quot;none&quot; d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&quot;&gt;&lt;/path&gt;
@@ -91,10 +91,10 @@
 	
 	<entry>
 		<title>This is my second post.</title>
-		<link href="https://example.com/posts/en/second/"/>
+		<link href="https://example.com/11ty-starter/posts/en/second/"/>
 		<updated>2022-01-02T00:00:00Z</updated>
-		<id>https://example.com/posts/en/second/</id>
-		<content type="html">&lt;h1 id=&quot;hello&quot; tabindex=&quot;-1&quot;&gt;Hello &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/posts/en/second/#hello&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
+		<id>https://example.com/11ty-starter/posts/en/second/</id>
+		<content type="html">&lt;h1 id=&quot;hello&quot; tabindex=&quot;-1&quot;&gt;Hello &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/11ty-starter/posts/en/second/#hello&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
   &lt;path stroke=&quot;none&quot; d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&quot;&gt;&lt;/path&gt;
@@ -108,13 +108,13 @@
 	
 	<entry>
 		<title>Markdown demo</title>
-		<link href="https://example.com/posts/en/first/"/>
+		<link href="https://example.com/11ty-starter/posts/en/first/"/>
 		<updated>2022-01-01T00:00:00Z</updated>
-		<id>https://example.com/posts/en/first/</id>
+		<id>https://example.com/11ty-starter/posts/en/first/</id>
 		<content type="html">&lt;hr /&gt;
 &lt;p&gt;Check out &lt;a href=&quot;https://markdown-it.github.io/&quot;&gt;markdown-it demo&lt;/a&gt;.&lt;/p&gt;
 &lt;hr /&gt;
-&lt;h1 id=&quot;h1-heading&quot; tabindex=&quot;-1&quot;&gt;h1 Heading &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/posts/en/first/#h1-heading&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
+&lt;h1 id=&quot;h1-heading&quot; tabindex=&quot;-1&quot;&gt;h1 Heading &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/11ty-starter/posts/en/first/#h1-heading&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
   &lt;path stroke=&quot;none&quot; d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&quot;&gt;&lt;/path&gt;
@@ -122,7 +122,7 @@
 
 
 &lt;/a&gt;&lt;/h1&gt;
-&lt;h2 id=&quot;h2-heading&quot; tabindex=&quot;-1&quot;&gt;h2 Heading &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/posts/en/first/#h2-heading&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
+&lt;h2 id=&quot;h2-heading&quot; tabindex=&quot;-1&quot;&gt;h2 Heading &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/11ty-starter/posts/en/first/#h2-heading&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
   &lt;path stroke=&quot;none&quot; d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&quot;&gt;&lt;/path&gt;
@@ -130,7 +130,7 @@
 
 
 &lt;/a&gt;&lt;/h2&gt;
-&lt;h3 id=&quot;h3-heading&quot; tabindex=&quot;-1&quot;&gt;h3 Heading &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/posts/en/first/#h3-heading&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
+&lt;h3 id=&quot;h3-heading&quot; tabindex=&quot;-1&quot;&gt;h3 Heading &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/11ty-starter/posts/en/first/#h3-heading&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
   &lt;path stroke=&quot;none&quot; d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&quot;&gt;&lt;/path&gt;
@@ -138,7 +138,7 @@
 
 
 &lt;/a&gt;&lt;/h3&gt;
-&lt;h4 id=&quot;h4-heading&quot; tabindex=&quot;-1&quot;&gt;h4 Heading &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/posts/en/first/#h4-heading&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
+&lt;h4 id=&quot;h4-heading&quot; tabindex=&quot;-1&quot;&gt;h4 Heading &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/11ty-starter/posts/en/first/#h4-heading&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
   &lt;path stroke=&quot;none&quot; d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&quot;&gt;&lt;/path&gt;
@@ -146,7 +146,7 @@
 
 
 &lt;/a&gt;&lt;/h4&gt;
-&lt;h5 id=&quot;h5-heading&quot; tabindex=&quot;-1&quot;&gt;h5 Heading &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/posts/en/first/#h5-heading&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
+&lt;h5 id=&quot;h5-heading&quot; tabindex=&quot;-1&quot;&gt;h5 Heading &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/11ty-starter/posts/en/first/#h5-heading&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
   &lt;path stroke=&quot;none&quot; d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&quot;&gt;&lt;/path&gt;
@@ -154,7 +154,7 @@
 
 
 &lt;/a&gt;&lt;/h5&gt;
-&lt;h6 id=&quot;h6-heading&quot; tabindex=&quot;-1&quot;&gt;h6 Heading &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/posts/en/first/#h6-heading&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
+&lt;h6 id=&quot;h6-heading&quot; tabindex=&quot;-1&quot;&gt;h6 Heading &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/11ty-starter/posts/en/first/#h6-heading&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
   &lt;path stroke=&quot;none&quot; d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&quot;&gt;&lt;/path&gt;
@@ -162,7 +162,7 @@
 
 
 &lt;/a&gt;&lt;/h6&gt;
-&lt;h2 id=&quot;horizontal-rules&quot; tabindex=&quot;-1&quot;&gt;Horizontal Rules &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/posts/en/first/#horizontal-rules&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
+&lt;h2 id=&quot;horizontal-rules&quot; tabindex=&quot;-1&quot;&gt;Horizontal Rules &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/11ty-starter/posts/en/first/#horizontal-rules&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
   &lt;path stroke=&quot;none&quot; d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&quot;&gt;&lt;/path&gt;
@@ -173,7 +173,7 @@
 &lt;hr /&gt;
 &lt;hr /&gt;
 &lt;hr /&gt;
-&lt;h2 id=&quot;typographic-replacements&quot; tabindex=&quot;-1&quot;&gt;Typographic replacements &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/posts/en/first/#typographic-replacements&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
+&lt;h2 id=&quot;typographic-replacements&quot; tabindex=&quot;-1&quot;&gt;Typographic replacements &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/11ty-starter/posts/en/first/#typographic-replacements&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
   &lt;path stroke=&quot;none&quot; d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&quot;&gt;&lt;/path&gt;
@@ -186,7 +186,7 @@
 &lt;p&gt;test… test… test… test?.. test!..&lt;/p&gt;
 &lt;p&gt;!!! ??? ,  – —&lt;/p&gt;
 &lt;p&gt;“Smartypants, double quotes” and ‘single quotes’&lt;/p&gt;
-&lt;h2 id=&quot;emphasis&quot; tabindex=&quot;-1&quot;&gt;Emphasis &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/posts/en/first/#emphasis&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
+&lt;h2 id=&quot;emphasis&quot; tabindex=&quot;-1&quot;&gt;Emphasis &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/11ty-starter/posts/en/first/#emphasis&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
   &lt;path stroke=&quot;none&quot; d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&quot;&gt;&lt;/path&gt;
@@ -199,7 +199,7 @@
 &lt;p&gt;&lt;em&gt;This is italic text&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;This is italic text&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;s&gt;Strikethrough&lt;/s&gt;&lt;/p&gt;
-&lt;h2 id=&quot;blockquotes&quot; tabindex=&quot;-1&quot;&gt;Blockquotes &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/posts/en/first/#blockquotes&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
+&lt;h2 id=&quot;blockquotes&quot; tabindex=&quot;-1&quot;&gt;Blockquotes &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/11ty-starter/posts/en/first/#blockquotes&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
   &lt;path stroke=&quot;none&quot; d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&quot;&gt;&lt;/path&gt;
@@ -216,7 +216,7 @@
 &lt;/blockquote&gt;
 &lt;/blockquote&gt;
 &lt;/blockquote&gt;
-&lt;h2 id=&quot;lists&quot; tabindex=&quot;-1&quot;&gt;Lists &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/posts/en/first/#lists&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
+&lt;h2 id=&quot;lists&quot; tabindex=&quot;-1&quot;&gt;Lists &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/11ty-starter/posts/en/first/#lists&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
   &lt;path stroke=&quot;none&quot; d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&quot;&gt;&lt;/path&gt;
@@ -267,7 +267,7 @@
 &lt;li&gt;foo&lt;/li&gt;
 &lt;li&gt;bar&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&quot;code&quot; tabindex=&quot;-1&quot;&gt;Code &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/posts/en/first/#code&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
+&lt;h2 id=&quot;code&quot; tabindex=&quot;-1&quot;&gt;Code &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/11ty-starter/posts/en/first/#code&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
   &lt;path stroke=&quot;none&quot; d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&quot;&gt;&lt;/path&gt;
@@ -287,7 +287,7 @@ line 3 of code
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Syntax highlighting&lt;/p&gt;
 &lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;token function-variable function&quot;&gt;foo&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;bar&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;br /&gt;  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; bar&lt;span class=&quot;token operator&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;foo&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&quot;tables&quot; tabindex=&quot;-1&quot;&gt;Tables &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/posts/en/first/#tables&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
+&lt;h2 id=&quot;tables&quot; tabindex=&quot;-1&quot;&gt;Tables &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/11ty-starter/posts/en/first/#tables&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
   &lt;path stroke=&quot;none&quot; d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&quot;&gt;&lt;/path&gt;
@@ -340,7 +340,7 @@ line 3 of code
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h2 id=&quot;links&quot; tabindex=&quot;-1&quot;&gt;Links &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/posts/en/first/#links&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
+&lt;h2 id=&quot;links&quot; tabindex=&quot;-1&quot;&gt;Links &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/11ty-starter/posts/en/first/#links&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
   &lt;path stroke=&quot;none&quot; d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&quot;&gt;&lt;/path&gt;
@@ -351,7 +351,7 @@ line 3 of code
 &lt;p&gt;&lt;a href=&quot;http://dev.nodeca.com/&quot;&gt;link text&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://nodeca.github.io/pica/demo/&quot; title=&quot;title text!&quot;&gt;link with title&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Autoconverted link &lt;a href=&quot;https://github.com/nodeca/pica&quot;&gt;https://github.com/nodeca/pica&lt;/a&gt; (enable linkify to see)&lt;/p&gt;
-&lt;h2 id=&quot;images&quot; tabindex=&quot;-1&quot;&gt;Images &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/posts/en/first/#images&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
+&lt;h2 id=&quot;images&quot; tabindex=&quot;-1&quot;&gt;Images &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/11ty-starter/posts/en/first/#images&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
   &lt;path stroke=&quot;none&quot; d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&quot;&gt;&lt;/path&gt;
@@ -364,7 +364,7 @@ line 3 of code
 &lt;p&gt;Like links, Images also have a footnote style syntax&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://octodex.github.com/images/dojocat.jpg&quot; alt=&quot;Alt text&quot; title=&quot;The Dojocat&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;With a reference later in the document defining the URL location:&lt;/p&gt;
-&lt;h2 id=&quot;plugins&quot; tabindex=&quot;-1&quot;&gt;Plugins &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/posts/en/first/#plugins&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
+&lt;h2 id=&quot;plugins&quot; tabindex=&quot;-1&quot;&gt;Plugins &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/11ty-starter/posts/en/first/#plugins&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
   &lt;path stroke=&quot;none&quot; d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&quot;&gt;&lt;/path&gt;
@@ -374,7 +374,7 @@ line 3 of code
 &lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;The killer feature of &lt;code&gt;markdown-it&lt;/code&gt; is very effective support of&lt;br /&gt;
 &lt;a href=&quot;https://www.npmjs.org/browse/keyword/markdown-it-plugin&quot;&gt;syntax plugins&lt;/a&gt;.&lt;/p&gt;
-&lt;h3 id=&quot;emojies&quot; tabindex=&quot;-1&quot;&gt;&lt;a href=&quot;https://github.com/markdown-it/markdown-it-emoji&quot;&gt;Emojies&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/posts/en/first/#emojies&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
+&lt;h3 id=&quot;emojies&quot; tabindex=&quot;-1&quot;&gt;&lt;a href=&quot;https://github.com/markdown-it/markdown-it-emoji&quot;&gt;Emojies&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/11ty-starter/posts/en/first/#emojies&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
   &lt;path stroke=&quot;none&quot; d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&quot;&gt;&lt;/path&gt;
@@ -387,7 +387,7 @@ line 3 of code
 &lt;p&gt;Shortcuts (emoticons): :-) :-( 8-) ;)&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;see &lt;a href=&quot;https://github.com/markdown-it/markdown-it-emoji#change-output&quot;&gt;how to change output&lt;/a&gt; with twemoji.&lt;/p&gt;
-&lt;h3 id=&quot;subscript-%2F-superscript&quot; tabindex=&quot;-1&quot;&gt;&lt;a href=&quot;https://github.com/markdown-it/markdown-it-sub&quot;&gt;Subscript&lt;/a&gt; / &lt;a href=&quot;https://github.com/markdown-it/markdown-it-sup&quot;&gt;Superscript&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/posts/en/first/#subscript-%2F-superscript&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
+&lt;h3 id=&quot;subscript-%2F-superscript&quot; tabindex=&quot;-1&quot;&gt;&lt;a href=&quot;https://github.com/markdown-it/markdown-it-sub&quot;&gt;Subscript&lt;/a&gt; / &lt;a href=&quot;https://github.com/markdown-it/markdown-it-sup&quot;&gt;Superscript&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/11ty-starter/posts/en/first/#subscript-%2F-superscript&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
   &lt;path stroke=&quot;none&quot; d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&quot;&gt;&lt;/path&gt;
@@ -399,7 +399,7 @@ line 3 of code
 &lt;li&gt;19^th^&lt;/li&gt;
 &lt;li&gt;H~2~O&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&quot;%3Cins%3E&quot; tabindex=&quot;-1&quot;&gt;&lt;a href=&quot;https://github.com/markdown-it/markdown-it-ins&quot;&gt;&amp;lt;ins&amp;gt;&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/posts/en/first/#%3Cins%3E&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
+&lt;h3 id=&quot;%3Cins%3E&quot; tabindex=&quot;-1&quot;&gt;&lt;a href=&quot;https://github.com/markdown-it/markdown-it-ins&quot;&gt;&amp;lt;ins&amp;gt;&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/11ty-starter/posts/en/first/#%3Cins%3E&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
   &lt;path stroke=&quot;none&quot; d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&quot;&gt;&lt;/path&gt;
@@ -408,7 +408,7 @@ line 3 of code
 
 &lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;++Inserted text++&lt;/p&gt;
-&lt;h3 id=&quot;%3Cmark%3E&quot; tabindex=&quot;-1&quot;&gt;&lt;a href=&quot;https://github.com/markdown-it/markdown-it-mark&quot;&gt;&amp;lt;mark&amp;gt;&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/posts/en/first/#%3Cmark%3E&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
+&lt;h3 id=&quot;%3Cmark%3E&quot; tabindex=&quot;-1&quot;&gt;&lt;a href=&quot;https://github.com/markdown-it/markdown-it-mark&quot;&gt;&amp;lt;mark&amp;gt;&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/11ty-starter/posts/en/first/#%3Cmark%3E&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
   &lt;path stroke=&quot;none&quot; d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&quot;&gt;&lt;/path&gt;
@@ -417,7 +417,7 @@ line 3 of code
 
 &lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;==Marked text==&lt;/p&gt;
-&lt;h3 id=&quot;footnotes&quot; tabindex=&quot;-1&quot;&gt;&lt;a href=&quot;https://github.com/markdown-it/markdown-it-footnote&quot;&gt;Footnotes&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/posts/en/first/#footnotes&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
+&lt;h3 id=&quot;footnotes&quot; tabindex=&quot;-1&quot;&gt;&lt;a href=&quot;https://github.com/markdown-it/markdown-it-footnote&quot;&gt;Footnotes&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/11ty-starter/posts/en/first/#footnotes&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
   &lt;path stroke=&quot;none&quot; d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&quot;&gt;&lt;/path&gt;
@@ -433,7 +433,7 @@ line 3 of code
 &lt;pre&gt;&lt;code&gt;and multiple paragraphs.
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;[^second]: Footnote text.&lt;/p&gt;
-&lt;h3 id=&quot;definition-lists&quot; tabindex=&quot;-1&quot;&gt;&lt;a href=&quot;https://github.com/markdown-it/markdown-it-deflist&quot;&gt;Definition lists&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/posts/en/first/#definition-lists&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
+&lt;h3 id=&quot;definition-lists&quot; tabindex=&quot;-1&quot;&gt;&lt;a href=&quot;https://github.com/markdown-it/markdown-it-deflist&quot;&gt;Definition lists&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/11ty-starter/posts/en/first/#definition-lists&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
   &lt;path stroke=&quot;none&quot; d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&quot;&gt;&lt;/path&gt;
@@ -456,7 +456,7 @@ Third paragraph of definition 2.
 &lt;p&gt;Term 2&lt;br /&gt;
 ~ Definition 2a&lt;br /&gt;
 ~ Definition 2b&lt;/p&gt;
-&lt;h3 id=&quot;abbreviations&quot; tabindex=&quot;-1&quot;&gt;&lt;a href=&quot;https://github.com/markdown-it/markdown-it-abbr&quot;&gt;Abbreviations&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/posts/en/first/#abbreviations&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
+&lt;h3 id=&quot;abbreviations&quot; tabindex=&quot;-1&quot;&gt;&lt;a href=&quot;https://github.com/markdown-it/markdown-it-abbr&quot;&gt;Abbreviations&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/11ty-starter/posts/en/first/#abbreviations&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
   &lt;path stroke=&quot;none&quot; d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&quot;&gt;&lt;/path&gt;
@@ -467,7 +467,7 @@ Third paragraph of definition 2.
 &lt;p&gt;This is HTML abbreviation example.&lt;/p&gt;
 &lt;p&gt;It converts “HTML”, but keep intact partial entries like “xxxHTMLyyy” and so on.&lt;/p&gt;
 &lt;p&gt;*[HTML]: Hyper Text Markup Language&lt;/p&gt;
-&lt;h3 id=&quot;custom-containers&quot; tabindex=&quot;-1&quot;&gt;&lt;a href=&quot;https://github.com/markdown-it/markdown-it-container&quot;&gt;Custom containers&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/posts/en/first/#custom-containers&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
+&lt;h3 id=&quot;custom-containers&quot; tabindex=&quot;-1&quot;&gt;&lt;a href=&quot;https://github.com/markdown-it/markdown-it-container&quot;&gt;Custom containers&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://example.com/11ty-starter/posts/en/first/#custom-containers&quot;&gt;&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; class=&quot;icon icon-tabler icon-tabler-link&quot; width=&quot;24&quot; height=&quot;24&quot; viewBox=&quot;0 0 24 24&quot; stroke-width=&quot;2&quot; stroke=&quot;currentColor&quot; fill=&quot;none&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;&gt;
   &lt;path stroke=&quot;none&quot; d=&quot;M0 0h24v24H0z&quot; fill=&quot;none&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5&quot;&gt;&lt;/path&gt;
   &lt;path d=&quot;M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5&quot;&gt;&lt;/path&gt;
