@@ -13,7 +13,12 @@
             <meta name="description" content="{{ description or metadata[locale].description }}">
         {% endif %}
 
-        <link rel="icon" href="/static/ap_logo.o.svg" sizes="any" type="image/svg+xml">
+        {% set appleTouchIcon = "/static/apple-touch-icon.png" | url %}
+        {% set favicon32 = "/static/favicon-32x32.png" | url %}
+        {% set favicon16 = "/static/favicon-16x16.png" | url %}
+        <link rel="apple-touch-icon" sizes="180x180" href="{{ appleTouchIcon }}">
+        <link rel="icon" type="image/png" sizes="32x32" href="{{ favicon32 }}">
+        <link rel="icon" type="image/png" sizes="16x16" href="{{ favicon16 }}">
 
         {% if projEnv.eleventy === "production" %}
             {% set link = "/assets/css/" + csshash.indexCSS %}
@@ -39,10 +44,6 @@
 
         {% include "components/footer.njk" %}
 
-        {% if projEnv.eleventy === "production" %}
-            <script type="module" src="{{ '/assets/js/bundle.js' | url }}"></script>
-        {% else %}
-            <script type="module" src="/assets/js/bundle.js"></script>
-        {% endif %}
+        <script type="module" src="{{ '/assets/js/bundle.js' | url }}"></script>
     </body>
 </html>

@@ -1,7 +1,6 @@
 _site/
 _cache/
 node_modules/
-static/
 _data/css.json
 
 *.log
