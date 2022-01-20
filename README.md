@@ -22,7 +22,7 @@ src/en - put your pages here. For other language create directory named {lang}.j
 
 ``` json
 {
-    "locale": {lang}
+    "locale": "lang"
 }
 ```
 
@@ -62,11 +62,13 @@ _data - data files with translations for each page, metadata and other stuff.
 
 ## Deploy
 
-For `github pages` edit `build:eleventy:pathPrefix` in package.json.
+### Github pages
+
+Edit `build:eleventy:pathPrefix` in package.json.
 
 change path prefix option `--pathprefix=your-repo-name`
 
-*Caddy*
+### Caddy
 
 ``` nginx
 domainname.com {
