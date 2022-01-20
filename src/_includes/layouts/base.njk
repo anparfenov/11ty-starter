@@ -38,5 +38,11 @@
         </main>
 
         {% include "components/footer.njk" %}
+
+        {% if projEnv.eleventy === "production" %}
+            <script type="module" src="{{ '/assets/js/bundle.js' | url }}"></script>
+        {% else %}
+            <script type="module" src="/assets/js/bundle.js"></script>
+        {% endif %}
     </body>
 </html>

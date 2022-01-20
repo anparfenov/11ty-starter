@@ -6,14 +6,16 @@
         "clean": "rm -rf _site",
         "hasher": "node csshash.js",
         "cssmin": "node cssmin.js",
-        "build": "npm-run-all clean hasher -p build:eleventy build:sass",
-        "build:github": "npm-run-all clean hasher -p build:eleventy:pathPrefix build:sass",
+        "build": "npm-run-all clean hasher -p build:eleventy build:sass build:rollup",
+        "build:github": "npm-run-all clean hasher -p build:eleventy:pathPrefix build:sass build:rollup",
         "build:eleventy": "ELEVENTY_ENV=production eleventy",
         "build:eleventy:pathPrefix": "ELEVENTY_ENV=production eleventy --pathprefix=11ty-starter",
         "build:sass": "sass src/assets/css/index.scss _site/assets/css/index.css && npm run cssmin",
+        "build:rollup": "NODE_ENV=production rollup -c",
         "dev": "npm-run-all clean hasher -p dev:*",
         "dev:sass": "sass --watch src/assets/css/index.scss _site/assets/css/index.css",
         "dev:eleventy": "ELEVENTY_ENV=development eleventy --serve --port=3000",
+        "dev:rollup": "rollup -c -w",
         "debug": "DEBUG=* eleventy"
     },
     "repository": {
@@ -43,5 +45,8 @@
         "rollup": "^2.63.0",
         "rollup-plugin-terser": "^7.0.2",
         "sass": "^1.46.0"
+    },
+    "dependencies": {
+        "animejs": "^3.2.1"
     }
 }

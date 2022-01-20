@@ -1,0 +1,15 @@
+.c-animation {
+    width: 100%;
+    flex:1;
+    display: flex;
+
+    &_block {
+        width: 1rem;
+        height: 1rem;
+        background: black;
+        border-radius: 0.25rem;
+    }
+    &_text {
+        font-size: var(--text-xs);
+    }
+}

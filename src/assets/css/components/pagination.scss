@@ -6,6 +6,7 @@
     border-radius: 0.25rem;
     &_list {
         display: flex;
+        flex-direction: row-reverse;
         justify-content: space-between;
         gap: 1rem;
     }
