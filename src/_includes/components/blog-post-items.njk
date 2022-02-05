@@ -27,7 +27,8 @@
                     <ul class="l-post-grid_tags">
                         {% for tag in post.data.tags | filterTagList %}
                             <li class="c-post-item_tag">
-                                <a href="/tags/{{ tag | slug }}/" class="c-underline-link">{{ tag }}</a>
+                                {% set tagurl = "/tags/" + tag | slugify  %}
+                                <a href="{{ tagurl | url  }}/" class="c-underline-link">{{ tag }}</a>
                             </li>
                         {% endfor %}
                     </ul>

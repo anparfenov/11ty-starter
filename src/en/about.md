@@ -7,4 +7,4 @@ eleventyNavigation:
     order: 2
 ---
 
-{% extends "pages/about.md" %}
+TODO: write about yourself.

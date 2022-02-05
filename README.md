@@ -54,7 +54,7 @@ src/assets/css
 - `settings.scss` - css variables.
 - `variables.scss` - sass variables.
 
-src/assets/js - example index.js file. You can remove it, if you don't need js. Don't forget to remove `animejs`, `rollup`, `rollup-plugin-terser` and `@rollup/plugin-node-resolve` dependencies. Also remove `css/components/animation.scss`, `.c-animation` component in _includes/components/header.njk and `<script>` tag from `_includes/layouts/base.njk`
+src/assets/js - example index.js file. You can remove it, if you don't need js. Don't forget to remove `rollup`, `rollup-plugin-terser` and `@rollup/plugin-node-resolve` dependencies. Also remove `<script>` tag from `_includes/layouts/base.njk`
 
 static - static files are copied directly to `/_site`.
 
