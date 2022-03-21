@@ -35,7 +35,7 @@
         <link rel="alternate" href="{{ metadata[locale].feed.path | url }}" type="application/atom+xml" title="{{ metadata[locale].title }}">
         <link rel="alternate" href="{{ metadata[locale].jsonfeed.path | url }}" type="application/json" title="{{ metadata[locale].title }}">
     </head>
-    <body class="s-common s-light-theme default-layout">
+    <body class="s-common s-light-theme default-layout wrapper">
         {% include "components/header.njk" %}
 
         <main class="{% if templateClass %}{{ templateClass }}{% endif %}">

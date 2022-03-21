@@ -6,15 +6,46 @@
     margin: 0 auto;
 
     &_hero {
-        font-family: var(--monospace);
-        padding: 1rem;
-        background: var(--color-dark);
-        color: var(--color-main);
 
-        @include mixins.media('tablet') {
-            border-radius: 0.5rem;
-            box-shadow: 2px 2px 5px var(--color-gray-500);
+      font-family: var(--monospace);
+      padding: 1rem;
+
+      p {
+        margin: 1em;
+      }
+    }
+
+    &_links {
+
+      font-family: var(--monospace);
+      padding: 1rem;
+
+      p {
+        margin: 1em;
+      }
+
+      &_link-container {
+        margin-top: 1em;
+        margin-bottom: 1em;
+        padding: 0;
+      }
+
+      &_link {
+        a {
+        display: block;
+        margin-top: 1em;
+        border: 1px solid lightblue;
+        padding: 1em;
+        border-radius: 0.3em;
         }
+
+        a:hover {
+          display: block;
+          background-color: lightblue;
+        }
+      }
+
+
     }
 
     &_latest {

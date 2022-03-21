@@ -1,13 +1,34 @@
 <div class="p-index">
+
     <section class="p-index_hero">
         <h1>
-            {{ main[locale].welcome }}
+            &lt;Hackerspace/&gt; PESUECC
         </h1>
         <p>
             {{ main[locale].siteDescription | safe }}
         </p>
     </section>
+
+    <section class="p-index_links">
+        <h2>
+            Links
+        </h2>
+        <ul class="p-index_links_link-container">
+          {% set links = main[locale].links%}
+          {% for link in links %}
+            <li> 
+              <section class="p-index_links_link"/>
+                <a href={{link.link | safe}} class="c-gradient-link">  {{link.text}}  </a>
+              </section>
+            </li>
+          {% endfor %}
+        </ul>
+
+    </section>
+
+    {% if main[locale].showPosts %}
     <section class="p-index_latest">
+
         <h2 class="u-mb--16">
             {% set maxPosts = collections.posts.length | min(3) %}
             {{ main[locale].latest | capitalize }}
@@ -17,9 +38,19 @@
                 {{ maxPosts }} {{ main[locale].posts }}
             {% endif %}
         </h2>
+
         <ul class="c-posts-list">
             {% set postslist = collections.posts | head(3) %}
             {% include "components/blog-post-items.njk" %}
         </ul>
+
     </section>
+    {% else %}
+    <section class="p-index_links">
+        <h2>
+            Website Under Construction 🚧 Come back soon!
+        </h2>
+    {% endif %}
+
+
 </div>

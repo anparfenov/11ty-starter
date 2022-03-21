@@ -33,6 +33,9 @@ body {
 h1 {
     font-size: var(--text-xxl);
     font-weight: 900;
+
+    text-decoration: underline;
+    text-decoration-color: lightblue;
 }
 h2 {
     font-size: var(--text-xl);
@@ -122,4 +125,8 @@ table th {
 
 time {
     font-family: var(--monospace);
+}
+
+.wrapper {
+  margin: 1em;
 }

@@ -1,5 +1,5 @@
 const url = process.env.URL ?? "https://example.com";
-const title = "Eleventy starter";
+const title = "HackerSpace PESUECC";
 
 module.exports = {
     en: {

@@ -1,12 +1,30 @@
 module.exports = {
-    en: {
-        welcome: "Welcome",
-        siteDescription: `<p>This is starter for <a class="c-text-link" href="https://www.11ty.dev/">eleventy ssg</a>.</p>
-                            <p>It's built with nunjuks and sass also it has rollup config for your js</p>
-<p>For site serving you can use <a class="c-text-link" href="https://caddyserver.com/">caddy</a>, <a class="c-text-link" href="https://nginx.org">nginx</a>
- or use <a class="c-text-link" href="https://vercel.com/">vercel</a> or <a class="c-text-link" href="https://www.netlify.com/">netlify</a></p>`,
-        latest: 'latest',
-        post: 'post',
-        posts: 'posts',
-    }
+  en: {
+    welcome: "Welcome",
+    siteDescription: `
+      <p> HackerSpace PESUECC Is a Student-Run Developer Community located at PES University, Electronic City Campus.</p>
+`,
+    latest: 'latest',
+    showPosts: false,
+    post: 'post',
+    posts: 'posts',
+    links: [
+      {
+        "text": 'HackerSpace Discord',
+        "link": 'https://www.google.com',
+      },
+      {
+        "text": 'Instagram',
+        "link": 'https://www.google.com',
+      },
+      {
+        "text": 'Youtube',
+        "link": 'https://www.google.com',
+      },
+      {
+        "text": 'Something Secret!',
+        "link": 'https://www.google.com',
+      },
+    ]
+  }
 }
