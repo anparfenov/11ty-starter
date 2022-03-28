@@ -10,20 +10,20 @@ module.exports = {
     posts: 'posts',
     links: [
       {
+        "text": '[SECRET] Homebrew FOSS by Hackerspace PESUECC',
+        "link": 'https://sharp-wright-d62960.netlify.app/',
+      },
+      {
         "text": 'HackerSpace Discord',
-        "link": 'https://www.google.com',
+        "link": 'https://discord.com/invite/9m7ad5mDVK',
       },
       {
         "text": 'Instagram',
-        "link": 'https://www.google.com',
+        "link": 'https://www.instagram.com/peshackerspace.ecc/',
       },
       {
         "text": 'Youtube',
-        "link": 'https://www.google.com',
-      },
-      {
-        "text": 'Something Secret!',
-        "link": 'https://www.google.com',
+        "link": 'https://www.youtube.com/channel/UCtFFsoFIBV0udCCf6ryNFAQ',
       },
     ]
   }

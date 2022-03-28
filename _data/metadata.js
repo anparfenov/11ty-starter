@@ -5,9 +5,9 @@ module.exports = {
     en: {
         url,
         title,
-        description: "TODO",
+        description: "A Student-run Developer Community at PES University, Electronic City Campus",
         feed: {
-            subtitle: "TODO",
+            subtitle: "Hello, cultured RSS User! Welcome to our home on the internet",
             filename: "feed.xml",
             path: "/feed/en.feed.xml",
             id: "TODO",
@@ -18,12 +18,12 @@ module.exports = {
         },
         source: {
             label: 'github',
-            link: 'https://github.com/moody-person/11ty-starter'
+            link: 'https://github.com/homebrew-ec-foss/homebrew-internethome'
         },
         author: {
             url,
-            name: "Your name",
-            email: "example@mail.com",
+            name: "Hackerspace PESUECC",
+            email: "hackerspace.ecc@pes.edu",
         },
         posts: {
             title: `Posts | ${title}`,
