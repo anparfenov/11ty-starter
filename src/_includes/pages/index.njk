@@ -26,6 +26,21 @@
 
     </section>
 
+    <section class="p-index_events">
+        <h2>
+            Events
+        </h2>
+    {% set postslist = collections.events %}
+    {% if postslist | length %}
+        <ul class="c-posts-list c-posts-list--archive">
+            {% set includeImage = true %}
+            {% include "components/blog-post-items.njk" %}
+        </ul>
+    {% else %}
+    {% endif %}
+
+    </section>
+
     {% if main[locale].showPosts %}
     <section class="p-index_latest">
 

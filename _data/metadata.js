@@ -1,4 +1,4 @@
-const url = process.env.URL ?? "https://example.com";
+const url = process.env.URL ? process.env.URL : "https://example.com";
 const title = "HackerSpace PESUECC";
 
 module.exports = {

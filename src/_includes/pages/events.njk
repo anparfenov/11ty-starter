@@ -1,0 +1,25 @@
+<div class="p-index">
+
+    <section class="p-index_hero">
+        <h1>
+            &lt;Hackerspace/&gt; PESUECC
+        </h1>
+        <p>
+            {{ main[locale].siteDescription | safe }}
+        </p>
+    </section>
+
+<div class="p-archive">
+    <h1 class="p-acrhive_title"> Events </h1>
+
+    {% set postslist = collections.events %}
+    {% if postslist | length %}
+        <ul class="c-posts-list c-posts-list--archive">
+            {% set includeImage = true %}
+            {% include "components/blog-post-items.njk" %}
+        </ul>
+    {% else %}
+    {% endif %}
+</div>
+
+</div>

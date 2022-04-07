@@ -42,6 +42,7 @@
 .c-underline-link {
     text-decoration: underline;
     color: var(--color-text);
+    margin-right: 1em;
 
     &:hover {
         text-decoration-color: var(--color-extra);

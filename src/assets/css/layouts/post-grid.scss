@@ -16,7 +16,8 @@
     }
 
     &_tags {
-        grid-area: tags;
+        // grid-area: tags;
+        display: inline-flex;
     }
 
     &_title {
@@ -29,5 +30,9 @@
 
     &_image {
         grid-area: image;
+    }
+    &_desc {
+      padding: 0;
+      margin: 0;
     }
 }

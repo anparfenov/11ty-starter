@@ -12,14 +12,20 @@
     }
 }
 .c-post-item {
+
     min-width: calc(100% / 2 - 1rem);
+    width: 100%;
+    padding: 0.5em;
+    border-radius: 0.3em;
+    border: 1px solid lightblue;
+
     &_date {
         font-size: var(--text-sm);
         color: var(--color-gray-900);
     }
     &_tags {
-        display: flex;
-        flex-flow: column wrap;
+        display: inline-flex;
+        flex-flow: row wrap;
         gap: 0.25rem;
     }
     &_meta {

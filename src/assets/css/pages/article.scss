@@ -8,17 +8,12 @@
     display: flex;
     flex-direction: column;
     flex:1;
+    margin-top: 1em;
+    margin-bottom: 1em;
 
-    padding: 0 1rem;
     background: var(--gradient-header);
     border-radius: 0.25rem;
     margin-bottom: 1rem;
-
-    &_hero {
-        border: 1px solid var(--color-text);
-        padding: 1rem;
-        border-radius: 0.5rem;
-    }
 
     &_date {
         font-size: var(--text-sm);
@@ -28,5 +23,6 @@
     &_tags {
         display: flex;
         gap: 0.5rem;
+        margin-left: 1em;
     }
 }
