@@ -40,8 +40,9 @@
 }
 
 .c-underline-link {
-    text-decoration: underline;
+    // text-decoration: underline;
     color: var(--color-text);
+    min-height: 24px;
 
     &:hover {
         text-decoration-color: var(--color-extra);

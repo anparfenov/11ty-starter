@@ -18,10 +18,9 @@
         --max-content-width: 60rem;
     }
 
-    --sans-serif:   Helvetica, Arial, sans-serif;
-    --monospace:    'JetBrains Mono', 'Roboto Mono', monospace;
-    --serif:        'Playfair Display', serif;
-
+    --sans-serif: -apple-system, system-ui, sans-serif;
+    --monospace: Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono, Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Courier New, Courier, monospace;
+  
     --color-gray-100: hsl(0, 0%, 90%);
     --color-gray-200: hsl(0, 0%, 85%);
     --color-gray-300: hsl(0, 0%, 80%);
