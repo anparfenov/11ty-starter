@@ -27,11 +27,6 @@
         {% else %}
             <link rel="stylesheet" href="/assets/css/index.css" type="text/css" />
         {% endif %}
-
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Playfair+Display:ital,wght@0,700;1,400&display=swap" rel="stylesheet">
-
         <link rel="alternate" href="{{ metadata[locale].feed.path | url }}" type="application/atom+xml" title="{{ metadata[locale].title }}">
         <link rel="alternate" href="{{ metadata[locale].jsonfeed.path | url }}" type="application/json" title="{{ metadata[locale].title }}">
     </head>
