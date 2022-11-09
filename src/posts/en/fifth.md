@@ -4,6 +4,8 @@ description: TODO
 date: 2022-01-05
 tags:
   - last one
+  - bike
+  - run
 layout: layouts/post.njk
 ---
 

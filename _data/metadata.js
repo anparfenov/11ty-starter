@@ -22,8 +22,8 @@ module.exports = {
         },
         author: {
             url,
-            name: "Your name",
-            email: "example@mail.com",
+            name: "Mark Bangert",
+            email: "hdf+markbangert@mail.com",
         },
         posts: {
             title: `Posts | ${title}`,

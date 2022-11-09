@@ -1,7 +1,7 @@
 {
-    "name": "11ty-starter",
+    "name": "Heidelbergs Finest",
     "version": "0.0.1",
-    "description": "eleventy starter",
+    "description": "Heidelbergs Finest Mountainbike Trails Tourenbuch",
     "scripts": {
         "clean": "rm -rf _site",
         "hasher": "node csshash.js",
@@ -20,12 +20,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/moody-person/11ty-starter"
+        "url": "https://github.com/markbangert/heidelbergsfinest"
     },
     "author": {
-        "name": "Andrey Parfenov",
-        "email": "asleeppiano@outlook.com",
-        "url": "https://andreyparfenov.com"
+        "name": "Mark Bangert",
+        "email": "markbangert@gmail.com",
+        "url": "https://markbangert.github.io/heidelbergsfinest/"
     },
     "license": "MIT",
     "devDependencies": {
