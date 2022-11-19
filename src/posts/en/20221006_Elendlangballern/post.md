@@ -13,8 +13,7 @@ layout: layouts/post.njk
 <div id="gallery">
 {% for image in collections.images %}
 <div id="cssbox">
-<img src="../media/thumb-2022-10-01 16.39.44.jpeg" class="cssbox_thumb">
-{{image.thumbpath}}
+<img src="../media/{{image.thumbpath}}" class="cssbox_thumb">
 {{image.path}}
 </div>
 {% endfor %}

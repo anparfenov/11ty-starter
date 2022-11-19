@@ -12,13 +12,17 @@ const { path } = require("animejs");
 const THUMB = 400;
 const FULL = 1200;
 
+function getFilename(filenameIncludingPath) {
+    return filenameIncludingPath.split('/').pop();
+}
+
 async function generateImages() {
 
 	let options = {
 		widths: [THUMB,FULL],
 		formats: ['jpeg'],
 		filenameFormat:function(id, src, width, format, options) {
-			let origFilename = src.split('/').pop();
+			let origFilename = getFilename(src);
 			//strip off the file type, this could probably be one line of fancier JS
 			let parts = origFilename.split('.');
 			parts.pop();
@@ -109,8 +113,8 @@ module.exports = function(eleventyConfig) {
 
 		let collection = images.map(i => {
 			return {
-				path: i,
-				thumbpath: i.replace('/media/', '/media/thumb-')
+				path: getFilename(i),
+				thumbpath: 'thumb-' + getFilename(i)
 			}
 		});
 
