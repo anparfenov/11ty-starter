@@ -1,11 +1,11 @@
 ---
-title: This is my sixth post.
-description: TODO
-date: 2022-11-10
+title: Elendlangballern
+description: Bericht vom HDF AUsflug nach Südtirol im Herbst 2022 
+date: 2022-11-19
 tags:
-  - last one
-  - bike
-  - run
+  - MTB
+  - Südtirol
+  - 2022
 layout: layouts/post.njk
 ---
 
