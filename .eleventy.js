@@ -29,13 +29,12 @@ async function generateImages() {
 		}
 	};
 
-	let files = await glob('**/media/*.{jpg,jpeg,png,gif}');
+	let files = await glob('./src/**/media/*.{jpg,jpeg,png,gif}');
 	for(const f of files) {
 		console.log('doing f',f);
 
         let filepathComponents = f.split('/');
-        filepathComponents.pop();
-        filepath = filepathComponents.join('/');
+        filepath = filepathComponents.slice(2,-1).join('/');
         options.outputDir = '_site/' + filepath
 
 		let md = await Image(f, options);
@@ -98,6 +97,25 @@ module.exports = function(eleventyConfig) {
 
         return [...tagSet];
     });
+
+    eleventyConfig.addCollection('images', async collectionApi => {
+
+		let files = await glob('**/media/*.jpeg');
+
+        //Now filter to non thumb-
+		let images = files.filter(f => {
+			return f.indexOf('media/thumb-') === -1;
+		});
+
+		let collection = images.map(i => {
+			return {
+				path: i,
+				thumbpath: i.replace('/media/', '/media/thumb-')
+			}
+		});
+
+		return collection;
+	});
 
     eleventyConfig.addPassthroughCopy("static");
     eleventyConfig.addPassthroughCopy("./src/assets/css/prism.css");

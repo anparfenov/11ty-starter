@@ -9,6 +9,17 @@ tags:
 layout: layouts/post.njk
 ---
 
+<h1>Image Gallery</h1>
+<div id="gallery">
+{% for image in collections.images %}
+<div id="cssbox">
+<img src="../media/thumb-2022-10-01 16.39.44.jpeg" class="cssbox_thumb">
+{{image.thumbpath}}
+{{image.path}}
+</div>
+{% endfor %}
+</div>
+
 # Montag 26. September
 
 Die Wettervorhersage für St. Moritz am 1. Oktober schaut nicht mehr so prickelnd aus. Summa summarum 30 cm Schnee soll die Tage auf 3000m fallen. Südtirol wird als Alternative immer ernsthafter diskutiert. Nur das macht uns Elmar, Andys Local aus Toblach, auch nicht unbedingt schmackhaft mit Bildern vom verschneiten Grödner Joch und Rückfragen bezüglich unserer Konzentrationsausdauer. Wenn der wüsste.
