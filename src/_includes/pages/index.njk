@@ -23,7 +23,7 @@
             {% endif %}
         </h2>
         <ul class="c-posts-list">
-            {% set postslist = collections.posts | reversed | head(3) %}
+            {% set postslist = collections.posts | head(3) %}
             {% include "components/blog-post-items.njk" %}
         </ul>
     </section>
