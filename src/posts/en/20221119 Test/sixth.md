@@ -21,14 +21,12 @@ Die Entscheidung fällt für Südtirol. Die Webcams schauen gut aus und die Wett
 
 Offizieller Start der Reise ist 20.30 Uhr auf dem Lidlplarkplatz in Heidelberg. Emil hilft noch beim Verstauen der Bikes auf Christians Wagen und dann beginnt der Trip. Insgesamt fünf Tage werden wir unterwegs sein. Elendlang. 
 
-```
 Ferien, die sind sehr schön.
 Erlebnisse sammeln.
 Rausgehen, mit Freunden spielen.
 Innerlich fröhlich, äußerlich fröhlich.
 Elendlang aufbleiben.
 Nachts aufbleiben und Gruselgeschichten erzählen.
-´´´
 
 Für alle Teilnehmer ist es eine Weile her, dass man mal für 120h nur mit Belanglosigkeiten, nur mit sich selbst beschäftigt war. Aber Euphorie stellt sich noch nicht ein. Mit 111 km/h segeln wir über die A8 nach München zu Andy. Der hat zwar direkt vor der Haustür einen Parkplatz reserviert, aber auf Grund eines Staus dauert das dann doch bis weit nach Mitternacht, bis wir die offizielle Biergrüßung auf dem Sofa im Wohnzimmer nehmen.
 
@@ -48,7 +46,7 @@ Langsam neigt sich der Tag auch dem Ende zu. Es ist 18 Uhr, das Licht ändert si
 
 Die Schutzhütte, wie es auf der Website heißt, ist weniger Schutzhütte als ein Hotel. Es gibt eine Fußbodenheizung und ein Bad, das den Immobilienwert von manchem Heidelberger Altbau verdoppeln würde. Die Garage erinnert an das Versteck eines James Bond Superschurken - den Eingang zu einem geheimen Stollen, der zur Kommandozentrale führt, tief im Berg, finden wir jedoch nicht. Dafür überzeugt die Küche, wenn auch nicht mit üppigen Portionen oder vielfältigen vegetarischen Auswahlmöglichkeiten. Und: Es gibt Nachtisch - vermutlich auch ohne Nachfrage.
 
-![https://ucdfca858f8387e1325231c44dbd.previews.dropboxusercontent.com/p/thumb/ABvmzTUrnk-sFsTZ2SbGI0JSCjMiVPGw2rVZjsaFs4tHODbc6LZufbogTFdVX-_WsMQl_K6qtWSEKF3T29wfx7m0uSmx8SRa3rT8E_R5-Ab-5dTS2jiWU2UK1Pn_V7MEB1N2eyKG0tik20yO3oS4t8QuDU_w6MpTHWX7MxZ7D3qqe2WMcOqgh-sV0pl_Diclrk-ziSD3vdMPuIWhWXSE2LkNuu3oZ5l41IZnV1uApdizj9s_idssXXRYnIMpdHlNWuCZs2dK53W9aJY0LQhVeBFKc8WCgS-CtdGJh6j4wBWTaBO_cIZANQO8tSylAIwW3uYNbr_c2IXstJXMIophVxg21-3SwVLhC8luN_qGfNCJSableJyqIlD_mzhud5vKum4/p.jpeg](Angekommen an der Fodara Vedla)
+![Angekommen an der Fodara Vedla](https://ucdfca858f8387e1325231c44dbd.previews.dropboxusercontent.com/p/thumb/ABvmzTUrnk-sFsTZ2SbGI0JSCjMiVPGw2rVZjsaFs4tHODbc6LZufbogTFdVX-_WsMQl_K6qtWSEKF3T29wfx7m0uSmx8SRa3rT8E_R5-Ab-5dTS2jiWU2UK1Pn_V7MEB1N2eyKG0tik20yO3oS4t8QuDU_w6MpTHWX7MxZ7D3qqe2WMcOqgh-sV0pl_Diclrk-ziSD3vdMPuIWhWXSE2LkNuu3oZ5l41IZnV1uApdizj9s_idssXXRYnIMpdHlNWuCZs2dK53W9aJY0LQhVeBFKc8WCgS-CtdGJh6j4wBWTaBO_cIZANQO8tSylAIwW3uYNbr_c2IXstJXMIophVxg21-3SwVLhC8luN_qGfNCJSableJyqIlD_mzhud5vKum4/p.jpeg)
 
 # Sonntag 2. Oktober
 
