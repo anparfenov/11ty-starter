@@ -1,12 +1,12 @@
 ---
 title: Mont Buet
 description: Bericht von der Gipfeltour auf den Mont Blanc des dammes
-date: 2016-08-19
+date: 2014-08-25
 tags:
   - MTB
   - Sixt
   - Frankreich
-  - 2014
+  - "2014"
 layout: layouts/post.njk
 ---
 

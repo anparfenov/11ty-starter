@@ -5,7 +5,7 @@ date: 2022-10-05
 tags:
   - MTB
   - Südtirol
-  - 2022
+  - "2022"
 layout: layouts/post.njk
 ---
 

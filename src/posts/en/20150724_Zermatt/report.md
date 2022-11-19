@@ -7,7 +7,7 @@ tags:
   - Zermatt
   - Schweiz
   - Wallis
-  - 2015
+  - "2015"
 layout: layouts/post.njk
 ---
 

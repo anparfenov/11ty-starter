@@ -6,7 +6,7 @@ tags:
   - MTB
   - Run
   - Deutschland
-  - 2022
+  - "2022"
 layout: layouts/post.njk
 ---
 

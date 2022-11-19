@@ -5,7 +5,7 @@ date: 2016-08-19
 tags:
   - MTB
   - Soierngruppe
-  - 2016
+  - "2016"
 layout: layouts/post.njk
 ---
 
