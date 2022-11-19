@@ -1,7 +1,7 @@
 ---
 title: Elendlangballern
-description: Bericht vom HDF AUsflug nach Südtirol im Herbst 2022 
-date: 2021-11-19
+description: Bericht vom HDF Ausflug nach Südtirol im Herbst 2022 
+date: 2022-10-05
 tags:
   - MTB
   - Südtirol
