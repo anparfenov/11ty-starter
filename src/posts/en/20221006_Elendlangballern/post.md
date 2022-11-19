@@ -10,14 +10,19 @@ layout: layouts/post.njk
 ---
 
 <h1>Image Gallery</h1>
-<div id="gallery">
-{% for image in collections.images %}
-<div id="cssbox">
-<img src="../media/{{image.thumbpath}}" class="cssbox_thumb">
-{{image.path}}
-</div>
-{% endfor %}
-</div>
+{%- for image in collections.images -%}
+	<div id="cssbox">
+		<a href="#image{{loop.index}}" id="image{{loop.index}}"><img src="../media/{{image.thumbpath}}" class="cssbox_thumb">
+		<span class="cssbox_full"><img src="../media/{{image.path}}"></span></a>
+		<a class="cssbox_close" href="#void"></a>
+		{%- if loop.index > 1 -%}
+			<a class="cssbox_prev" href="#image{{ loop.index - 1}}">&lt;</a>
+		{%- endif -%}
+		{%- if loop.index < collections.images.length -%}
+			<a class="cssbox_next" href="#image{{ loop.index + 1}}">&gt;</a>
+		{%- endif -%}
+	</div>
+{%- endfor -%}
 
 # Montag 26. September
 
