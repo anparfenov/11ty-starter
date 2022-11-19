@@ -21,12 +21,14 @@ Die Entscheidung fällt für Südtirol. Die Webcams schauen gut aus und die Wett
 
 Offizieller Start der Reise ist 20.30 Uhr auf dem Lidlplarkplatz in Heidelberg. Emil hilft noch beim Verstauen der Bikes auf Christians Wagen und dann beginnt der Trip. Insgesamt fünf Tage werden wir unterwegs sein. Elendlang. 
 
+```
 Ferien, die sind sehr schön.
 Erlebnisse sammeln.
 Rausgehen, mit Freunden spielen.
 Innerlich fröhlich, äußerlich fröhlich.
 Elendlang aufbleiben.
 Nachts aufbleiben und Gruselgeschichten erzählen.
+´´´
 
 Für alle Teilnehmer ist es eine Weile her, dass man mal für 120h nur mit Belanglosigkeiten, nur mit sich selbst beschäftigt war. Aber Euphorie stellt sich noch nicht ein. Mit 111 km/h segeln wir über die A8 nach München zu Andy. Der hat zwar direkt vor der Haustür einen Parkplatz reserviert, aber auf Grund eines Staus dauert das dann doch bis weit nach Mitternacht, bis wir die offizielle Biergrüßung auf dem Sofa im Wohnzimmer nehmen.
 
