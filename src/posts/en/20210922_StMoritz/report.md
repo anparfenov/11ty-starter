@@ -1,6 +1,6 @@
 ---
 title: Wir werden planschen
-description: Bericht von der Hüttentour im Schweizer Regen - oder doch nicht?
+description: Bericht von der Hüttentour im Schweizer Regen
 date: 2014-08-25
 tags:
   - MTB

@@ -1,6 +1,6 @@
 ---
 title: Mont Buet
-description: Bericht von der Gipfeltour auf den Mont Blanc des dammes
+description: Bericht von der Gipfeltour auf den Mont Buet
 date: 2014-08-25
 tags:
   - MTB
