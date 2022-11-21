@@ -6,6 +6,9 @@ tags:
   - MTB
   - Südtirol
   - "2022"
+  - Andy
+  - Christian
+  - Mark
 layout: layouts/post.njk
 ---
 
