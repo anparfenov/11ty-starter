@@ -8,6 +8,10 @@ tags:
   - Schweiz
   - Wallis
   - "2015"
+  - Andy
+  - Mark
+  - Christian
+  - UDW
 layout: layouts/post.njk
 ---
 
