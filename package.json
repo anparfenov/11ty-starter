@@ -10,7 +10,7 @@
         "build": "npm-run-all clean hasher -p build:eleventy build:sass build:rollup",
         "build:github": "npm-run-all clean hasher -p build:eleventy:pathPrefix build:sass build:rollup",
         "build:eleventy": "ELEVENTY_ENV=production eleventy",
-        "build:eleventy:pathPrefix": "ELEVENTY_ENV=production eleventy --pathprefix=heidelbergs-finest",
+        "build:eleventy:pathPrefix": "ELEVENTY_ENV=production eleventy",
         "build:sass": "sass src/assets/css/index.scss _site/assets/css/index.css && npm run cssmin",
         "build:rollup": "NODE_ENV=production rollup -c",
         "dev": "npm-run-all clean hasher -p dev:*",
