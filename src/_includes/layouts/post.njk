@@ -74,6 +74,24 @@ function currentSlide(n) {
   showSlides(slideIndex = n);
 }
 
+function sliderKeyPressEvent(e) {
+  var keynum;
+  if(window.event) { // IE                  
+    keynum = e.keyCode;
+  } else if(e.which){ // Netscape/Firefox/Opera                 
+    keynum = e.which;
+  }
+  
+  if(keynum == 37 || keynum == 38) { // left or up
+    plusSlides(-1)
+  }
+  if(keynum == 39 || keynum == 40) { // right or down
+    plusSlides(1)
+  }
+}
+
+document.onkeydown = sliderKeyPressEvent;
+
 function showSlides(n) {
   let i;
   let slides = document.getElementsByClassName("mySlides");
