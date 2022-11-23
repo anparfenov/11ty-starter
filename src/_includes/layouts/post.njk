@@ -37,7 +37,7 @@ templateClass: tmpl-post
     <div style="text-align:center">
         {%- for image in collections.images -%}
             {%- if image.postfolder in page.inputPath -%}
-                <span class="dot" onclick="currentSlide(loop.index)"></span>
+                <span class="dot" onclick="currentSlide({{loop.index}})"></span>
             {%- endif -%}
         {%- endfor -%}
     </div>
