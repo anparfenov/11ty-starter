@@ -97,19 +97,3 @@ An der Mautstation überholen wir eine ganze Stange der motorisierten Fahrzeuge,
 An der Drei Zinnen Hütte angekommen, verspeisten wir unser Vesper, genossen noch ein letztes Mal die Aussicht auf die ikonischen Drei Zinnen und machten uns dann an die von Elmar angepriesene, letzte Abfahrt der Tour durch das Fischleintal. Offiziell ist dieser Trail verboten, aber bis auf eine Studienrätin fühlte sich niemand von unserer Performance gestört. Ganz im Gegenteil - die Urlauber, die sich ab Sexten zu Fuß durchs Fischleintal auf den Weg gemacht hatten an diesem Tag, feierten uns richtig ab. “Ihr seids brutal” war nur eines der vielen Komplimente, die wir zu hören bekamen. Nach vier Tagen im Sattel waren wir aber auch wirklich top in Form, und auf Grund der gut moderierten täglichen Umfänge, auch nicht zu erschöpft, um auf der letzten Abfahrt nicht unser bestes Tennis zu zeigen. Beseelt von den Drei Zinnen, vom Tal, vom Biken kamen wir an der Talschlusshütte an und genossen ab hier einen gemütlichen Roll-Out nach Toblach, vorbei an Kulturlandschaften die ein bisschen zu perfekt aussahen. Ist Südtirol vielleicht gar nicht real? Wir wissen es nicht!
 
 Zum Abschluss gab es noch eine Deluxe Pizza bei Hans in Toblach. Dort hatten wir auch die Gelegenheit, Elmar nochmal zu danken für seinen Support, bevor wir mit dem Zug zurück nach Bruneck fuhren.
-
-<h1>Gallery</h1>
-{%- for image in collections.images -%}
-	<div id="cssbox">
-		<a href="#image{{loop.index}}" id="image{{loop.index}}"><img src="../media/{{image.thumbpath}}" class="cssbox_thumb">
-		<span class="cssbox_full"><img src="../media/{{image.path}}"></span></a>
-		<a class="cssbox_close" href="#void"></a>
-		{%- if loop.index > 1 -%}
-			<a class="cssbox_prev" href="#image{{ loop.index - 1}}">&lt;</a>
-		{%- endif -%}
-		{%- if loop.index < collections.images.length -%}
-			<a class="cssbox_next" href="#image{{ loop.index + 1}}">&gt;</a>
-		{%- endif -%}
-	</div>
-{%- endfor -%}
-
