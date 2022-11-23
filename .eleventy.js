@@ -16,6 +16,13 @@ function getFilename(filenameIncludingPath) {
     return filenameIncludingPath.split('/').pop();
 }
 
+function getPostFolder(filenameIncludingPath) {
+    parts = filenameIncludingPath.split('/');
+    postFolder = parts.at(-3);
+    console.log('postfolder: ', postFolder);
+    return postFolder;
+}
+
 async function generateImages() {
 
 	let options = {
@@ -35,11 +42,11 @@ async function generateImages() {
 
 	let files = await glob('./src/**/media/*.{jpg,jpeg,png,gif}');
 	for(const f of files) {
-		console.log('doing f',f);
+		console.log('image processing: ',f);
 
         let filepathComponents = f.split('/');
         filepath = filepathComponents.slice(2,-1).join('/');
-        options.outputDir = '_site/' + filepath
+        options.outputDir = '_site/' + filepath;
 
 		let md = await Image(f, options);
 	};
@@ -113,6 +120,7 @@ module.exports = function(eleventyConfig) {
 
 		let collection = images.map(i => {
 			return {
+                postfolder: getPostFolder(i),
 				path: getFilename(i),
 				thumbpath: 'thumb-' + getFilename(i)
 			}

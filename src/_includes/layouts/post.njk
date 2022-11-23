@@ -22,19 +22,25 @@ templateClass: tmpl-post
         </div>
     </div>
 
-    {%- for image in collections.images -%}
-        <div id="cssbox">
-            <a href="#image{{loop.index}}" id="image{{loop.index}}"><img src="../media/{{image.thumbpath}}" class="cssbox_thumb">
-            <span class="cssbox_full"><img src="../media/{{image.path}}"></span></a>
-            <a class="cssbox_close" href="#void"></a>
-            {%- if loop.index > 1 -%}
-                <a class="cssbox_prev" href="#image{{ loop.index - 1}}">&lt;</a>
+    <div class="slideshow-container">
+        {%- for image in collections.images -%}
+            {%- if image.postfolder in page.inputPath -%}
+                <div class="mySlides fade">
+                    <img src="../media/{{image.path}}" style="width:100%">
+                </div>
             {%- endif -%}
-            {%- if loop.index < collections.images.length -%}
-                <a class="cssbox_next" href="#image{{ loop.index + 1}}">&gt;</a>
+        {%- endfor -%}
+        <a class="prev" onclick="plusSlides(-1)">❮</a>
+        <a class="next" onclick="plusSlides(1)">❯</a>
+    </div>
+    <br>
+    <div style="text-align:center">
+        {%- for image in collections.images -%}
+            {%- if image.postfolder in page.inputPath -%}
+                <span class="dot" onclick="currentSlide(loop.index)"></span>
             {%- endif -%}
-        </div>
-    {%- endfor -%}
+        {%- endfor -%}
+    </div>
 
     <div role="main" class="c-content">
         {{ content | safe }}
@@ -56,4 +62,32 @@ templateClass: tmpl-post
     {%- endif %}
 </div>
 
+<script>
+let slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  let i;
+  let slides = document.getElementsByClassName("mySlides");
+  let dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+}
+</script>
 
