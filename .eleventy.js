@@ -28,11 +28,10 @@ async function generateImages() {
 		formats: ['jpeg'],
 		filenameFormat:function(id, src, width, format, options) {
 			let origFilename = getFilename(src);
-			//strip off the file type, this could probably be one line of fancier JS
 			let parts = origFilename.split('.');
 			parts.pop();
 			origFilename = parts.join('.');
-            return `${origFilename}.${format}`;
+			return `${origFilename}.${format}`;
 		}
 	};
 
