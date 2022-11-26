@@ -12,9 +12,15 @@ tags:
 komoot:
   - https://www.komoot.de/tour/937397546/embed?share_token=aYxmVyIakSSgp1WNmKoYY0rCKLAgLW6RLC7TItgH6MaJemFDKm&profile=1
   - https://www.komoot.de/tour/937409186/embed?share_token=aiwEK1exrpbIwe1HyZzlN0OGAFWE7G9K6HiLiH6Sa60PxUie4O&profile=1
+strava:
+  - https://www.strava.com/activities/6980957624/embed/58dfa76b64cc7036a3e6650ab5ed995eceaf0396
+links:
+  - ["Pizzeria Hans", "https://pizzeria-hans.com/"]
+  - ["Hanslerhof", "https://hanslerhof-dolomiti.com/"]
+
 layout: layouts/post.njk
 ---
-
+  
 # Montag 26. September
 
 Die Wettervorhersage für St. Moritz am 1. Oktober schaut nicht mehr so prickelnd aus. Summa summarum 30 cm Schnee soll die Tage auf 3000m fallen. Südtirol wird als Alternative immer ernsthafter diskutiert. Nur das macht uns Elmar, Andys Local aus Toblach, auch nicht unbedingt schmackhaft mit Bildern vom verschneiten Grödner Joch und Rückfragen bezüglich unserer Konzentrationsausdauer. Wenn der wüsste.
