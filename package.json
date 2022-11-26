@@ -21,12 +21,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/markbangert/heidelbergsfinest"
+        "url": "https://github.com/Heidelbergs-Finest/heidelbergs-finest.github.io"
     },
     "author": {
-        "name": "Mark Bangert",
-        "email": "markbangert@gmail.com",
-        "url": "https://markbangert.github.io/heidelbergsfinest/"
+        "name": "HDF",
+        "email": "HDF+markbangert@gmail.com",
+        "url": "https://www.heidelbergs-finest.de/"
     },
     "license": "MIT",
     "devDependencies": {

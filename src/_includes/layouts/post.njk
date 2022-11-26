@@ -26,7 +26,7 @@ templateClass: tmpl-post
         {%- for image in collections.images -%}
             {%- if image.postfolder in page.inputPath -%}
                 <div class="mySlides fade">
-                    <img src="../media/{{image.path}}" style="width:100%">
+                    <img src="../media/{{image.path}}" class="slideshow-image">
                 </div>
             {%- endif -%}
         {%- endfor -%}
@@ -82,10 +82,10 @@ function sliderKeyPressEvent(e) {
     keynum = e.which;
   }
   
-  if(keynum == 37 || keynum == 38) { // left or up
+  if(keynum == 37) { // left
     plusSlides(-1)
   }
-  if(keynum == 39 || keynum == 40) { // right or down
+  if(keynum == 39) { // right
     plusSlides(1)
   }
 }

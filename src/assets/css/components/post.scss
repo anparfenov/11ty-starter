@@ -4,7 +4,7 @@
 
 .c-posts-list {
     display: flex;
-    flex-flow: row wrap;
+    flex-flow: column nowrap;
     gap: 1rem;
 
     &--archive, &--tags {
