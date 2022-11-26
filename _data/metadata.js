@@ -22,7 +22,7 @@ module.exports = {
         },
         author: {
             url,
-            name: "Mark Bangert",
+            name: "HDF",
             email: "hdf+markbangert@mail.com",
         },
         posts: {
