@@ -26,7 +26,7 @@ templateClass: tmpl-post
         {%- for image in collections.images -%}
             {%- if image.postfolder in page.inputPath -%}
                 <div class="mySlides fade">
-                    <img src="../media/{{image.path}}" style="max-height:550px">
+                    <img src="../media/{{image.path}}" class="slideshow-image">
                 </div>
             {%- endif -%}
         {%- endfor -%}
