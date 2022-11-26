@@ -9,6 +9,9 @@ tags:
   - Andy
   - Christian
   - Mark
+komoot:
+  - https://www.komoot.de/tour/937397546/embed?share_token=aYxmVyIakSSgp1WNmKoYY0rCKLAgLW6RLC7TItgH6MaJemFDKm&profile=1
+  - https://www.komoot.de/tour/937409186/embed?share_token=aiwEK1exrpbIwe1HyZzlN0OGAFWE7G9K6HiLiH6Sa60PxUie4O&profile=1
 layout: layouts/post.njk
 ---
 

@@ -46,6 +46,15 @@ templateClass: tmpl-post
         {{ content | safe }}
     </div>
 
+    {%- if komoot -%}
+      <div class="p-article_hero">
+        <h1 class="p-article_title">Komoot Planung</h1>
+        {%- for komootItem in komoot -%}
+          <iframe src="{{komootItem}}" width="99%" height="700" frameborder="0" scrolling="no" class="komoot"></iframe>
+        {%- endfor -%} 
+      </div>
+    {%- endif -%}       
+
     {%- set nextPost = collections.posts | getNextCollectionItem(page) %}
     {%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
     {%- if nextPost or previousPost %}
