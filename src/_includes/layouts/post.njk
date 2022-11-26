@@ -14,12 +14,29 @@ templateClass: tmpl-post
             {{ page.date | en_readableDate }}
         </time>
         <h1 class="p-article_title">{{ title }}</h1>
-        <div class="p-artilce_tags">
-        {%- for tag in tags | filterTagList -%}
-            {%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}
-            <a href="{{ tagUrl | url }}" class="c-underline-link">{{ tag }} </a>
-        {%- endfor %}
-        </div>
+        {% if tags %}
+          <div class="p-artilce_tags">
+            Tagged as: 
+            {%- for tag in tags | filterTagList -%}
+                {%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}
+                <a href="{{ tagUrl | url }}" class="c-underline-link"> {{ tag }}</a>
+                {% if not loop.last %}
+                  | 
+                {% endif%}
+            {%- endfor %}
+          </div>
+        {% endif %}
+        {% if komoot or strava or links %}
+          <div class="p-artilce_tags">
+            Shortcuts 
+            {% if strava or komoot %}
+              <a href="#tracking" class="c-underline-link"> &#x2192 Tracking</a>
+            {% endif %}
+            {% if links %}
+              <a href="#links" class="c-underline-link"> &#x2192 Links</a>
+            {% endif %}
+          </div>
+        {% endif %}
     </div>
 
     <div class="slideshow-container">
@@ -45,6 +62,29 @@ templateClass: tmpl-post
     <div role="main" class="c-content">
         {{ content | safe }}
     </div>
+
+    {%- if komoot or strava -%}
+      <div class="p-article_hero" id="tracking">
+        <h1 class="p-article_title">Tracking</h1>
+        {%- for komootItem in komoot -%}
+          <iframe src="{{komootItem}}" width="99%" height="700" frameborder="0" scrolling="no" class="komoot"></iframe>
+        {%- endfor -%} 
+        {%- for stravaItem in strava -%}
+          <iframe width='100%' height='100%' frameborder='0' allowtransparency='true' scrolling='no' src='{{stravaItem}}'></iframe>
+        {%- endfor -%} 
+      </div>
+    {%- endif -%}       
+
+    {%- if links -%}
+      <div class="p-article_hero" id="links">
+        <h1 class="p-article_title">Links</h1>
+          <ul>
+          {%- for link in links -%}
+            <li><a href="{{link[1]}}" class="c-underline-link">{{link[0]}}</a></li>
+          {%- endfor -%}
+          </ul>
+      </div>
+    {%- endif -%}
 
     {%- set nextPost = collections.posts | getNextCollectionItem(page) %}
     {%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
