@@ -125,6 +125,7 @@ module.exports = function(eleventyConfig) {
 
     eleventyConfig.addPassthroughCopy("static");
     eleventyConfig.addPassthroughCopy("./src/assets/css/prism.css");
+    eleventyConfig.addPassthroughCopy({"./node_modules/photoswipe/dist": "/assets/photoswipe"});
 
     const jsAssetsFiles = "./src/**/*.js"
     const cssAssetsFiles = "./src/assets/css/**/*.scss"
