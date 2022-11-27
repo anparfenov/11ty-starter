@@ -22,7 +22,7 @@ layout: layouts/post.njk
   lightbox.init();
 </script>
 
-<div class="pswp-gallery pswp-gallery--single-column" id="gallery--getting-started">
+<div class="pswp-gallery--single-column" id="gallery--getting-started">
   <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg" 
     data-pswp-width="1669" 
     data-pswp-height="2500" 

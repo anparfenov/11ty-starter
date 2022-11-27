@@ -10,9 +10,15 @@ const glob = require("glob-promise");
 const { path } = require("animejs");
 
 const FULL = 1200;
+const THUMB = 200;
 
 function getFilename(filenameIncludingPath) {
     return filenameIncludingPath.split('/').pop();
+}
+
+function getRelativeImageLocation(filenameIncludingPath) {
+    let filepathComponents = filenameIncludingPath.split('/');
+    return filepathComponents.slice(2,-1).join('/');
 }
 
 function getPostFolder(filenameIncludingPath) {
@@ -21,27 +27,42 @@ function getPostFolder(filenameIncludingPath) {
     return postFolder;
 }
 
+function getFilenameWithoutExtensin(filenameIncludingPath) {
+    let filename = getFilename(filenameIncludingPath);
+    let parts = filename.split('.');
+    parts.pop();
+    return parts.join('.');
+}
+
 async function generateImages() {
 
 	let options = {
-		widths: [FULL],
+		widths: [FULL, THUMB],
 		formats: ['jpeg'],
 		filenameFormat:function(id, src, width, format, options) {
 			let origFilename = getFilename(src);
 			let parts = origFilename.split('.');
 			parts.pop();
 			origFilename = parts.join('.');
-			return `${origFilename}.${format}`;
+
+            let filenameWithoutExtension = getFilenameWithoutExtensin(src)
+            if (width == THUMB)
+            {
+                return `thumbnail-${filenameWithoutExtension}.${format}`;
+            }
+            else
+            {
+                return `${filenameWithoutExtension}.${format}`;
+            }
 		}
 	};
 
 	let files = await glob('./src/**/media/*.{jpg,jpeg,png,gif}');
+
 	for(const f of files) {
 		console.log('image processing: ',f);
 
-        let filepathComponents = f.split('/');
-        filepath = filepathComponents.slice(2,-1).join('/');
-        options.outputDir = '_site/' + filepath;
+        options.outputDir = '_site/' + getRelativeImageLocation(f);
 
 		let md = await Image(f, options);
 	};
@@ -110,13 +131,20 @@ module.exports = function(eleventyConfig) {
 
         //Now filter to non thumb-
 		let images = files.filter(f => {
-			return f.indexOf('media/thumb-') === -1;
+			return f.indexOf('media/thumbnail-') === -1;
 		});
 
+        let options =  {
+            statsOnly: true
+        }
+
 		let collection = images.map(i => {
+            md = Image(i, options)
+
 			return {
                 postfolder: getPostFolder(i),
 				path: getFilename(i),
+                meta: JSON.stringify(md)
 			}
 		});
 
