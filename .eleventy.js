@@ -9,8 +9,8 @@ const Image = require("@11ty/eleventy-img");
 const glob = require("glob-promise");
 const { path } = require("animejs");
 
-const FULL = 1200;
-const THUMB = 200;
+const FULL = 1600;
+const THUMB = 300;
 
 function getFilename(filenameIncludingPath) {
     return filenameIncludingPath.split('/').pop();
@@ -134,19 +134,27 @@ module.exports = function(eleventyConfig) {
 			return f.indexOf('media/thumbnail-') === -1;
 		});
 
-        let options =  {
-            statsOnly: true
+        let collection = []
+
+        for (let i = 0; i < images.length; i++) {
+            let options = {
+                statsOnly: true,
+                formats: ['jpeg']
+            };
+            
+            md = await Image(images[i], options);
+            
+            c = {
+                postfolder: getPostFolder(images[i]),
+				path: getFilename(images[i]),
+                width: md.jpeg[0].width,
+                height: md.jpeg[0].height              
+            };
+
+            console.log(c);
+
+            collection.push(c);
         }
-
-		let collection = images.map(i => {
-            md = Image(i, options)
-
-			return {
-                postfolder: getPostFolder(i),
-				path: getFilename(i),
-                meta: JSON.stringify(md)
-			}
-		});
 
 		return collection;
 	});
