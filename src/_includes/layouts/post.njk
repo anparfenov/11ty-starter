@@ -7,14 +7,21 @@ templateClass: tmpl-post
 <script type="module">
   import PhotoSwipeLightbox from '/assets/photoswipe/photoswipe-lightbox.esm.js'; 
   const lightbox = new PhotoSwipeLightbox({
-    gallery: '#gallery--getting-started',
+    gallery: '#gallery',
     children: 'a',
     pswpModule: () => import('/assets/photoswipe/photoswipe.esm.js')
   });
   lightbox.init();
 </script>
 
-<div class="p-article">
+    {% set galleryExists = false %}
+    {%- for image in collections.images -%}
+      {%- if image.postfolder in page.inputPath -%}
+        {% set galleryExists = true %}
+      {%- endif -%}
+    {%- endfor -%}
+
+    <div class="p-article">
     <div class="p-article_hero">
         {% if page.data.image %}
             <picture>
@@ -40,17 +47,28 @@ templateClass: tmpl-post
         {% if komoot or strava or links %}
           <div class="p-artilce_tags">
             Shortcuts 
-            {% if strava or komoot %}
-              <a href="#tracking" class="c-underline-link"> &#x2192 Tracking</a>
+            {% if strava  %}
+              <a href="#strava" class="c-underline-link"> &#x2192 Strava</a>
             {% endif %}
             {% if links %}
               <a href="#links" class="c-underline-link"> &#x2192 Links</a>
+            {% endif %}
+            {% if galleryExists %}
+              <a href="#gallery" class="c-underline-link"> &#x2192 Gallery</a>
             {% endif %}
           </div>
         {% endif %}
     </div>
 
-    <div id="gallery--getting-started" style="width:100%;column-width:10em;column-gap:8;margin:auto">
+    <div role="main" class="c-content">
+        {{ content | safe }}
+    </div>
+
+    {%- if galleryExists -%}
+      <h1 class="p-article_title">Gallery</h1>
+    {%- endif -%}
+    <div id="gallery" style="width:100%;column-width:10em;column-gap:8;margin:auto;margin-bottom:2em">
+      {% set printGalleryHeader = true %}
       {%- for image in collections.images -%}
         {%- if image.postfolder in page.inputPath -%}
           <a href="../media/{{image.path}}" 
@@ -62,43 +80,15 @@ templateClass: tmpl-post
         {%- endif -%}
       {%- endfor -%}
     </div>
-
-    <div role="main" class="c-content">
-        {{ content | safe }}
-    </div>
-
-    {%- if komoot or strava -%}
-      <div class="p-article_hero" id="tracking">
-        <h1 class="p-article_title">Tracking</h1>
-        {%- for komootItem in komoot -%}
-          <iframe src="{{komootItem}}" width="99%" height="700" frameborder="0" scrolling="no" class="komoot"></iframe>
-        {%- endfor -%} 
+        
+    {%- if strava -%}
+      <div class="p-article_hero" id="strava">
+        <h1 class="p-article_title">Strava</h1>
         {%- for stravaItem in strava -%}
-          <iframe width='100%' height='100%' frameborder='0' allowtransparency='true' scrolling='no' src='{{stravaItem}}'></iframe>
+            <li><a href="{{stravaItem[1]}}" class="c-underline-link">{{stravaItem[0]}}</a></li>
         {%- endfor -%} 
       </div>
     {%- endif -%}       
-
-
-    <div class="slideshow-container">
-        {%- for image in collections.images -%}
-            {%- if image.postfolder in page.inputPath -%}
-                <div class="mySlides fade">
-                    <img src="../media/{{image.path}}" class="slideshow-image">
-                </div>
-            {%- endif -%}
-        {%- endfor -%}
-        <a class="prev" onclick="plusSlides(-1)">❮</a>
-        <a class="next" onclick="plusSlides(1)">❯</a>
-    </div>
-    <br>
-    <div style="text-align:center">
-        {%- for image in collections.images -%}
-            {%- if image.postfolder in page.inputPath -%}
-                <span class="dot" onclick="currentSlide({{loop.index}})"></span>
-            {%- endif -%}
-        {%- endfor -%}
-    </div>
 
     {%- if links -%}
       <div class="p-article_hero" id="links">
