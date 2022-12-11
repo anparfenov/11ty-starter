@@ -40,18 +40,18 @@ templateClass: tmpl-post
         {% endif %}
         {% if galleryExists or strava or links %}
         <hr style="border-top: dashed 1px;" />
-          <div class="p-artilce_tags">
+          <ul class="p-article_content">
             Inhalt: 
             {% if galleryExists %}
-              <a href="#gallery" class="c-underline-link">    <img src="/static/gallery-symbol.png" style="height:1rem;width:auto"/>  Galerie</a>
+              <li><a href="#gallery" class="c-underline-link"><img src="/static/image.svg" style="height:1rem;width:auto"/>  Galerie</a></li>
             {% endif %}
             {% if strava  %}
-              <a href="#strava" class="c-underline-link">    ⏱  Strava</a>
+              <li><a href="#strava" class="c-underline-link"><img src="/static/strava.svg" style="height:1rem;width:auto"/>  Strava</a></li>
             {% endif %}
             {% if links %}
-              <a href="#links" class="c-underline-link">    🔗  Links</a>
+              <li><a href="#links" class="c-underline-link"><img src="/static/link.svg" style="height:1rem;width:auto"/>  Links</a></li>
             {% endif %}
-          </div>
+          </ul>
         <hr style="border-top: dashed 1px;" />
         {% endif %}
     </div>
