@@ -23,40 +23,36 @@ templateClass: tmpl-post
 
     <div class="p-article">
     <div class="p-article_hero">
-        {% if page.data.image %}
-            <picture>
-                <img src="/static/images/{{ page.data.image }}" alt="{{ post.data.imageAlt }}" />
-            </picture>
-        {% endif %}
+      {% if banner %}
+          <img src="../media/{{ banner }}" style="width:contain"/>
+      {% endif %}
         <time class="p-article_date" datetime="{{ page.date | htmlDateString }}">
             {{ page.date | en_readableDate }}
         </time>
         <h1 class="p-article_title">{{ title }}</h1>
         {% if tags %}
-          <div class="p-artilce_tags">
-            Tagged as: 
+          <div class="p-article_tags">
             {%- for tag in tags | filterTagList -%}
                 {%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}
-                <a href="{{ tagUrl | url }}" class="c-underline-link"> {{ tag }}</a>
-                {% if not loop.last %}
-                  | 
-                {% endif%}
+                <a href="{{ tagUrl | url }}" class="c-tag">{{ tag }}</a>
             {%- endfor %}
           </div>
         {% endif %}
-        {% if komoot or strava or links %}
+        {% if galleryExists or strava or links %}
+        <hr style="border-top: dashed 1px;" />
           <div class="p-artilce_tags">
-            Shortcuts 
+            Inhalt: 
+            {% if galleryExists %}
+              <a href="#gallery" class="c-underline-link">    <img src="/static/gallery-symbol.png" style="height:1rem;width:auto"/>  Galerie</a>
+            {% endif %}
             {% if strava  %}
-              <a href="#strava" class="c-underline-link"> &#x2192 Strava</a>
+              <a href="#strava" class="c-underline-link">    ⏱  Strava</a>
             {% endif %}
             {% if links %}
-              <a href="#links" class="c-underline-link"> &#x2192 Links</a>
-            {% endif %}
-            {% if galleryExists %}
-              <a href="#gallery" class="c-underline-link"> &#x2192 Gallery</a>
+              <a href="#links" class="c-underline-link">    🔗  Links</a>
             {% endif %}
           </div>
+        <hr style="border-top: dashed 1px;" />
         {% endif %}
     </div>
 
