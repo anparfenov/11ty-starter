@@ -1,6 +1,7 @@
 ---
 title: Mont Buet
 description: Bericht von der Gipfeltour auf den Mont Buet
+banner: L1040384.jpeg
 date: 2014-08-25
 tags:
   - MTB
