@@ -60,6 +60,20 @@
     }
 }
 
+.c-tag {
+    color: white;
+    background-color: gray;
+    min-height: 20px;
+    border-radius: 0.5rem;
+    padding-inline: 0.5rem;
+    padding-top: 0.1rem;
+    padding-bottom: 0.1rem;
+    margin-right: 0.5rem;
+    &:hover {
+        background-color: black;
+    }
+}
+
 .c-gradient-link {
     background: var(--main-gradient);
     display: inline-block;

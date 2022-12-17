@@ -14,153 +14,105 @@ templateClass: tmpl-post
   lightbox.init();
 </script>
 
-    {% set galleryExists = false %}
-    {%- for image in collections.images -%}
-      {%- if image.postfolder in page.inputPath -%}
-        {% set galleryExists = true %}
-      {%- endif -%}
-    {%- endfor -%}
+{% set galleryExists = false %}
+{%- for image in collections.images -%}
+  {%- if image.postfolder in page.inputPath -%}
+    {% set galleryExists = true %}
+  {%- endif -%}
+{%- endfor -%}
 
-    <div class="p-article">
-    <div class="p-article_hero">
-        {% if page.data.image %}
-            <picture>
-                <img src="/static/images/{{ page.data.image }}" alt="{{ post.data.imageAlt }}" />
-            </picture>
-        {% endif %}
-        <time class="p-article_date" datetime="{{ page.date | htmlDateString }}">
-            {{ page.date | en_readableDate }}
-        </time>
-        <h1 class="p-article_title">{{ title }}</h1>
-        {% if tags %}
-          <div class="p-artilce_tags">
-            Tagged as: 
-            {%- for tag in tags | filterTagList -%}
-                {%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}
-                <a href="{{ tagUrl | url }}" class="c-underline-link"> {{ tag }}</a>
-                {% if not loop.last %}
-                  | 
-                {% endif%}
-            {%- endfor %}
-          </div>
-        {% endif %}
-        {% if komoot or strava or links %}
-          <div class="p-artilce_tags">
-            Shortcuts 
-            {% if strava  %}
-              <a href="#strava" class="c-underline-link"> &#x2192 Strava</a>
-            {% endif %}
-            {% if links %}
-              <a href="#links" class="c-underline-link"> &#x2192 Links</a>
-            {% endif %}
-            {% if galleryExists %}
-              <a href="#gallery" class="c-underline-link"> &#x2192 Gallery</a>
-            {% endif %}
-          </div>
-        {% endif %}
-    </div>
+<div class="p-article">
+  <div class="p-article_hero">
+    {% if banner %}
+        <div><img src="../media/{{ banner }}" style="width:contain"/></div>
+    {% endif %}
+    <div class="p-article_blog-post-format">
+      <time class="p-article_date" datetime="{{ page.date | htmlDateString }}">
+          {{ page.date | en_readableDate }}
+      </time>
 
-    <div role="main" class="c-content">
-        {{ content | safe }}
-    </div>
-
-    {%- if galleryExists -%}
-      <h1 class="p-article_title">Gallery</h1>
-    {%- endif -%}
-    <div id="gallery" style="width:100%;column-width:10em;column-gap:8;margin:auto;margin-bottom:2em">
-      {% set printGalleryHeader = true %}
-      {%- for image in collections.images -%}
-        {%- if image.postfolder in page.inputPath -%}
-          <a href="../media/{{image.path}}" 
-            data-pswp-width="{{image.width}}" 
-            data-pswp-height="{{image.height}}" 
-            target="_blank">
-            <img src="../media/thumbnail-{{image.path}}" style="max-width:200px;margin-top:8px;flex-flow:column-wrap"/>
-          </a>
-        {%- endif -%}
-      {%- endfor -%}
-    </div>
-        
-    {%- if strava -%}
-      <div class="p-article_hero" id="strava">
-        <h1 class="p-article_title">Strava</h1>
-        {%- for stravaItem in strava -%}
-            <li><a href="{{stravaItem[1]}}" class="c-underline-link">{{stravaItem[0]}}</a></li>
-        {%- endfor -%} 
-      </div>
-    {%- endif -%}       
-
-    {%- if links -%}
-      <div class="p-article_hero" id="links">
-        <h1 class="p-article_title">Links</h1>
-          <ul>
-          {%- for link in links -%}
-            <li><a href="{{link[1]}}" class="c-underline-link">{{link[0]}}</a></li>
-          {%- endfor -%}
-          </ul>
-      </div>
-    {%- endif -%}
-
-    {%- set nextPost = collections.posts | getNextCollectionItem(page) %}
-    {%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
-    {%- if nextPost or previousPost %}
-    <div class="c-pagination">
-        <ul class="c-pagination_list">
-        {%- if nextPost %}
-            <li>Next: <a class="c-pagination_link c-underline-link" href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a></li>
-        {% endif %}
-        {%- if previousPost %}
-            <li>Previous: <a class="c-pagination_link c-underline-link" href="{{ previousPost.url | url }}">{{ previousPost.data.title }}</a></li>
-        {% endif %}
+      <h1 class="p-article_title">{{ title }}</h1>
+      {% if tags %}
+        <div class="p-article_tags">
+          {%- for tag in tags | filterTagList -%}
+              {%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}
+              <a href="{{ tagUrl | url }}" class="c-tag">{{ tag }}</a>
+          {%- endfor %}
+        </div>
+      {% endif %}
+      {% if galleryExists or strava or links %}
+      <hr style="border-top: dashed 1px;margin-top:2rem;margin-bottom:1rem" />
+        <ul class="p-article_content">
+          Inhalt: 
+          {% if galleryExists %}
+            <li><a href="#gallery" class="c-underline-link"><img src="/static/image.svg" style="height:1rem;width:auto"/>  Galerie</a></li>
+          {% endif %}
+          {% if strava  %}
+            <li><a href="#strava" class="c-underline-link"><img src="/static/strava.svg" style="height:1rem;width:auto"/>  Strava</a></li>
+          {% endif %}
+          {% if links %}
+            <li><a href="#links" class="c-underline-link"><img src="/static/link.svg" style="height:1rem;width:auto"/>  Links</a></li>
+          {% endif %}
         </ul>
-    </div>
-    {%- endif %}
-</div>
-
-<script>
-let slideIndex = 1;
-showSlides(slideIndex);
-
-function plusSlides(n) {
-  showSlides(slideIndex += n);
-}
-
-function currentSlide(n) {
-  showSlides(slideIndex = n);
-}
-
-function sliderKeyPressEvent(e) {
-  var keynum;
-  if(window.event) { // IE                  
-    keynum = e.keyCode;
-  } else if(e.which){ // Netscape/Firefox/Opera                 
-    keynum = e.which;
-  }
+      <hr style="border-top: dashed 1px;margin-top:1rem" />
+      {% endif %}
   
-  if(keynum == 37) { // left
-    plusSlides(-1)
-  }
-  if(keynum == 39) { // right
-    plusSlides(1)
-  }
-}
+      <h1 class="p-article_section-title">Bericht</h1>
+      <div role="main" class="c-content">
+          {{ content | safe }}
+      </div>
 
-document.onkeydown = sliderKeyPressEvent;
+      {%- if galleryExists -%}
+        <h1 class="p-article_section-title">Gallerie</h1>
+      {%- endif -%}
+      <div id="gallery" style="width:100%;column-width:10em;column-gap:8;margin:auto;margin-bottom:2em">
+        {% set printGalleryHeader = true %}
+        {%- for image in collections.images -%}
+          {%- if image.postfolder in page.inputPath -%}
+            <a href="../media/{{image.path}}" 
+              data-pswp-width="{{image.width}}" 
+              data-pswp-height="{{image.height}}" 
+              target="_blank">
+              <img src="../media/thumbnail-{{image.path}}" style="max-width:200px;margin-top:8px;flex-flow:column-wrap"/>
+            </a>
+          {%- endif -%}
+        {%- endfor -%}
+      </div>
+      
+      {%- if strava -%}
+        <div class="p-article_hero" id="strava">
+          <h1 class="p-article_section-title">Strava</h1>
+          {%- for stravaItem in strava -%}
+              <li><a href="{{stravaItem[1]}}" class="c-underline-link">{{stravaItem[0]}}</a></li>
+          {%- endfor -%} 
+        </div>
+      {%- endif -%}       
 
-function showSlides(n) {
-  let i;
-  let slides = document.getElementsByClassName("mySlides");
-  let dots = document.getElementsByClassName("dot");
-  if (n > slides.length) {slideIndex = 1}    
-  if (n < 1) {slideIndex = slides.length}
-  for (i = 0; i < slides.length; i++) {
-    slides[i].style.display = "none";  
-  }
-  for (i = 0; i < dots.length; i++) {
-    dots[i].className = dots[i].className.replace(" active", "");
-  }
-  slides[slideIndex-1].style.display = "block";  
-  dots[slideIndex-1].className += " active";
-}
-</script>
+      {%- if links -%}
+        <div class="p-article_hero" id="links">
+          <h1 class="p-article_section-title">Links</h1>
+            <ul>
+            {%- for link in links -%}
+              <li><a href="{{link[1]}}" class="c-underline-link">{{link[0]}}</a></li>
+            {%- endfor -%}
+            </ul>
+        </div>
+      {%- endif -%}
+    </div>
+  </div>
 
+  {%- set nextPost = collections.posts | getNextCollectionItem(page) %}
+  {%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
+  {%- if nextPost or previousPost %}
+  <div class="c-pagination">
+    <ul class="c-pagination_list">
+    {%- if nextPost %}
+        <li>Next: <a class="c-pagination_link c-underline-link" href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a></li>
+    {% endif %}
+    {%- if previousPost %}
+        <li>Previous: <a class="c-pagination_link c-underline-link" href="{{ previousPost.url | url }}">{{ previousPost.data.title }}</a></li>
+    {% endif %}
+    </ul>
+  </div>
+  {%- endif %}
+</div>
