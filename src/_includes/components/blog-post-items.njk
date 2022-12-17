@@ -1,9 +1,9 @@
 {% for post in postslist %}
     <li class="c-post-item">
-        <article class="{% if includeImage and post.data.image %} l-post-grid--image {% else %} l-post-grid {% endif %}">
-            {% if includeImage and post.data.image %}
+        <article class="{% if includeImage and post.data.banner %} l-post-grid--image {% else %} l-post-grid {% endif %}">
+            {% if includeImage and post.data.banner %}
                 <picture class="l-post-grid_image">
-                    <img src="/static/images/{{ post.data.image }}">
+                    <img src="{{post.url}}media/{{ post.data.banner }}">
                 </picture>
             {% endif %}
             <div class="l-post-grid_title">

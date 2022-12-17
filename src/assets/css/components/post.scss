@@ -4,7 +4,7 @@
 
 .c-posts-list {
     display: flex;
-    flex-flow: column nowrap;
+    flex-flow: row wrap;
     gap: 1rem;
 
     &--archive, &--tags {
@@ -12,7 +12,13 @@
     }
 }
 .c-post-item {
-    min-width: calc(100% / 2 - 1rem);
+    width: calc(100% / 3 - 1rem);
+    @media screen and (max-width: 1000px) {
+        width: calc(100% / 2 - 1rem);
+    }
+    @media screen and (max-width: 600px) {
+        width: 100%;
+    }
     &_date {
         font-size: var(--text-sm);
         color: var(--color-gray-900);
