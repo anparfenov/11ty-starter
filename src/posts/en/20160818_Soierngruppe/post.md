@@ -2,6 +2,7 @@
 title: König Ludwig und wir
 description: Bericht vom Kurzausflug von HDF in die Soierngruppe
 date: 2016-08-19
+banner: IMG_20160806_101459.jpeg
 tags:
   - MTB
   - Soierngruppe

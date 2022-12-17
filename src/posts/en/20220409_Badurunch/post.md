@@ -2,6 +2,7 @@
 title: Bad Uranch
 description: Bericht vom HDF Ausflug nach Bad Urach im Frühjahr 2022 
 date: 2022-04-09
+banner: PXL_20220409_115149610.jpeg
 tags:
   - MTB
   - Run

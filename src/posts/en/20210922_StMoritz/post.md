@@ -2,6 +2,7 @@
 title: Wir werden planschen
 description: Bericht von der Hüttentour im Schweizer Regen
 date: 2014-08-25
+banner: 2021-09-20-11.08.22.jpeg
 tags:
   - MTB
   - St. Moritz

@@ -2,6 +2,7 @@
 title: Matterhorn
 description: HDF Ausflug in die Schweiz
 date: 2015-07-24
+banner: 20150723_154615.jpeg
 tags:
   - MTB
   - Zermatt
