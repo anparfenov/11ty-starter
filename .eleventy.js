@@ -57,7 +57,7 @@ async function generateImages() {
 		}
 	};
 
-	let files = await glob('./src/**/media/*.{jpg,jpeg,png,gif}');
+	let files = await glob('./src/**/media/*.{jpg,jpeg,png,gif,JPG,JPEG,PNG,GIF}');
 
 	for(const f of files) {
 		console.log('image processing: ',f);
