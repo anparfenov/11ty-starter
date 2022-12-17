@@ -44,4 +44,15 @@
         text-transform: uppercase;
         margin-top: 2rem;
     }
+
+    @media screen and (min-width: 800px) {
+        &_blog-post-format {
+            position:relative;
+            top:-80px;
+            width:80%;
+            margin:auto;
+            background-color:white;
+            padding:10px
+        }            
+    }
 }
