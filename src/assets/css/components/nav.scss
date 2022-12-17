@@ -2,11 +2,13 @@
 
 .c-nav-list {
     display: flex;
-    flex-flow: row wrap;
+    position: absolute;
+    top: 1rem;
     margin: auto;
     align-items: center;
     justify-content: center;
-    gap: 5rem;
+    transform: translateX(-50%);
+    gap: 10%;
     &_item {
         margin: auto;
         &--active {
