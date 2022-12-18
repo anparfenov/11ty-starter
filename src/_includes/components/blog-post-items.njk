@@ -6,23 +6,17 @@
                     <img src="{{post.url}}media/{{ post.data.banner }}" style="aspect-ratio:4/3;object-fit: cover">
                 </picture>
             {% endif %}
+            <div class="l-post-grid_meta c-post-item_meta">
+                <time class="c-post-item_date" datetime="{{ post.date | htmlDateString }}">
+                    {{ post.date | en_readableDate }}
+                </time>
+            </div>
             <div class="l-post-grid_title">
                 <a href="{{ post.url | url }}" class="c-gradient-link">
                     <h3 class="c-post-item_title">{{ post.data.title }}</h3>
                 </a>
             </div>
             <p class="c-post-item_desc l-post-grid_desc">{{ post.data.description }}</p>
-            <div class="l-post-grid_meta c-post-item_meta">
-                {% if locale == 'en' %}
-                    <time class="c-post-item_date" datetime="{{ post.date | htmlDateString }}">
-                        {{ post.date | en_readableDate }}
-                    </time>
-                {% else %}
-                    <time class="c-post-item_date" datetime="{{ post.date | htmlDateString }}">
-                        {{ post.date | ru_readableDate }}
-                    </time>
-                {% endif %}
-            </div>
         </article>
     </li>
 {% endfor %}
