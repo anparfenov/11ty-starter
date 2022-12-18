@@ -10,10 +10,8 @@ pagination:
     - posts
     - tagList
   addAllPagesToCollections: true
-layout: layouts/home.njk
+layout: layouts/tags.njk
 eleventyComputed:
   title: Tagged “{{ tag }}”
 permalink: /tags/{{ tag | slug }}/
 ---
-
-{% extends "pages/tags.njk" %}
