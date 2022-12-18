@@ -1,5 +1,5 @@
 module.exports = {
     en: {
-        title: 'Archive'
+        title: "Heidelberg's Finest Mountainbike Trails"
     }
 }

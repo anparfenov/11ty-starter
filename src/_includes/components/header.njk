@@ -1,7 +1,11 @@
 <header class="c-header">
     {% if banner %}
-      <div><img src="media/{{ banner }}" style="width:contain"/></div>
-    {% endif %} 
+      <div><img src="media/{{ banner }}" style="aspect-ratio:16/9;object-fit:cover"/></div>
+    {% elif titleimage %}
+      <div><img src="../static/title-image/{{ titleimage }}" style="aspect-ratio:16/9;object-fit:cover"/></div>
+    {% else %}
+       <div><img src="../../static/title-image/IMG_20161016_082204.jpg" style="aspect-ratio:16/9;object-fit:cover"/></div>
+    {% endif %}
     <nav role="navigation" class="c-nav">
         {% set navPages = collections.all | eleventyNavigation %}
         {% macro renderNavListItem(entry) -%}

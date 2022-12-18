@@ -2,8 +2,19 @@
 @forward "../layouts/post-grid";
 
 .p-archive {
-    width: 100%;
+    width: 80%;
     max-width: var(--max-content-width);
     margin: 0 auto;
     padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    background: var(--gradient-header);
+    margin-bottom: 1rem;
+
+    @media screen and (min-width: 800px) {
+        position:relative;
+        top:-80px;
+        background-color:white;
+        padding:10px          
+    }
 }
