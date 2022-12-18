@@ -1,19 +1,9 @@
 .c-simple-link {
     color: var(--color-text);
-    padding: 0.25rem;
-    border-radius: 0.25rem;
     transition: background 0.2s;
 
-    &:hover {
-        background: var(--color-accent);
-    }
-
-    &:visited {
-        color: var(--color-text);
-
-        &:hover {
-            background: var(--color-accent);
-        }
+    :hover {
+        color: var(--color-accent);
     }
 
     &--active {

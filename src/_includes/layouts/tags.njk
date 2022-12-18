@@ -1,0 +1,22 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-post
+---
+
+<div class="p-article">
+  <div class="p-article_hero">
+    <div class="p-article_blog-post-format"> 
+      <h1 class="p-article_title">{{ tagsPage[locale].tag | capitalize }}: {{ tag }}</h1>
+      <div class="p-archive">
+        {% set postslist = collections[ tag ] %}
+        {% if postslist | length %}
+          <ul class="c-posts-list c-posts-list--archive">
+            {% set includeImage = true %}
+            {% include "components/blog-post-items.njk" %}
+          </ul>
+        {% else %}
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</div>

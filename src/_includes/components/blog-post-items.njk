@@ -1,37 +1,22 @@
 {% for post in postslist %}
     <li class="c-post-item">
-        <article class="{% if includeImage and post.data.image %} l-post-grid--image {% else %} l-post-grid {% endif %}">
-            {% if includeImage and post.data.image %}
+        <article class="{% if includeImage and post.data.banner %} l-post-grid--image {% else %} l-post-grid {% endif %}">
+            {% if includeImage and post.data.banner %}
                 <picture class="l-post-grid_image">
-                    <img src="/static/images/{{ post.data.image }}">
+                    <a href="{{ post.url | url }}"><img src="{{post.url}}media/{{ post.data.banner }}" style="aspect-ratio:4/3;object-fit: cover"></a>
                 </picture>
             {% endif %}
+            <div class="l-post-grid_meta c-post-item_meta">
+                <time class="c-post-item_date" datetime="{{ post.date | htmlDateString }}">
+                    {{ post.date | en_readableDate }}
+                </time>
+            </div>
             <div class="l-post-grid_title">
-                <a href="{{ post.url | url }}" class="c-gradient-link">
+                <a href="{{ post.url | url }}" class="c-simple-link">
                     <h3 class="c-post-item_title">{{ post.data.title }}</h3>
                 </a>
             </div>
             <p class="c-post-item_desc l-post-grid_desc">{{ post.data.description }}</p>
-            <div class="l-post-grid_meta c-post-item_meta">
-                {% if locale == 'en' %}
-                    <time class="c-post-item_date" datetime="{{ post.date | htmlDateString }}">
-                        {{ post.date | en_readableDate }}
-                    </time>
-                {% else %}
-                    <time class="c-post-item_date" datetime="{{ post.date | htmlDateString }}">
-                        {{ post.date | ru_readableDate }}
-                    </time>
-                {% endif %}
-                {% if post.data.tags %}
-                    <span> | </span>
-                    <ul class="l-post-grid_tags">
-                        {% for tag in post.data.tags | filterTagList %}
-                            {% set tagurl = "/tags/" + tag | slugify  %}
-                            <a href="{{ tagurl | url  }}/" class="c-underline-link">{{ tag }} </a>
-                        {% endfor %}
-                    </ul>
-                {% endif %}
-            </div>
         </article>
     </li>
 {% endfor %}
