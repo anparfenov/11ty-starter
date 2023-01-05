@@ -62,7 +62,7 @@ Langsam neigt sich der Tag auch dem Ende zu. Es ist 18 Uhr, das Licht ändert si
 
 Die Schutzhütte [Fodara Vedla](https://www.fodara.it/de) ist weniger Schutzhütte als ein Hotel. Es gibt eine Fußbodenheizung und ein Bad, das den Immobilienwert von manchem Heidelberger Altbau verdoppeln würde. Die Garage erinnert an das Versteck eines James Bond Superschurken - den Eingang zu einem geheimen Stollen, der zur Kommandozentrale führt, tief im Berg, finden wir jedoch nicht. Dafür überzeugt die Küche, wenn auch nicht mit üppigen Portionen oder vielfältigen vegetarischen Auswahlmöglichkeiten. Und: Es gibt Nachtisch - vermutlich auch ohne Nachfrage.
 
-![Angekommen an der Fodara Vedla](../media/2022-10-05%2017.36.04.jpeg)
+![Angekommen an der Fodara Vedla](media/2022-10-05%2017.36.04.jpeg)
 
 # Sonntag 2. Oktober
 

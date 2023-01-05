@@ -2,7 +2,7 @@
 title: FLNDWLD X
 description: Der erste Odenwald Bikepacking Cross von HDF - Die Legende 
 date: 2017-04-01
-banner: "_MG0072.jpeg"
+banner: "_MG_0072.jpeg"
 tags:
   - MTB
   - Südtirol
@@ -30,6 +30,8 @@ Und so langsam verlassen wir vertrautes Gelände und tauchen tiefer in den Natio
 Auf einmal steht er da. Mitten im Wald. Gemeinsam mit seinem Rotwild. Ich glaub er war 5 Meter groß und sprach hessisch. Guter Mann. Er scheuchte uns seine Lieblinsgtrails rauf und runter. Wir jagen ihm Respekt ab in dem wir uns mit den schwer bepackten Bikes auch die schwierigsten Trails noch mit Freude in den Augen runter stürzen…der Ritterschlag erfolgt dann mit der Einladung auf seine Terasse - man müsste diesen Tag ja angemessen beenden. Was im Odenwald soviel heißt wie: Schobbe in de Kopp! Und ganz nebenbei gab es noch unzählige Trail Tales aus der Gegend und bestem Äppelwoi. Unser Gastgeber zeigte sich in beiden fällen sehr spendabel. Zum Abschluss gab er uns noch einen Tipp für unser erstes Nachtlager - die Dreimärkter Hütte im Brombachtal.
 
 Ein Holzverschlag auf einer kleinen Erhöhung mit Blick auf eine Wiese. Tiptop. Ist gekauft! Dank EPPL haben wir alle nen Hut auf - allerdings kam die feste Nahrung zu kurz, daher wird jetzt mal als erstes aufgekocht: Nudeln mit Pesto. Ein Klassiker der Outdoor Küche. Natürlich wird weiter mit Care gebembelt und der Zeltaufbau hat seinen eigenen Flow…die Nacht ist kalt. Zu kalt für meinen Ultralight Schlafsack. 
+
+![Nachtlager oberhalb von Epples Ebbelwoiranch](media/_MG_0054.jpeg)
 
 # Tag 2: Langenbrombach - Hesselbach
 
