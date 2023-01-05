@@ -13,8 +13,6 @@ strava:
   - ["Andy - Samstag" ,"https://www.strava.com/activities/2612467815"]
   - ["Andy - Samstag" ,"https://www.strava.com/activities/2612468237"]
 
-
-
 layout: layouts/post.njk
 ---
 

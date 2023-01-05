@@ -10,7 +10,6 @@ tags:
   - Andy
   - Mark
 
-
 layout: layouts/post.njk
 ---
   
