@@ -1,5 +1,5 @@
 ---
-title: Samoens und die Entdeckung der Otterköpfe
+title: Sixt-Fer-à-Cheval und die Entdeckung der Otterköpfe
 description: Zurück im Grand Massif
 date: 2018-08-17
 banner: "IMG_20180829_130408.jpeg"
