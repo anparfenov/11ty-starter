@@ -1,4 +1,4 @@
-{% for post in postslist %}
+{% for post in postslist | reverse %}
     <li class="c-post-item">
         <article class="{% if includeImage and post.data.banner %} l-post-grid--image {% else %} l-post-grid {% endif %}">
             {% if includeImage and post.data.banner %}
