@@ -1,6 +1,6 @@
 ---
 title: König Ludwig und wir
-description: Bericht vom Kurzausflug von HDF in die Soierngruppe
+description: Bayern im Sommer
 date: 2016-08-19
 banner: IMG_20160806_101459.jpeg
 tags:
@@ -28,6 +28,7 @@ layout: layouts/post.njk
 
 13.00 Uhr – Ich sitze am Isarufer in München und spiele Pirat.
 
+
 # Tag #2
 
 9.00 Uhr – Pünktlich fährt der EC von München nach Heidelberg mit meiner Frau, meinen beiden Söhnen – und ohne mich. Der zweite halbe Tage kann beginnen. Erneut hole ich Andy in Laim ab, enrneut gibt’s Gustoecken. Noch schnell Ipalat und die Apothekenumschau besorgen, dann ab auf die A95 in den Stau Richtung Garmisch
@@ -47,6 +48,7 @@ layout: layouts/post.njk
 20.00 Uhr – Wir sind zu spät zum offiziellen Essenfassen, was sich aber nicht unbedingt als Nachteil herausstellt. Andy hat glücklicherweise noch den Hüttenwirt vorgewarnt und so stehen für uns drei Portionen Penne Napoli auf dem Herd, die wir alleine auf der Terrasse mit Blick auf die Soierngruppe essen. Bei Weißbier Nummer zwei und drei können wir die sich näherende Gewitterfront beobachten aber ich verabschiede mich bald ins Lager. Ich bin nicht ganz fit und möchte wieder zu Kräften kommen, da wir uns darauf verständigt haben bei entsprechendem Wetter die Gumpenkarspitze zum Sonnenaufgang zu versuchen.
 
 22.00 Uhr – Bei Andy im Zimmer schnarcht ein Profi.
+
 
 # Tag #3
 

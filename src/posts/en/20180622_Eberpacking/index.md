@@ -1,6 +1,6 @@
 ---
 title: Eberpacking
-description: Bikepacking um die Burg Stolzeneck 
+description: Odenwald im Frühling
 date: 2022-10-05
 banner: _DSC0068.jpeg
 tags:

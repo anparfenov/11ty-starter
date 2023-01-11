@@ -1,6 +1,6 @@
 ---
-title: Mont Buet
-description: Bericht von der Gipfeltour auf den Mont Buet
+title: Gipfelsturm Mont Buet
+description: Sixt-Fer-à-Cheval im Sommer
 banner: L1040384.jpeg
 date: 2014-08-25
 tags:
