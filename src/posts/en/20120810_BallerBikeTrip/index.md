@@ -1,8 +1,8 @@
 ---
 title: Baller Bike Trip
-description: Von Salzbvurg nach Meran
+description: Von Salzburg nach Meran
 date: 1980-01-07
-banner: "L1040393.jpeg"
+banner: "L1010910.jpeg"
 tags:
   - MTB
   - Südtirol
