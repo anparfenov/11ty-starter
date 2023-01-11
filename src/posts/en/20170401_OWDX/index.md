@@ -1,5 +1,5 @@
 ---
-title: FLNDWLD X
+title: FLWDNWLD X
 description: Der erste Odenwald Bikepacking Cross von HDF - Die Legende 
 date: 2017-04-01
 banner: "_MG_0072.jpeg"
@@ -33,6 +33,7 @@ Ein Holzverschlag auf einer kleinen Erhöhung mit Blick auf eine Wiese. Tiptop. 
 
 ![Nachtlager oberhalb von Epples Ebbelwoiranch](media/_MG_0054.jpeg)
 
+
 # Tag 2: Langenbrombach - Hesselbach
 
 Zum Glück ist die Nacht kurz und weil wir kein Aufsehen erregen wollen, packen wir schnell zusammen und es gibt nur einen schnellen Tee auf die Hand. Die ausgedehnte Frühstückspause gibt‘s beim Bäcker in Bad König, wo wir Felix treffen wollen. Bei Schokocroissant und Puddingplunder fällt das Wiedersehen besonders herzlich aus - Félix hab ich vermutlich das letzte Mal auf Marks Hochzeit gesehen. 
@@ -48,6 +49,7 @@ Nachdem wir gemeinsam noch ein paar Trails um Amorbach zerflext habe, ist die La
 Unser zweites Nachtlager findet bei Emils Ruhe nicht unweit des Vereinshaus des SV Hesselbach und dem dort lokalisierten Bierautomaten! Die Zelte sind in bierseliger Stimmung schnell aufgebaut und Stiefel schenkt ein: Es gibt Gin Tonic! Aber da für Felix Gusto die Flasche viel zu klein ist, nutzt er die Zeit, während Mark noch was aufkocht, um dem Bierautomaten leerzuräumen. Sicherheit ist King! Dabei trifft er auch nochmal unsere beiden Freunde beim Fußball schauen. Guude un ab, der Krom muss ja fod! 
 
 Leider fängt es an zu regnen und wir beenden unser Gelage und verziehen uns in die Zelte - alle sind angemessen bedient und so kann auch Felix beruhigt einschlafen. 
+
 
 # Tag 3: Hesselbach - Erbach
 
