@@ -1,5 +1,4 @@
 ---
-eleventyExcludeFromCollections: true
 title: Baller Bike Trip
 description: Von Salzbvurg nach Meran
 date: 1980-01-07
