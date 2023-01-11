@@ -27,9 +27,11 @@ layout: layouts/post.njk
 
 Die Wettervorhersage für St. Moritz am 1. Oktober schaut nicht mehr so prickelnd aus. Summa summarum 30 cm Schnee soll die Tage auf 3000m fallen. Südtirol wird als Alternative immer ernsthafter diskutiert. Nur das macht uns Elmar, Andys Local aus Toblach, auch nicht unbedingt schmackhaft mit Bildern vom verschneiten Grödner Joch und Rückfragen bezüglich unserer Konzentrationsausdauer. Wenn der wüsste.
 
+
 # Mittwoch 28. September
 
 Die Entscheidung fällt für Südtirol. Die Webcams schauen gut aus und die Wettervorhersage passt auch in weiten Teilen. Elmar hat Zutrauen in unsere Fähigkeiten gefunden und macht die Endabnahme unserer Tourenplanung. Da mussten leider auf den letzten Metern nochmal Modifikationen gemacht werden, weil die Dürrensteinhütte auf der Plätzwiese im Oktober nur noch Tagesgäste bewirtet. Somit steht zwangsweise mehr Komfort als ursprünglich geplant auf dem Plan, aber man ist ja auch schon etwas älter.
+
 
 # Freitag 30. September
 
@@ -44,7 +46,9 @@ Nachts aufbleiben und Gruselgeschichten erzählen.
 
 Für alle Teilnehmer ist es eine Weile her, dass man mal für 120h nur mit Belanglosigkeiten, nur mit sich selbst beschäftigt war. Aber Euphorie stellt sich noch nicht ein. Mit 111 km/h segeln wir über die A8 nach München zu Andy. Der hat zwar direkt vor der Haustür einen Parkplatz reserviert, aber auf Grund eines Staus dauert das dann doch bis weit nach Mitternacht, bis wir die offizielle Biergrüßung auf dem Sofa im Wohnzimmer nehmen.
 
+
 # Samstag 1. Oktober
+
 
 <iframe src="https://www.komoot.de/tour/937397546/embed?share_token=aYxmVyIakSSgp1WNmKoYY0rCKLAgLW6RLC7TItgH6MaJemFDKm" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
@@ -64,7 +68,10 @@ Die Schutzhütte [Fodara Vedla](https://www.fodara.it/de) ist weniger Schutzhüt
 
 ![Angekommen an der Fodara Vedla](media/2022-10-05%2017.36.04.jpeg)
 
+
+
 # Sonntag 2. Oktober
+
 
 <iframe src="https://www.komoot.de/tour/937409186/embed?share_token=aiwEK1exrpbIwe1HyZzlN0OGAFWE7G9K6HiLiH6Sa60PxUie4O" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
@@ -72,15 +79,18 @@ Der Tag beginnt einsam im Frühstückssaal. Es ist 7 Uhr und die einzigen, die a
 
 ![Im Fanestal](../media/2022-10-02%2011.20.23.jpeg)
 
+
 Inspiriert von scheu.eu und Elmar planen wir heute eine Erkundungstour Richtung Kreuzkofel und zurück am Col Bechei vorbei Richtung Sennes. Und so steigen wir nach kurzer Rast ohne Einkehr weiter bis auf knapp 2400m im Fanes Hochtal. Hier ist nichts mehr zu fahren, das Rad wird getragen oder geschoben. Mit jedem Meter wird der Wind stärker und das Panorama besser. Aber gleichzeitig mischt sich immer mehr Schnee in die Aussicht und es ist klar, dass wir beides, Kreuzkofel und Col Bechei, nicht an einem Tag schaffen werden. Wir beschließen, umzukehren und nehmen die zweite Abfahrt des Tages in Angriff. Viel mehr ist fahrbar als ursprünglich gedacht. Es ist trocken und die Pneus entwickeln ordentlich Grip auf dem Dolomitenfels. Lediglich ein längeres Karstfeld müssen wir schiebend bewältigen. An der Lavarellahütte gibt es dann ein Bierchen aus der höchsten Brauerei Europas und deluxe Spinatknödel. Andy unternimmt auch noch einen Badeversuch, muss sich aber den extremen Temperaturen geschlagen geben. Abends wartet ja wieder unser Hotelbadezimmer. 
 
 Während des Vormittags konnten wir lange Zeit unser nächstes Tagesziel den Col Picodei bestens einsehen. Das beflügelt die Neugier und wir brechen bald auf zum nächsten Anstieg. Diesen bewältigen wir bis zum Limosee noch im Sattel, danach kommt das Bike auf den Rücken. Und das alles nur um herauszufinden, dass der Pfad ab dem Col Picodei weiter nach Osten gesperrt ist. Naja, die Aussicht ist auch nicht von schlechten Eltern. Insbesondere vom Gipfel, den wir ohne Räder erreichen, bietet sich eine fantastische Rundumsicht auf die umliegenden Bergmassive. Nur die Drei Zinnen können wir noch nicht erkennen.
 
 ![Am Col Picodei](../media/2022-10-02%2014.15.09.jpeg)
 
+
 Es bleibt uns also nicht wirklich eine andere Wahl und wir machen uns auf dem Aufstiegsweg zurück Richtung Faneshütte. Der Weg ist deutlich flowiger als heute morgen und so ballern wir halb motiviert zurück zu den Seen und führen nebenbei das ein oder andere Gespräch. Nachdem unser Vesper auf einer Aussichtsbank oberhalb der Faneshütte vernichtet wurde, nehmen wir den unteren Teil des 7er Trail in Angriff und auch diese Episode macht erneut großen Spaß. Und so ist auch der größte Wermutstropfen an diesem Tag nicht der gesperrte Trail, sondern Andys Bremse, die immer mehr Probleme mit dem Druckpunkt macht.
 
 Auf dem Rückweg zur Fodara Vedla machen wir erneut bei der Pederühütte Station für unseren Apfelstrudel. Auf dem folgenden Uphill ist dann deutlich mehr fahrbar als noch am Tag zuvor. Die längste Pause legen wir ein, weil mir ernsthaft der linke Kurbelarm kurzzeitig von der Welle fällt. Beim Abendessen machen wir dann Bekanntschaft mit Florian, einem Bikepacker der eigentlich eine Berghütte gebucht hatte, aber jetzt ein Lager mit eigener Badewanne hat. Die Unterhaltung mit ihm ist kurzweilig und er kann uns auch mit Werkzeug helfen für Andys Bremse. Leider hat es in der Werkstatt der Hütte kein Mineralöl, deshalb nehmen wir als Fallback Olivenöl aus der Küche. Die Stimmung bei der Entlüftungssession in der Garage ist gut, aber alle Theorien stellen sich als wenig zielführend raus und so wird Andreas auch am nächsten Tag wieder ohne richtigen Druckpunkt auf Tour gehen.
+
 
 # Montag 3. Oktober
 
@@ -92,9 +102,11 @@ Wir teilen uns die Sennesalm an diesem Morgen mit vier bis fünf weiteren Wander
 
 <iframe src="https://www.komoot.de/tour/942543524/embed?share_token=anXZ2FodWyx4sb9FY1E46cgJvY1xGSsFUGUXcDIie8E2EcyaAj" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
+
 Mittlerweile ist allen klar, dass mit Andys Bremse was geschehen muss, damit in den kommenden Tagen Fahrspaß und womöglich gar Sicherheit nicht auf der Strecke bleiben. Die Touristeninformation am Pragser Wildsee ist wenig hilfreich, aber mit dem Smartphone haben wir recht fix einen Bikeshop in Welsberg ausgeguckt und mit einer halbwegs sinnvollen Route über den Kühwiesenkopf verbunden. Der Rosskopf, beschrieben auf ride.ch, wurde also gestrichen und - Oh Boy - das war ein Volltreffer. Zum einen lassen wir nach unserem Essen im Seerestaurant innerhalb von wenigen Minuten den ganzen Trubel hinter uns, zum anderen reiht sich der Kühwiesenkopftrail hinab nach Welsberg in Punkto Fahrspaß und Panorama auf ähnlichem Niveau ein, wie die Leckerbissen zuvor. Schier endlos zieht sich der Singletrail hinab und hat dabei alles am Start, was das Bikerherz begehrt.
 
 ![KWK](../media/2022-10-03%2015.08.07.jpeg)
+
 
 Im Bikeshop angekommen endet unsere Glückssträhne weiterhin nicht. 90 Sekunden nachdem wir vorstellig wurden mit unserem Problem, hängt Andys Fanes schon am Montageständer, und nochmal 5 Minuten später ist der Druckpunkt wieder da.
 
@@ -102,9 +114,11 @@ Ich habe derweil Bier besorgt im Keller vom Supermarkt. Das lassen wir uns währ
 
 Auf dem finalen Uphill zum Hanslerhof kommen dann nochmal 70hm auf die Uhr. Zuerst wissen wir gar nicht, wo wir genau hin müssen, denn es ist absolut dunkel, als wir ankommen und der Bauernhof sieht von außen sehr unscheinbar aus. Von innen entpuppt sich das Zimmer allerdings wieder als äußerst komfortabel - wir müssen auf unseren Fußbodenheizungsstandard nicht verzichten.
 
+
 # Dienstag 4. Oktober
 
 <iframe src="https://www.komoot.de/tour/928171772/embed?share_token=a9WNMi1ndtUI7HINZFecgzSE1uoEU7Bnr4e8pO3j5ConQe3v8P" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+
 
 Das Frühstück im Hanslerhof ist üppig. Schokokuchen, Quarkufos, Eier im Doppelpack, Joghurt, you name it. Während des Anstiegs zur Plätzwiese, eigentlich super gemütlich auf Asphalt zu bewältigen, stellt sich dann auch heraus, dass ich besser etwas weniger gegessen hätte. Aber nach einem kurzen Tief geht es im finalen Anstieg zum Strudelkopf schon wieder besser. Hier oben ist einiges los. Viele Wanderer kommen mit dem Bus auf die Plätzwiese und genießen nach kurzer Wanderung genau wie wir die Aussicht auf die Drei Zinnen und den südlich gelegenen Cristallino d’Ampezzo.
 
@@ -115,17 +129,21 @@ Nach dem Essen folgen wir der Bundesstraße auf einem Radweg und verlassen die P
 
 ![Abends an der Forcella Popena](../media/2022-10-04%2017.32.02.jpeg)
 
+
 Das Grand Hotel Misurina fällt dann aber gegenüber den anderen Unterkünften etwas ab. Der Name trägt zwar dick auf, aber unser Zimmer ist weniger gemütlich, und das Essen ist auch nicht wirklich auf dem mittlerweile gewohnten Standard. Naja, das Vorspeisenbuffet leistet, auch wenn wir uns das mit der legendären Kaiser Gruppe teilen müssen, was hier und da auch mal Schlange stehen bedeutet. Immerhin konnten wir den Hotelpool nutzen, ganz regelkonform mit Reservierung und Gore Badekappe.
+
 
 # Mittwoch 5. Oktober
 
 <iframe src="https://www.komoot.de/tour/938004247/embed?share_token=aNo6xPEXdmJyOD1KHdC9f2hVinmzQyLKQBwFY2nKnrPwt9mKMZ" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+
 
 Der letzte Tag beginnt früh. Noch vor dem Frühstück mit Pulverei organisieren wir uns. Die Verpflichtungen nach der Tour und der lange Heimweg nach Heidelberg holen uns ein. Aber noch ist Urlaub angesagt. Zum fünften Mal starten wir bei wunderschönem Herbstwetter in den Tag. Noch ist es knackig kalt, aber der Himmel strahlt blau und es soll später 23°C warm werden. Von der Tiefgarage wechseln wir auf eine Fahrstraße, die uns zusammen mit Bussen, Autos und Motorrädern hoch zum Rifugio Auronzo bringt. 
 
 An der Mautstation überholen wir eine ganze Stange der motorisierten Fahrzeuge, und danach wird es auch angenehmer auf der Straße zu fahren, da die Autos nun immer mit etwas Abstand kommen. Während mich der Verkehr zu Anfang noch stört, habe ich bald meinen Frieden damit gemacht und genieße die Aussicht auf die Drei Zinnen, die mit jeder Kehre näher kommen. Am Rifugio ist dann High Life. Der Parkplatz ist voll, ebenso die Wege weiter Richtung Paternsattel. Deshalb halten wir uns hier an das Bikeverbot, schieben unsere Bikes und werden Teil der Völkerwanderung. Am Paternsattel fällt dann endgültig die Entscheidung, heute eine etwas kürzere Tour in Angriff zu nehmen als ursprünglich geplant, hauptsächlich, um nicht erst gegen 3 Uhr morgens in Heidelberg anzukommen. Das gibt uns auch für den Rest des Tages etwas mehr Luft und diese nutzen wir dann auch gleich für eine Kraxelvariante vom Paternsattel zur Drei Zinnen Hütte. Anstatt den unten in der Hochebene verlaufenden Weg zu nehmen, queren wir oberhalb auf einem Pfad, der, soweit wir das einsehen konnten, fahrbar aussah. Das stellte sich aber nach der ersten Ecke als Irrtum heraus. An der ein oder anderen Stelle kamen wir etwas ins Schwitzen, wurden aber schlussendlich mit der Aussicht aus einer Galerie, die im Krieg in den Fels gesprengt wurde, belohnt.
 
 ![An der Drei Zinnen Hütte](../media/2022-10-05%2017.33.48.jpeg)
+
 
 An der Drei Zinnen Hütte angekommen, verspeisten wir unser Vesper, genossen noch ein letztes Mal die Aussicht auf die ikonischen Drei Zinnen und machten uns dann an die von Elmar angepriesene, letzte Abfahrt der Tour durch das Fischleintal. Offiziell ist dieser Trail verboten, aber bis auf eine Studienrätin fühlte sich niemand von unserer Performance gestört. Ganz im Gegenteil - die Urlauber, die sich ab Sexten zu Fuß durchs Fischleintal auf den Weg gemacht hatten an diesem Tag, feierten uns richtig ab. “Ihr seids brutal” war nur eines der vielen Komplimente, die wir zu hören bekamen. Nach vier Tagen im Sattel waren wir aber auch wirklich top in Form, und auf Grund der gut moderierten täglichen Umfänge, auch nicht zu erschöpft, um auf der letzten Abfahrt nicht unser bestes Tennis zu zeigen. Beseelt von den Drei Zinnen, vom Tal, vom Biken kamen wir an der Talschlusshütte an und genossen ab hier einen gemütlichen Roll-Out nach Toblach, vorbei an Kulturlandschaften die ein bisschen zu perfekt aussahen. Ist Südtirol vielleicht gar nicht real? Wir wissen es nicht!
 

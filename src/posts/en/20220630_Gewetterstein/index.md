@@ -2,7 +2,7 @@
 title: Gewetterstein
 description: Wetterstein im Sommer
 date: 1980-01-07
-banner: "IMG_2229.jpg"
+banner: "IMG_2229.jpeg"
 tags:
   - Run
   - Österreich
