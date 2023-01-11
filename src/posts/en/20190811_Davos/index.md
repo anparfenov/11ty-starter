@@ -24,7 +24,7 @@ layout: layouts/post.njk
 
 We still got the feeling… auch wenn zwei andere Ballerboys auf ihren Enduroboliden an uns vorbei schmettern als müssten sie irgendwas in ihr Schließfach packen… entspannt euch mal, Leude! Wir sind ja im Urlaub - am Talboden dann auch offiziell. Hier beginnt der Aufstieg durch das idyllische Dischmatal zur Keschhütte. 
 
-![Durchs Dischmatal zur Keschhütte(media/2019-08-11%2015.42.02.jpeg "Durchs Dischmatal zur Keschhütte")
+![Durchs Dischmatal zur Keschhütte](media/2019-08-11%2015.42.02.jpeg "Durchs Dischmatal zur Keschhütte")
 
 Der Pfad geht stetig bergauf immer steiler werdend. Den Großteil können wir fahrend bewältigen, obwohl sich irgendwann die Spreu vom Weizen trennt. Es wird immer steiler und technischer und zuletzt tragen wir unsere Bikes auf den Schultern die letzten Meter Zu unserem Ziel der Keschhütte auf 2625 Meter über dem Meer - angemessen hoch für die Übernachtung und somit eine weitere Anforderung abgehakt. Das Panorama ist herrlich - 4/4 könnte man sagen - mit Blick auf den Porchabella Gletscher. Es gibt draußen noch ein schnelles Getränk und eine Schoko bevor es uns zu zapfig wird. Und außerdem lockt auch schon das Abendessen. Der Abend ist kurz, da wir am nächsten Morgen früh loswollen - es wartet ein schöne knackiger Trail runter Richtung Bergün. Vom Hüttenwirt lassen wir uns noch den Tipp mitgeben doch vielleicht eher über die Ducanfurgga wieder zurück in Sertigtal abzufahren… das wäre ein Geheimtipp. Hört sich verlockend an…
 
