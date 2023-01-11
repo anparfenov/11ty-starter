@@ -1,5 +1,4 @@
 ---
-eleventyExcludeFromCollections: true
 title: Gewetterstein
 description: Wetterstein im Sommer
 date: 1980-01-07
