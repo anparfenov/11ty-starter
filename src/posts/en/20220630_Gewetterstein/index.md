@@ -1,7 +1,7 @@
 ---
 title: Gewetterstein
 description: Wetterstein im Sommer
-date: 1980-01-07
+date: 2022-06-30
 banner: "IMG_2229.jpeg"
 tags:
   - Run
