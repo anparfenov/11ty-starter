@@ -1,6 +1,6 @@
 ---
 title: Gipfelsturm Mont Buet
-description: Sixt-Fer-à-Cheval im Sommer
+description: Sixt im Sommer
 banner: L1040384.jpeg
 date: 2014-08-25
 tags:

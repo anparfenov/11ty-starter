@@ -1,6 +1,6 @@
 ---
 title: Die Entdeckung der Otterköpfe
-description: Sixt-Fer-à-Cheval im Sommer
+description: Sixt im Sommer
 date: 2018-08-17
 banner: "IMG_20180829_130408.jpeg"
 tags:
