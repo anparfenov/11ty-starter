@@ -2,7 +2,7 @@
 title: Días de perro
 description: Roadtrip im Hochsommer
 date: 2018-07-28
-banner: "L1060147.jpeg"
+banner: "2018-08-02_13-35-57.jpeg"
 tags:
   - MTB
   - Deutschland
@@ -27,7 +27,7 @@ Der Ballerbus fährt direkt ab München Hbf, diesmal exklusive Käseschnitten ab
 
 Am ersten Tag fahren wir nachmittags nach Garmisch um am Lieblingsberg der Engländer eine Runde zu drehen. Die Auffahrt ist zäh mit mehreren Rampen jenseits der 20% aber am Wankhaus werden wir auch nach Dienstschluss noch für unsere Mühen mit unnormalem Wurstsalat und Weissbier entschädigt. Bergab lassen wir uns eher Zeit und versuchen uns nicht an der 18min Wank to Rewe Bestzeit. Irgendwie merkt man, dass es für uns alle etwas länger her ist, dass wir in den Bergen waren. Wir verweilen immer länger und genießen die einsame Atmosphäre so kurz vor Sonnenuntergang.
 
-![Wankhausvibes](media/2018-07-26%2018.10.26.jpeg "Wankhausvibes")
+![Wankhausvibes](media/22018-07-26_18-10-26.jpeg "Wankhausvibes")
 
  Nach drei Plattfüßen wirds dann doch recht eng, wir queren schier endlos am Hang entlang, und der bevorstehende Vollmond spendet gerade noch genug Licht, dass wir gut zu unserem Ausgangspunkt zurück finden. Zwei Hülsen später verabschiedet sich bereits ein drittel unsere Gruppe zurück nach München.
 
@@ -57,7 +57,7 @@ Unten angekommen spielen wir kurz mit dem Gedanken den Bus zu nehmen für die 50
 
 Oben angekommen dann der prophezeite Regen für 14 Uhr. Da es von diesem Punkt ab fast nur noch bergab geht, beschließen wir das schlechte Wetter abzuwarten. Und tatsächlich, nachdem wir ein paar Hochglanzmagazine mit Reliefdruck der umliegenden Tourismusregionen durch haben, erscheinen erste blaue Flecken am Himmel. Das ist unser Signal. Wir steigen auf die Räder und machen uns an die Abfahrt. Die ersten Höhenmeter verlaufen über gröbsten Alpenschotter, fahrbar aber kein großes Vergnügen. Bald zweigt ein Trail ab auf dem man deutlich mehr Spaß hat - entsprechende Nerven vorausgesetzt. Dieser spukt uns schon nach kurzer Zeit mitten im Skigebiet aus, welches wir über breite Schotterpisten wieder verlassen. Das Refugio Bellavista lassen wir links liegen und machen uns direkt wieder zurück Richtung Österreich. Der Weg ist überwiegend eben, aber nicht wirklich im Sattel zu meistern. Zu groß sind die Felsen der Seitenmoräne, über die der Trail verläuft. Es dauert fast eine Stunde, bis immer mehr fahrbar wird. Die Zeit vergeht dennoch bei der Aussicht auf die Ötztaler Gletscher wie im Flug.
 
-![Down the valley](media/L1060139.jpeg "Down the valley")
+![Down the valley](media/2018-08-03_16-29-45.jpeg "Down the valley")
 
 Kurz vor dem Hochjochhospiz verengt sich das Tal und der Pfad wird steiler. Dennoch bleibt alles gut fahrbar und wir freuen uns über eine neue Aussicht zum Hintereisferner. Nach einem kurzen Gegenanstieg meinen wir das Gröbste sei geschafft und öffnen die Bremsen. Aber schon bald hält die Tour ein neues Highlight parat und aus dem Tal wird eine spektakuläre Schlucht. Viele Passagen müssen wir schieben, der Trail würde keine Fehler verzeihen. Als wir gegen 18 Uhr endlich den Rofenhof sehen, können wir gar nicht fassen, wie lange wir heute auf genialen Wegen unterwegs waren. Und es ist immer noch nicht vorbei - auf der rechten Talseite gibt es noch ein letztes Stück Singletrack was uns schlussendlich zum Parkplatz zurückführt. 
 
@@ -68,6 +68,6 @@ Wir haben unglaublichen Hunger. Pasta UDW hilft weiter - dazu ein kalter Radler.
 
 Und so folgen wir am nächsten Morgen der Empfehlung eines Freundes die uns wieder etwas abseits der üblichen Downhillstrecken führt. Der Aufstieg wird diesmal ausschließlich über Asphalt bestritten was auch mal ganz angenehm ist. Lediglich der 2km Rosi Mittermaier Tunnel zehrt mächtig an unseren Kräften auf Grund von Temperatur und Steigung. Die Abfahrt ist dann wieder nach unserem Geschmack. Ein fordernder Trail, oben verblockt, nach unten flowig - alles bei einsA Panorama. An der Gaislachkogelalm werden dann Kässpatzen eingeworfen und Alleinunterhalter Peter spielt Mamor Stein und Eisen bricht.
 
-![Abseits der Bike Republic](media/L1060147.jpeg "Abseits der Bike Republic")
+![Abseits der Bike Republic](media/2018-08-04_11-36-24.jpeg"Abseits der Bike Republic")
 
 Auf der folgenden, letzten Abfahrt des Trips streifen wir dann den offiziellen Nene Trail der Bikerepublic und stellen fest, dass wir ganz froh sind, wieder etwas ab vom Schuss gewesen zu sein.
