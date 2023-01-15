@@ -127,7 +127,7 @@ module.exports = function(eleventyConfig) {
 
     eleventyConfig.addCollection('images', async collectionApi => {
 
-		let files = await glob('**/media/*.jpeg');
+		let files = await glob('**/_site/posts/**/media/*.jpeg');
 
         //Now filter to non thumb-
 		let images = files.filter(f => {
@@ -145,6 +145,7 @@ module.exports = function(eleventyConfig) {
             md = await Image(images[i], options);
             
             c = {
+                fullPath: images[i],
                 postfolder: getPostFolder(images[i]),
 				path: getFilename(images[i]),
                 width: md.jpeg[0].width,
@@ -152,6 +153,7 @@ module.exports = function(eleventyConfig) {
             };
 
             console.log(c);
+            console.log(i);
 
             collection.push(c);
         }
