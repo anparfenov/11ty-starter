@@ -2,7 +2,7 @@
 title: Wir werden planschen
 description: St. Moritz im Sommer
 date: 2014-08-25
-banner: 2021-09-20-11.08.22.jpeg
+banner: StMoritz09202021110822.jpeg
 tags:
   - MTB
   - St. Moritz

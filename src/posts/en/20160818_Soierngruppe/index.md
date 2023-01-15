@@ -2,7 +2,7 @@
 title: König Ludwig und wir
 description: Bayern im Sommer
 date: 2016-08-19
-banner: IMG_20160806_101459.jpeg
+banner: media08152016(2).jpeg
 tags:
   - MTB
   - Soierngruppe
