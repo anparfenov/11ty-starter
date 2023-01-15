@@ -2,7 +2,7 @@
 title: FLWDNWLD X
 description: Odenwald im Frühling
 date: 2017-04-01
-banner: "_MG_0072.jpeg"
+banner: "media04012017(17).jpeg"
 tags:
   - MTB
   - Odenwald
@@ -29,12 +29,12 @@ Und so langsam verlassen wir vertrautes Gelände und tauchen tiefer in den Natio
 
 Auf einmal steht er da. Mitten im Wald. Gemeinsam mit seinem Rotwild. Ich glaub er war 5 Meter groß und sprach hessisch. Guter Mann. Er scheuchte uns seine Lieblinsgtrails rauf und runter. Wir jagen ihm Respekt ab in dem wir uns mit den schwer bepackten Bikes auch die schwierigsten Trails noch mit Freude in den Augen runter stürzen…der Ritterschlag erfolgt dann mit der Einladung auf seine Terasse - man müsste diesen Tag ja angemessen beenden. Was im Odenwald soviel heißt wie: Schobbe in de Kopp! Und ganz nebenbei gab es noch unzählige Trail Tales aus der Gegend und bestem Äppelwoi. Unser Gastgeber zeigte sich in beiden fällen sehr spendabel. Zum Abschluss gab er uns noch einen Tipp für unser erstes Nachtlager - die Dreimärkter Hütte im Brombachtal.
 
-![Epples Ebbelwoiranch](_MG_0043.jpeg "Epples Ebbelwoiranch")
+![Epples Ebbelwoiranch](media/https://www.heidelbergs-finest.de/posts/en/20170401_OWDX/media/media03312017(21).jpeg "Epples Ebbelwoiranch")
 
 
 Ein Holzverschlag auf einer kleinen Erhöhung mit Blick auf eine Wiese. Tiptop. Ist gekauft! Dank EPPL haben wir alle nen Hut auf - allerdings kam die feste Nahrung zu kurz, daher wird jetzt mal als erstes aufgekocht: Nudeln mit Pesto. Ein Klassiker der Outdoor Küche. Natürlich wird weiter mit Care gebembelt und der Zeltaufbau hat seinen eigenen Flow…die Nacht ist kalt. Zu kalt für meinen Ultralight Schlafsack. 
 
-![Nachtlager oberhalb von Epples Ebbelwoiranch](media/_MG_0054.jpeg)
+![Nachtlager oberhalb von Epples Ebbelwoiranch](media/media03312017(26).jpeg)
 
 
 
@@ -44,7 +44,7 @@ Zum Glück ist die Nacht kurz und weil wir kein Aufsehen erregen wollen, packen 
 
 Also los geht's! Strecke machen! Der Buu vun Bärkene ist motiviert - das Trimmdichradeln auf der Standmühle scheint sich auszuzahlen. Bei jedem noch so kurzen Stopp muss sich der Rest als Bummeltrupp beschimpfen lassen. 
 
-![Auf den Trails um Amorbach](media/_MG_0073.jpeg)
+![Auf den Trails um Amorbach](media/media04012017(14).jpeg)
 
 
 Also legen wir uns ins Zeug. Es ist heiß und wir freuen uns alle über die Abkühlung, die der Brunnen in Xx bietet. 
@@ -55,7 +55,7 @@ Nachdem wir gemeinsam noch ein paar Trails um Amorbach zerflext habe, ist die La
 
 Unser zweites Nachtlager findet bei Emils Ruhe nicht unweit des Vereinshaus des SV Hesselbach und dem dort lokalisierten Bierautomaten! Die Zelte sind in bierseliger Stimmung schnell aufgebaut und Stiefel schenkt ein: Es gibt Gin Tonic! Aber da für Felix Gusto die Flasche viel zu klein ist, nutzt er die Zeit, während Mark noch was aufkocht, um dem Bierautomaten leerzuräumen. Sicherheit ist King! Dabei trifft er auch nochmal unsere beiden Freunde beim Fußball schauen. Guude un ab, der Krom muss ja fod! 
 
-![Als noi in de hohle Kobb!](media/_MG_0124.jpeg)
+![Als noi in de hohle Kobb!](media/media04012017(25).jpeg)
 
 
 Leider fängt es an zu regnen und wir beenden unser Gelage und verziehen uns in die Zelte - alle sind angemessen bedient und so kann auch Felix beruhigt einschlafen. 
