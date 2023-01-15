@@ -66,7 +66,7 @@ Langsam neigt sich der Tag auch dem Ende zu. Es ist 18 Uhr, das Licht ändert si
 
 Die Schutzhütte [Fodara Vedla](https://www.fodara.it/de) ist weniger Schutzhütte als ein Hotel. Es gibt eine Fußbodenheizung und ein Bad, das den Immobilienwert von manchem Heidelberger Altbau verdoppeln würde. Die Garage erinnert an das Versteck eines James Bond Superschurken - den Eingang zu einem geheimen Stollen, der zur Kommandozentrale führt, tief im Berg, finden wir jedoch nicht. Dafür überzeugt die Küche, wenn auch nicht mit üppigen Portionen oder vielfältigen vegetarischen Auswahlmöglichkeiten. Und: Es gibt Nachtisch - vermutlich auch ohne Nachfrage.
 
-![Angekommen an der Fodara Vedla](media/Dolos01052023220928%(4).jpeg)
+![Angekommen an der Fodara Vedla](media/Dolos01052023220928(4).jpeg)
 
 
 
@@ -77,7 +77,7 @@ Die Schutzhütte [Fodara Vedla](https://www.fodara.it/de) ist weniger Schutzhüt
 
 Der Tag beginnt einsam im Frühstückssaal. Es ist 7 Uhr und die einzigen, die auf große Tour wollen, sind wir. Das Frühstück schmeckt, wir richten ein kleines Vesper und machen uns mit leichtem Gepäck auf den Weg. Heute wollen wir kringeln und am Abend nochmal an der Fodara Vedla übernachten. Unser heutiges Tagesziel ist leider nur entlang des Aufstiegswegs von gestern zu erreichen. Eine direkte Verbindung oberhalb des Talkessels, die Elmar ins Gespräch gebracht hatte, ist auf Grund von Regenfällen unpassierbar. Und so machen wir uns ohne große Erwartungen auf die Abfahrt und sehr zu unserer Freude hat der Steig entlang der Fahrstraße einige spaßige Sektionen parat. Nur das letzte Stück brennen wir auf der elend steilen Piste ab. Die Pederühütte würdigen wir jetzt, früh am Morgen, noch nicht mit einem Besuch, sondern machen uns direkt weiter an den Anstieg ins Fanes Tal. Dieser Abschnitt ist gut zu pedalieren und wir erreichen bei mäßiger Anstrengung nach einer guten Stunde die Faneshütte auf 2060m.
 
-![Im Fanestal](../media/Dolos10022022110503.jpeg)
+![Im Fanestal](../media/Dolos10022022100031.jpeg)
 
 
 Inspiriert von scheu.eu und Elmar planen wir heute eine Erkundungstour Richtung Kreuzkofel und zurück am Col Bechei vorbei Richtung Sennes. Und so steigen wir nach kurzer Rast ohne Einkehr weiter bis auf knapp 2400m im Fanes Hochtal. Hier ist nichts mehr zu fahren, das Rad wird getragen oder geschoben. Mit jedem Meter wird der Wind stärker und das Panorama besser. Aber gleichzeitig mischt sich immer mehr Schnee in die Aussicht und es ist klar, dass wir beides, Kreuzkofel und Col Bechei, nicht an einem Tag schaffen werden. Wir beschließen, umzukehren und nehmen die zweite Abfahrt des Tages in Angriff. Viel mehr ist fahrbar als ursprünglich gedacht. Es ist trocken und die Pneus entwickeln ordentlich Grip auf dem Dolomitenfels. Lediglich ein längeres Karstfeld müssen wir schiebend bewältigen. An der Lavarellahütte gibt es dann ein Bierchen aus der höchsten Brauerei Europas und deluxe Spinatknödel. Andy unternimmt auch noch einen Badeversuch, muss sich aber den extremen Temperaturen geschlagen geben. Abends wartet ja wieder unser Hotelbadezimmer. 
@@ -105,7 +105,7 @@ Wir teilen uns die Sennesalm an diesem Morgen mit vier bis fünf weiteren Wander
 
 Mittlerweile ist allen klar, dass mit Andys Bremse was geschehen muss, damit in den kommenden Tagen Fahrspaß und womöglich gar Sicherheit nicht auf der Strecke bleiben. Die Touristeninformation am Pragser Wildsee ist wenig hilfreich, aber mit dem Smartphone haben wir recht fix einen Bikeshop in Welsberg ausgeguckt und mit einer halbwegs sinnvollen Route über den Kühwiesenkopf verbunden. Der Rosskopf, beschrieben auf ride.ch, wurde also gestrichen und - Oh Boy - das war ein Volltreffer. Zum einen lassen wir nach unserem Essen im Seerestaurant innerhalb von wenigen Minuten den ganzen Trubel hinter uns, zum anderen reiht sich der Kühwiesenkopftrail hinab nach Welsberg in Punkto Fahrspaß und Panorama auf ähnlichem Niveau ein, wie die Leckerbissen zuvor. Schier endlos zieht sich der Singletrail hinab und hat dabei alles am Start, was das Bikerherz begehrt.
 
-![KWK](../media/Dolos10032022155355.jpeg)
+![KWK](../media/Dolos10032022150807.jpeg)
 
 
 Im Bikeshop angekommen endet unsere Glückssträhne weiterhin nicht. 90 Sekunden nachdem wir vorstellig wurden mit unserem Problem, hängt Andys Fanes schon am Montageständer, und nochmal 5 Minuten später ist der Druckpunkt wieder da.
@@ -142,7 +142,7 @@ Der letzte Tag beginnt früh. Noch vor dem Frühstück mit Pulverei organisieren
 
 An der Mautstation überholen wir eine ganze Stange der motorisierten Fahrzeuge, und danach wird es auch angenehmer auf der Straße zu fahren, da die Autos nun immer mit etwas Abstand kommen. Während mich der Verkehr zu Anfang noch stört, habe ich bald meinen Frieden damit gemacht und genieße die Aussicht auf die Drei Zinnen, die mit jeder Kehre näher kommen. Am Rifugio ist dann High Life. Der Parkplatz ist voll, ebenso die Wege weiter Richtung Paternsattel. Deshalb halten wir uns hier an das Bikeverbot, schieben unsere Bikes und werden Teil der Völkerwanderung. Am Paternsattel fällt dann endgültig die Entscheidung, heute eine etwas kürzere Tour in Angriff zu nehmen als ursprünglich geplant, hauptsächlich, um nicht erst gegen 3 Uhr morgens in Heidelberg anzukommen. Das gibt uns auch für den Rest des Tages etwas mehr Luft und diese nutzen wir dann auch gleich für eine Kraxelvariante vom Paternsattel zur Drei Zinnen Hütte. Anstatt den unten in der Hochebene verlaufenden Weg zu nehmen, queren wir oberhalb auf einem Pfad, der, soweit wir das einsehen konnten, fahrbar aussah. Das stellte sich aber nach der ersten Ecke als Irrtum heraus. An der ein oder anderen Stelle kamen wir etwas ins Schwitzen, wurden aber schlussendlich mit der Aussicht aus einer Galerie, die im Krieg in den Fels gesprengt wurde, belohnt.
 
-![An der Drei Zinnen Hütte](../media/Dolos10052022115837.jpeg)
+![An der Drei Zinnen Hütte](../media/Dolos01052023220928(1).jpeg)
 
 
 An der Drei Zinnen Hütte angekommen, verspeisten wir unser Vesper, genossen noch ein letztes Mal die Aussicht auf die ikonischen Drei Zinnen und machten uns dann an die von Elmar angepriesene, letzte Abfahrt der Tour durch das Fischleintal. Offiziell ist dieser Trail verboten, aber bis auf eine Studienrätin fühlte sich niemand von unserer Performance gestört. Ganz im Gegenteil - die Urlauber, die sich ab Sexten zu Fuß durchs Fischleintal auf den Weg gemacht hatten an diesem Tag, feierten uns richtig ab. “Ihr seids brutal” war nur eines der vielen Komplimente, die wir zu hören bekamen. Nach vier Tagen im Sattel waren wir aber auch wirklich top in Form, und auf Grund der gut moderierten täglichen Umfänge, auch nicht zu erschöpft, um auf der letzten Abfahrt nicht unser bestes Tennis zu zeigen. Beseelt von den Drei Zinnen, vom Tal, vom Biken kamen wir an der Talschlusshütte an und genossen ab hier einen gemütlichen Roll-Out nach Toblach, vorbei an Kulturlandschaften die ein bisschen zu perfekt aussahen. Ist Südtirol vielleicht gar nicht real? Wir wissen es nicht!
