@@ -2,7 +2,7 @@
 title: Baller Bike Trip
 description: Von Salzburg nach Meran
 date: 2012-05-10
-banner: "L1010910.jpeg"
+banner: "02208112012.jpeg"
 tags:
   - MTB
   - Südtirol
