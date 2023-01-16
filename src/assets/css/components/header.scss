@@ -13,3 +13,10 @@
     position: relative;
     gap: 1rem;
 }
+
+.c-header-image {
+    object-fit:cover;
+    aspect-ratio:2.07/1;
+    min-height: 50vh;
+}
+
