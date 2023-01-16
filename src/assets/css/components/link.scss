@@ -12,6 +12,23 @@
     }
 }
 
+.c-nav-link {
+    box-shadow: inset 0 0 0 0 black;
+    color: black;
+    margin: 0 -.25rem;
+    padding: 0 .25rem;
+    transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+
+    &--active {
+        color: var(--color-text);
+    }
+}
+
+.c-nav-link:hover {
+    box-shadow: inset 100px 0 0 0 black;
+    color: white;
+}
+
 .c-text-link {
     transition: color 0.2s;
     color: var(--color-accent);

@@ -4,18 +4,13 @@
     display: flex;
     position: absolute;
     top: 1rem;
+    font-weight: bold;
     margin: auto;
     align-items: center;
     justify-content: center;
     transform: translateX(-50%);
-    gap: 10%;
+    gap: 7vw;
     &_item {
         margin: auto;
-        &--active {
-            color: hsl(0, 0%, 40%);
-        }
-        &:hover {
-            color: hsl(0, 0%, 40%);
-        }
     }
 }
