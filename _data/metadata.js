@@ -5,7 +5,7 @@ module.exports = {
     en: {
         url,
         title,
-        description: "TODO",
+        description: "Wir ballern.",
         feed: {
             subtitle: "TODO",
             filename: "feed.xml",
