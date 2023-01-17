@@ -2,7 +2,7 @@
 title: Zermatterhorn
 description: Zermatt im Sommer
 date: 2015-07-24
-banner: 20150723_154615.jpeg
+banner: Foto02.08.15095146.jpeg
 tags:
   - MTB
   - Zermatt
@@ -62,6 +62,12 @@ Am Morgen verschwindet Andys Druckpunkt an der Hinterradbremse gemeinsam mit dem
 
 
 # Tag 5
-Bergfex lügt nicht. Als ich den Reisverschluss des Zelts öffne ist keine Wolke am Himmel. Leicht angewidert werfen wir die letzte Ration Müsli in die Schüssel und dann nichts wie ab zur Zahnradbahn nach Crans Montana: Immer der roten Linie folgen! Weiter geht’s mit der Seilbahn hinauf zur Plaine Morte. Auf 3000 Meter liegt der Gletscher in Mitten einer atemberaubenden Mondlandschaft. Leider ist es für eine ausgedehnte Pause, um das ganze Panorama einzusaugen, zu kalt. Starker Wind drängt zum Aufbruch. Über griffige Schutthalden fahren wir kurz ab und beginnen den Aufstieg zur Wildstrubelhütte über Schneefelder. Dort wartet eine Abfahrt mit einigen Herausforderungen. Wir fahren ab wie im Rausch und meistern im Flow mehrere Schlüsselstellen. Langsam wird die Landschaft lieblicher. Nach dem Rawilpass fahren wir über saftige Wiesen bevor der Trail zum Lac de Tseuzier wieder steiler wird. Einige Höhenmeter werden auf einer Schotterpiste vernichtet, um dann auf einem extrem ausgesetzten Abschnitt hoch über der Talsohle zu landen.
+Bergfex lügt nicht. Als ich den Reisverschluss des Zelts öffne ist keine Wolke am Himmel. Leicht angewidert werfen wir die letzte Ration Müsli in die Schüssel und dann nichts wie ab zur Zahnradbahn nach Crans Montana: Immer der roten Linie folgen! Weiter geht’s mit der Seilbahn hinauf zur Plaine Morte. Auf 3000 Meter liegt der Gletscher in Mitten einer atemberaubenden Mondlandschaft. Leider ist es für eine ausgedehnte Pause, um das ganze Panorama einzusaugen, zu kalt. Starker Wind drängt zum Aufbruch. Über griffige Schutthalden fahren wir kurz ab und beginnen den Aufstieg zur Wildstrubelhütte über Schneefelder. Dort wartet eine Abfahrt mit einigen Herausforderungen. 
+
+![Plain morte](media/Foto02.08.15103145.jpeg)
+
+Wir fahren ab wie im Rausch und meistern im Flow mehrere Schlüsselstellen. Langsam wird die Landschaft lieblicher. Nach dem Rawilpass fahren wir über saftige Wiesen bevor der Trail zum Lac de Tseuzier wieder steiler wird. Einige Höhenmeter werden auf einer Schotterpiste vernichtet, um dann auf einem extrem ausgesetzten Abschnitt hoch über der Talsohle zu landen.
+
+![Plain morte](media/Foto02.08.15104552.jpeg
 
 Wir schieben, Trailrunner überholen, unser Puls schnellt trotzdem in die Höhe, es wird nur wenig gesprochen. Danach verschwinden wir für einige Zeit im Wald auf flowigen und weichen Wegen die schließlich entlang der Suone ins Rhonetal führen. Alle sind happy. Die heutige Tour hat uns vom Gletscher über hochalpine Trails hinunter zu Wald und Weinbergen geführt. Wir sind dankbar, dass wir diese Tour zum Abschluss gemeinsam erleben durften. Vor 24 Stunden war wegen der Defekte davon nicht auszugehen. Wir haben noch ein paar Körner in den Beinen und vernichten die letzten Kilometer zurück zum Ausgangspunkt mit mächtig Druck auf den Pedalen. Und so stehen wir pünktlich um halb fünf auf dem Heimweg im Feierabendstau im Wallis. Wir hätten noch ein paar Tage länger bleiben sollen.
