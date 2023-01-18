@@ -68,6 +68,6 @@ Bergfex lügt nicht. Als ich den Reisverschluss des Zelts öffne ist keine Wolke
 
 Wir fahren ab wie im Rausch und meistern im Flow mehrere Schlüsselstellen. Langsam wird die Landschaft lieblicher. Nach dem Rawilpass fahren wir über saftige Wiesen bevor der Trail zum Lac de Tseuzier wieder steiler wird. Einige Höhenmeter werden auf einer Schotterpiste vernichtet, um dann auf einem extrem ausgesetzten Abschnitt hoch über der Talsohle zu landen.
 
-![Plain morte](media/Foto02.08.15104552.jpeg
+![Plain morte](media/Foto02.08.15104552.jpeg)
 
 Wir schieben, Trailrunner überholen, unser Puls schnellt trotzdem in die Höhe, es wird nur wenig gesprochen. Danach verschwinden wir für einige Zeit im Wald auf flowigen und weichen Wegen die schließlich entlang der Suone ins Rhonetal führen. Alle sind happy. Die heutige Tour hat uns vom Gletscher über hochalpine Trails hinunter zu Wald und Weinbergen geführt. Wir sind dankbar, dass wir diese Tour zum Abschluss gemeinsam erleben durften. Vor 24 Stunden war wegen der Defekte davon nicht auszugehen. Wir haben noch ein paar Körner in den Beinen und vernichten die letzten Kilometer zurück zum Ausgangspunkt mit mächtig Druck auf den Pedalen. Und so stehen wir pünktlich um halb fünf auf dem Heimweg im Feierabendstau im Wallis. Wir hätten noch ein paar Tage länger bleiben sollen.
