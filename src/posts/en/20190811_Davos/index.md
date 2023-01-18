@@ -37,7 +37,7 @@ Der Pfad geht stetig bergauf immer steiler werdend. Den Großteil können wir fa
 
 Der nächste Morgen begrüßt uns mit einer mystischen Melange aus Sonne und Tiefnebel. Wir blicken auf ein Wolkenmeer. Immer wieder zeigen sich Teile unseres Trails. Das sieht geil aus! Aber auch feucht. Und so wird die Abfahrt durch die Kombination aus rutschigen Steinen und verblocktem Geläuf zu einer herrlichen Herausforderung um den Kreislauf in Schwung zu bringen. Sehr nice - Check! Die Crew hat Bock! 
 
-![Aufstieg Sertigpass(media/2019-08-12%2011.42.17.jpeg "Aufstieg Sertigpass")
+![Aufstieg Sertigpass](media/2019-08-12%2011.42.17.jpeg "Aufstieg Sertigpass")
 
 Kurz vor Chants entscheiden wir uns für den Geheimtipp und der Wirt sollte Recht behalten - im gesamten Übergang sind wir gottes seelen Allein und so haken wir den letzten Punkt auch noch ab. Wir befinden uns jetzt mitten in den Wolken. Es ist kalt und nass und erst am Talschluss steigen wir steil auf und kommen wieder über die Wolken und freuen uns noch ein paar Sonnenstrahlen abzugreifen und so genießen wir die letzten Meter über den Sertigpass auf 2739 Metern.
 
