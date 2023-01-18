@@ -1,7 +1,7 @@
 ---
 title: Gipfelsturm Mont Buet
 description: Sixt im Sommer
-banner: L1040384.jpeg
+banner: L1040406.jpeg
 date: 2014-08-25
 tags:
   - MTB
@@ -18,6 +18,9 @@ layout: layouts/post.njk
 Zu unserem 20-jährigen Trailjubiläum hatten wir uns dieses Jahr entschlossen, wieder zu den Ursprüngen zurückzukehren und im Sommer erneut ins Grand Massif zu fahren, um die Trails um Chamonix unsicher zu machen. Nachdem es fast so aussieht, als könnte uns das Wetter einen Strich durch die Rechnung machen, tut sich Mitte August endlich ein viertägiges Schönwetterfenster auf – und so packen wir Freitag das Auto und sind pünktlich zum Feierabendstau mit Jever Fun auf der A5 – Richtung Süden.
 
 Erst nach Mitternacht erreichen wir Sixt. Zum Glück steht Samstag nur eine kleine Runde zum Einrollen auf dem Programm. Wir sparen uns die ersten 500hm und nehmen den Sessellift, pedalieren von der Bergstation noch ein wenig höher und steigen dann zum Refuge du Grenairon auf. Unmittelbar oberhalb der Baumgrenze sind die Trails extrem „gras“ – fettig, wie der Franzose sagt, und unsere Räder setzten sich brutal zu.
+
+ ![Des ist Material](media/L1040225.jpeg "Des ist Material")
+
  Trotzdem gehen wir weiter und werden schlussendlich belohnt. Unmittelbar nach der Hütte sehen wir Steinböcke aus 30 Meter Entfernung. Da es schon spät ist, entschließen wir uns umzudrehen – der Gipfel ist sowieso außer Reichweite und bergab wartet 1A-Material. 
  
  ![Abfahrt oberhalb des Regfuge du Grenairon](media/L1040231.jpeg "Abfahrt oberhalb des Regfuge du Grenairon")
