@@ -13,9 +13,12 @@
             <meta name="description" content="{{ description or metadata[locale].description }}">
         {% endif %}
 
-        <meta property="og:title" content="Geht das?" />
-		<meta property="og:description" content="Ich bin gespannt..." />
-		<meta property="og:image" content="https://www.heidelbergs-finest.de/static/title-image/HDF_Background_Home.jpg" />
+        {% if banner %}
+            <meta property="og:image" content="https://www.heidelbergs-finest.de{{page.url}}/media/{{ banner }}" />
+        {% else %}
+            <meta property="og:image" content="https://www.heidelbergs-finest.de/static/title-image/HDF_Background_Home.jpg" />
+        {% endif %}
+
 
         {% set appleTouchIcon = "/static/apple-touch-icon.png" | url %}
         {% set favicon32 = "/static/favicon-32x32.png" | url %}
