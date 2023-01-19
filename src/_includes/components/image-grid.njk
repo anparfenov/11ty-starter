@@ -1,0 +1,29 @@
+<style>
+.image-grid {
+  display: -ms-flexbox; /* IE 10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE 10 */
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+.image-grid-column {
+  flex: calc(100%/{{gridImages.length}});
+  padding: 0 4px;
+}
+
+.image-grid-column img {
+  margin-top: 8px;
+  vertical-align: middle;
+}
+</style>
+
+<div class="image-grid"> 
+  {%- for column in gridImages -%}
+    <div class="image-grid-column">
+      {%- for image in column -%}
+        <img src="media/{{ image }}.jpeg" style="width:100%">
+      {%- endfor -%}
+    </div>
+  {%- endfor -%}
+</div>

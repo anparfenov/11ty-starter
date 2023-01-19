@@ -155,7 +155,15 @@ Autoconverted link https://github.com/nodeca/pica
 
 ![Ein Bild](media/IMG_20180728_183643.jpeg "Some hoover over text")
 
+## Image grid
+
+{% set gridImages = [
+ ["2012-08-07 15.10.59", "2018-07-27 19.47.28"],
+ ["IMG_20180728_183643", "IMG_20161023_144116"],
+ ["L1040393", "PXL_20210405_072920868.MP"]
+] %}
+{% include "components/image-grid.njk" %}
 
 ## Komoot Embedding
 
-<iframe src="https://www.komoot.de/tour/942543524/embed?share_token=anXZ2FodWyx4sb9FY1E46cgJvY1xGSsFUGUXcDIie8E2EcyaAj&profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.komoot.de/tour/942543524/embed?share_token=anXZ2FodWyx4sb9FY1E46cgJvY1xGSsFUGUXcDIie8E2EcyaAj&profile=1" width="100%" height="700" scrolling="no"></iframe>
