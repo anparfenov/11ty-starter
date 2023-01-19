@@ -6,11 +6,8 @@
     width: 100%;
     max-width: var(--max-content-width);
     margin: auto;
-    display: flex;
-    flex-flow: row wrap;
-    align-items: center;
-    justify-content: center;
     position: relative;
+    text-align: center;
     gap: 1rem;
 }
 
