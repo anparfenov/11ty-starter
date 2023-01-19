@@ -61,24 +61,24 @@ templateClass: tmpl-post
 
       {%- if galleryExists -%}
         <h1 class="p-article_section-title">Gallerie</h1>
+        <div id="gallery" class="p-article_gallery">
+          {% set printGalleryHeader = true %}
+          {%- for image in collections.images -%}
+            {%- if image.postfolder in page.inputPath -%}
+              <a href="media/{{image.path}}" 
+                data-pswp-width="{{image.width}}" 
+                data-pswp-height="{{image.height}}" 
+                target="_blank">
+                <img src="media/thumbnail-{{image.path}}" style="max-width:200px;margin-top:8px;flex-flow:column-wrap"/>
+              </a>
+            {%- endif -%}
+          {%- endfor -%}
+        </div>
       {%- endif -%}
-      <div id="gallery" style="width:100%;column-width:10em;column-gap:8;margin:auto;margin-bottom:2em">
-        {% set printGalleryHeader = true %}
-        {%- for image in collections.images -%}
-          {%- if image.postfolder in page.inputPath -%}
-            <a href="media/{{image.path}}" 
-              data-pswp-width="{{image.width}}" 
-              data-pswp-height="{{image.height}}" 
-              target="_blank">
-              <img src="media/thumbnail-{{image.path}}" style="max-width:200px;margin-top:8px;flex-flow:column-wrap"/>
-            </a>
-          {%- endif -%}
-        {%- endfor -%}
-      </div>
       
       {%- if strava -%}
-        <div class="p-article_hero" id="strava">
-          <h1 class="p-article_section-title">Strava</h1>
+        <h1 class="p-article_section-title">Strava</h1>
+        <div id="strava">
           {%- for stravaItem in strava -%}
               <li><a href="{{stravaItem[1]}}" class="c-underline-link">{{stravaItem[0]}}</a></li>
           {%- endfor -%} 
@@ -86,8 +86,8 @@ templateClass: tmpl-post
       {%- endif -%}       
 
       {%- if links -%}
-        <div class="p-article_hero" id="links">
-          <h1 class="p-article_section-title">Links</h1>
+        <h1 class="p-article_section-title">Links</h1>
+        <div id="links">
             <ul>
             {%- for link in links -%}
               <li><a href="{{link[1]}}" class="c-underline-link">{{link[0]}}</a></li>
@@ -97,5 +97,4 @@ templateClass: tmpl-post
       {%- endif -%}
     </div>
   </div>
-
 </div>

@@ -51,6 +51,14 @@
         margin-top: 2rem;
     }
 
+    &_gallery {
+        width:100%;
+        column-width:10em;
+        column-gap:8;
+        margin:auto;
+        margin-bottom:2em
+    }
+
     @media screen and (min-width: 800px) {
         &_blog-post-format {
             position:relative;
