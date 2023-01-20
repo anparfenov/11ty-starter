@@ -22,9 +22,15 @@ templateClass: tmpl-about
       const icon = new L.Icon.Default;
       {%- for gpx in collections.gpx %}
         
+        var link;
+
+        {%- for post in collections.posts -%}
+          {%- if gpx.postfolder in post.url -%}
+            var link = "<a href=\"../posts/en/{{ gpx.postfolder }}\">{{post.data.title}} </a><img src=\"{{post.url}}media/{{ post.data.banner }}\" style=\"aspect-ratio:4/3;object-fit: cover\">";
+          {%- endif -%}
+        {%- endfor-%}
         var gpx = "../posts/en/{{ gpx.postfolder }}/gpx/{{ gpx.filename }}";
-        var reportLoc = "../posts/en/{{ gpx.postfolder }}";
-        var link = "<a href=\"" + reportLoc + "\">Bericht</a>";
+        
         
         new L.GPX(gpx, {async: true,
           marker_options: {
