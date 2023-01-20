@@ -85,11 +85,11 @@ templateClass: tmpl-post
           {% set printGalleryHeader = true %}
           {%- for image in collections.images -%}
             {%- if image.postfolder in page.inputPath -%}
-              <a href="media/{{image.path}}" 
+              <a href="media/{{image.filename}}" 
                 data-pswp-width="{{image.width}}" 
                 data-pswp-height="{{image.height}}" 
                 target="_blank">
-                <img src="media/thumbnail-{{image.path}}" style="max-width:200px;margin-top:8px;flex-flow:column-wrap"/>
+                <img src="media/thumbnail-{{image.filename}}" style="max-width:200px;margin-top:8px;flex-flow:column-wrap"/>
               </a>
             {%- endif -%}
           {%- endfor -%}

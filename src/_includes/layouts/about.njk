@@ -19,15 +19,23 @@ templateClass: tmpl-about
       L.control.scale({imperial: true, metric: true}).addTo(map);
 
       // render gpx data on map
-      var myLine1 = {
-          "type": "LineString",
-          "coordinates": [[-100, 40], [-105, 45], [-110, 55]]
-      };
-      L.geoJSON(myLine1).bindPopup('<a href="../posts/en/20221006_Elendlangballern/post/">Elendlangballern</a>').addTo(map);
-      var myLine2 = {
-          "type": "LineString",
-          "coordinates": [[-105, 40], [-110, 45], [-115, 55]]
-      };   
-      L.geoJSON(myLine2).bindPopup('Line2').addTo(map);
+      const icon = new L.Icon.Default;
+      {%- for gpx in collections.gpx %}
+        
+        var gpx = "../posts/en/{{ gpx.postfolder }}/gpx/{{ gpx.filename }}";
+        var reportLoc = "../posts/en/{{ gpx.postfolder }}";
+        var link = "<a href=\"" + reportLoc + "\">Bericht</a>";
+        
+        new L.GPX(gpx, {async: true,
+          marker_options: {
+            startIcon: icon,
+            endIcon: icon,
+            wptIcons: {'': icon},
+          },
+        }).on('loaded', function(e) {
+          map.fitBounds(e.target.getBounds());
+        }).bindPopup(link).addTo(map);
 
+      {%- endfor -%}
+    
     </script>

@@ -147,21 +147,43 @@ module.exports = function(eleventyConfig) {
             c = {
                 fullPath: images[i],
                 postfolder: getPostFolder(images[i]),
-				path: getFilename(images[i]),
+				filename: getFilename(images[i]),
                 width: md.jpeg[0].width,
                 height: md.jpeg[0].height              
             };
 
-            console.log(c);
             console.log(i);
+            console.log(c);
 
             collection.push(c);
         }
 
 		return collection;
 	});
+    eleventyConfig.addCollection('gpx', async collectionApi => {
+        let files = await glob('**/src/posts/**/gpx/*.gpx');
+
+        let collection = [];
+
+        for (let i = 0; i < files.length; i++) {      
+            c = {
+                fullPath: files[i],
+                postfolder: getPostFolder(files[i]),
+				filename: getFilename(files[i])             
+            };
+
+            console.log(i);
+            console.log(c);
+
+            collection.push(c);
+        }
+
+
+        return collection;
+    });
 
     eleventyConfig.addPassthroughCopy("static");
+    eleventyConfig.addPassthroughCopy("./src/posts/**/*.gpx");
     eleventyConfig.addPassthroughCopy("./src/assets/css/prism.css");
     eleventyConfig.addPassthroughCopy({"./node_modules/photoswipe/dist": "/assets/photoswipe"});
 
