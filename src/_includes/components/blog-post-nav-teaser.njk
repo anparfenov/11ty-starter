@@ -1,0 +1,22 @@
+{% for post in postslist | reverse %}
+            {% if post.data.banner %}
+    <li class="c-post-item-teaser">
+        <article class="{% if post.data.banner %} l-post-grid--image {% else %} l-post-grid {% endif %}">
+                <picture class="l-post-grid_image">
+                    <a href="{{ post.url | url }}"><img src="{{post.url}}media/{{ post.data.banner }}" style="aspect-ratio:4/3;object-fit: cover"></a>
+                </picture>
+            <div class="l-post-grid_meta c-post-item_meta">
+                <time class="c-post-item_date" datetime="{{ post.date | htmlDateString }}">
+                    {{ post.date | en_readableDate }}
+                </time>
+            </div>
+            <div class="l-post-grid_title">
+                <a href="{{ post.url | url }}" class="c-simple-link">
+                    <h3 class="c-post-item_title">{{ post.data.title }}</h3>
+                </a>
+            </div>
+            <p class="c-post-item_desc l-post-grid_desc">{{ post.data.description }}</p>
+        </article>
+    </li>
+            {% endif %}
+{% endfor %}

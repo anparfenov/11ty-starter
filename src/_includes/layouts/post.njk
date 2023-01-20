@@ -97,12 +97,12 @@ templateClass: tmpl-post
       {%- endif -%}
 
       <hr style="border-top: dashed 1px;margin-top:5rem;margin-bottom:1rem" />
-      <h1 class="p-article_section-title">Das war auch derbe</h1>
+      <h1 class="p-article_section-title">Das war auch spitze</h1>
       {% set postslist = [collections.posts | getNextCollectionItem(page), collections.posts | getPreviousCollectionItem(page)] %}
       {% if postslist | length %}
         <ul class="c-posts-list c-posts-list--archive">
           {% set includeImage = true %}
-          {% include "components/blog-post-items.njk" %}
+          {% include "components/blog-post-nav-teaser.njk" %}
         </ul>
       {% else %}
       {% endif %}
