@@ -59,23 +59,6 @@ templateClass: tmpl-post
           {{ content | safe }}
       </div>
 
-      {%- if galleryExists -%}
-        <h1 class="p-article_section-title">Gallerie</h1>
-        <div id="gallery" class="p-article_gallery">
-          {% set printGalleryHeader = true %}
-          {%- for image in collections.images -%}
-            {%- if image.postfolder in page.inputPath -%}
-              <a href="media/{{image.path}}" 
-                data-pswp-width="{{image.width}}" 
-                data-pswp-height="{{image.height}}" 
-                target="_blank">
-                <img src="media/thumbnail-{{image.path}}" style="max-width:200px;margin-top:8px;flex-flow:column-wrap"/>
-              </a>
-            {%- endif -%}
-          {%- endfor -%}
-        </div>
-      {%- endif -%}
-      
       {%- if strava -%}
         <h1 class="p-article_section-title">Strava</h1>
         <div id="strava">
@@ -95,6 +78,35 @@ templateClass: tmpl-post
             </ul>
         </div>
       {%- endif -%}
+
+      {%- if galleryExists -%}
+        <h1 class="p-article_section-title">Gallerie</h1>
+        <div id="gallery" class="p-article_gallery">
+          {% set printGalleryHeader = true %}
+          {%- for image in collections.images -%}
+            {%- if image.postfolder in page.inputPath -%}
+              <a href="media/{{image.path}}" 
+                data-pswp-width="{{image.width}}" 
+                data-pswp-height="{{image.height}}" 
+                target="_blank">
+                <img src="media/thumbnail-{{image.path}}" style="max-width:200px;margin-top:8px;flex-flow:column-wrap"/>
+              </a>
+            {%- endif -%}
+          {%- endfor -%}
+        </div>
+      {%- endif -%}
+
+      <hr style="border-top: dashed 1px;margin-top:5rem;margin-bottom:1rem" />
+      <h1 class="p-article_section-title">Das war auch derbe</h1>
+      {% set postslist = [collections.posts | getNextCollectionItem(page), collections.posts | getPreviousCollectionItem(page)] %}
+      {% if postslist | length %}
+        <ul class="c-posts-list c-posts-list--archive">
+          {% set includeImage = true %}
+          {% include "components/blog-post-items.njk" %}
+        </ul>
+      {% else %}
+      {% endif %}
+
     </div>
   </div>
 </div>
