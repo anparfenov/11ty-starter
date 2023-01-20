@@ -29,8 +29,8 @@ module.exports = {
             title: `Posts | ${title}`,
             description: "Blog posts list",
         },
-        about: {
-            title: `About | ${title}`,
+        map: {
+            title: `Karte | ${title}`,
         },
     },
 };
