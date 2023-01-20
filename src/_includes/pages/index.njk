@@ -1,0 +1,30 @@
+<div class="p-index">
+    <section class="p-index_hero">
+        <h1>
+            {{ main[locale].welcome }}
+        </h1>
+        <div class="p-index_hero-text">
+            <p>This is starter for <a class="c-text-link" href="https://www.11ty.dev/">eleventy ssg</a>.</p>
+            <p>It's built with nunjuks and sass also it has rollup config for your js</p>
+            <p>For site serving you can use <a class="c-text-link" href="https://caddyserver.com/">caddy</a>, <a class="c-text-link" href="https://nginx.org">nginx</a>
+ or use <a class="c-text-link" href="https://vercel.com/">vercel</a> or <a class="c-text-link" href="https://www.netlify.com/">netlify</a>
+            </p>
+        </div>
+    </section>
+    <section class="p-index_latest">
+        <h2 class="u-mb--16">
+            {% set maxPosts = collections.posts.length | min(3) %}
+            {{ main[locale].latest | capitalize }}
+            {% if maxPosts == 1 %}
+                {{ main[locale].post }}
+            {% else %}
+                {{ maxPosts }}
+                {{ main[locale].posts }}
+            {% endif %}
+        </h2>
+        <ul class="c-posts-list">
+            {% set postslist = collections.posts | head(-3) %}
+            {% include "components/blog-post-items.njk" %}
+        </ul>
+    </section>
+</div>
