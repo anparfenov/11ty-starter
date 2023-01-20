@@ -27,7 +27,7 @@ templateClass: tmpl-about
 
         {%- for post in collections.posts -%}
           {%- if gpx.postfolder in post.url -%}
-            var link = "<a href=\"../posts/en/{{ gpx.postfolder }}\">{{post.data.title}} </a><img src=\"{{post.url}}media/{{ post.data.banner }}\" style=\"width:400px;aspect-ratio:4/3;object-fit: cover\">";
+            var link = "<a href=\"../posts/en/{{ gpx.postfolder }}\"><h3 class= \"c-post-item_title\">{{ post.data.title }}</h3><img src=\"{{post.url}}media/{{ post.data.banner }}\" style=\"width:300px;aspect-ratio:4/3;object-fit: cover\"></a>";
           {%- endif -%}
         {%- endfor-%}
         var gpx = "../posts/en/{{ gpx.postfolder }}/gpx/{{ gpx.filename }}";
@@ -43,6 +43,5 @@ templateClass: tmpl-about
         map.setView({lon: 10, lat: 47.4}, 6);
 
       {%- endfor -%}
-
 
     </script>
