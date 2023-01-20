@@ -3,37 +3,12 @@ layout: layouts/base.njk
 templateClass: tmpl-about
 ---
 
-Under construction...
-
-<div class="p-about">
-    <h1 class="p-about_title">{{ about[locale].title | capitalize }}</h1>
-
-    <div role="main" class="c-content">
-        {{ content | safe }}
-    </div>
-</div>
-
-
   <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
-    <style>
-      html, body {
-        height: 100%;
-        padding: 0;
-        margin: 0;
-      }
-      #map {
-        /* configure the size of the map */
-        width: 100%;
-        height: 100%;
-      }
-    </style>
   </head>
-  <body>
-    <div id="map"></div>
+
+    <div id="map" style="width:1000px;height:1000px"></div>
     <script>
     var myLine1 = {
         "type": "LineString",
@@ -62,4 +37,3 @@ Under construction...
       // show a marker on the map
       L.marker({lon: 0, lat: 0}).bindPopup('The center of the world').addTo(map);
     </script>
-  </body>
