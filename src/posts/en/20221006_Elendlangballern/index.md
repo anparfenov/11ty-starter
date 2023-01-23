@@ -78,7 +78,7 @@ Die Schutzhütte [Fodara Vedla](https://www.fodara.it/de) ist weniger Schutzhüt
 
 <br>
 <br>
-![Angekommen an der Fodara Vedla](media/Dolos01052023220928(4).jpeg)
+![Angekommen an der Fodara Vedla](media/Dolos01052023220928(4).jpeg
 
 <br>
 <br>
