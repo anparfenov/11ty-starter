@@ -24,6 +24,8 @@ Jahr 2016. Wir hatten zwar im Sommer schon ein paar intensive Tage. Aber der Hun
 
 Zu der Zeit war ich regelmäßig mit Flo und Andrea unterwegs und so war klar, dass die beiden auch am Start sind. Als Überraschungsgast wurde mein alter Freund aus Kindertagen Björn gecastet, der sich in der letzten Zeit auch immer mal wieder im Heidelberger Raum blicken ließ. Insgesamt somit also zu fünft. Das Zeitfenster war kurz. Zwei Tage, um genau zu sein. 
 
+<iframe src="https://www.komoot.de/tour/1016808103/embed?share_token=a1b73E18U399V7M86lMlrUD4RRF7KbvZBc2RQ79P14RnA6hA5U&profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
+
 Im Verlauf des Jahres hatte ich schon mal mit Andrea die Tour um die Reither Spitze gemacht und als „ absolut ballernswert“ klassifiziert. Und somit war der erste Tag schon gesetzt.
 Damit wir morgens direkt früh loskommen, checkten wir schon freitags in unserer Unterkunft ein in Zirl ein. Die Nächte waren kalt und es war sogar Schnee gemeldet in höheren Lagen. Wir waren etwas aufgeregt, wie viel es wohl tatsächlich sein würde. Für den Tag war jedenfalls Sonne versprochen.
 
@@ -41,7 +43,11 @@ Endloser Abfahrtsspass mit allem was Biken in den Alpen zu bieten hat: felsige A
 
 # Tag2: Kögele im Sellrain
 
-Für Tag zwei war ich mir noch nicht ganz sicher. Die Stubaier Alpen lagen direkt vor uns und lockten mit ihren Reizen. Ebenso das Sellraintal. Allerdings musste man davon ausgehen, dass in höheren Lagen deutlich mehr Schnee runterkam. Letztendlich entschieden wir uns für‘s Högele am Anfang des Sellrains. So konnten wir immerhin die Kulisse der hohen Berge genießen, kamen aber nicht so hoch, dass wir Probleme mit dem Schnee haben sollten. Die Auffahrt Ging gut über Forststrassen und nur eine letzte Querung war nicht fahrbar. 
+Für Tag zwei war ich mir noch nicht ganz sicher. Die Stubaier Alpen lagen direkt vor uns und lockten mit ihren Reizen. Ebenso das Sellraintal. Allerdings musste man davon ausgehen, dass in höheren Lagen deutlich mehr Schnee runterkam. Letztendlich entschieden wir uns für‘s Kögele am Anfang des Sellrains. So konnten wir immerhin die Kulisse der hohen Berge genießen, kamen aber nicht so hoch, dass wir Probleme mit dem Schnee haben sollten. 
+
+<iframe src="https://www.komoot.de/tour/1016798629/embed?share_token=akD0nUcGi2pPEXrR5ruzZocqZ3Rbn4N7ByhLnMbdylMER0vEs8&profile=1" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
+
+Die Auffahrt Ging gut über Forststrassen und nur eine letzte Querung war nicht fahrbar. 
 
 ![Trail Crew](media/Closing10232016135823.jpeg "Trail Crew")
 
