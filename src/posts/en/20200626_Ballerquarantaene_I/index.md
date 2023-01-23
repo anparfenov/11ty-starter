@@ -1,17 +1,25 @@
 ---
-
-title: Big Mountain Riding
-description: Kleinswalser Tal im Sommer
-date: 2012-06-13
-banner: "kleinwalsertal_018.jpeg"
+eleventyExcludeFromCollections: true
+title: Ein toller Titel
+description: Eine Titel Unterschrift 
+date: 1980-01-07
+banner: "L1040393.jpeg"
 tags:
   - MTB
+  - Run
+  - Frankreich
+  - Schweiz
   - Österreich
-  - "2012"
-  - Tobi
-  - Lukas
+  - "1980"
   - Andy
+  - Christian
   - Mark
+strava:
+  - ["Mark - Samstag" ,"https://www.strava.com/activities/7900980052"]
+  - ["Mark - Sonntag" ,"https://www.strava.com/activities/7900979339"]
+links:
+  - ["Ein Link zu google", "https://google.com/"]
+  - ["Noch ein Link zu bing", "https://bing.com/"]
 
 
 layout: layouts/post.njk
