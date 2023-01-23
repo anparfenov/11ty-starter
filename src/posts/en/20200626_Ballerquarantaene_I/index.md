@@ -1,22 +1,18 @@
 ---
-eleventyExcludeFromCollections: true
-title: Ein toller Titel
-description: Eine Titel Unterschrift 
-date: 1980-01-07
-banner: "L1040393.jpeg"
+
+title: Big Mountain Riding
+description: Kleinswalser Tal im Sommer
+date: 2012-06-13
+banner: "kleinwalsertal_018.jpeg"
 tags:
   - MTB
-  - Deutschland
   - Österreich
-  - "2020"
+  - "2012"
+  - Tobi
+  - Lukas
   - Andy
   - Mark
-strava:
-  - ["Andy - Sonntag" ,"https://www.strava.com/activities/4212200436"]
-  - ["Andy - Montag" ,"https://www.strava.com/activities/4215736600"]
-links:
-  - ["Ein Link zu google", "https://google.com/"]
-  - ["Noch ein Link zu bing", "https://bing.com/"]
+
 
 layout: layouts/post.njk
 ---
