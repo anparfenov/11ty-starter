@@ -12,8 +12,8 @@ tags:
   - Andy
   - Mark
 strava:
-  - ["Mark - Samstag" ,"https://www.strava.com/activities/7900980052"]
-  - ["Mark - Sonntag" ,"https://www.strava.com/activities/7900979339"]
+  - ["Andy - Sonntag" ,"https://www.strava.com/activities/4212200436"]
+  - ["Andy - Montag" ,"https://www.strava.com/activities/4215736600"]
 links:
   - ["Ein Link zu google", "https://google.com/"]
   - ["Noch ein Link zu bing", "https://bing.com/"]
