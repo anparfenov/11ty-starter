@@ -3,7 +3,7 @@
 title: Ballerquarantäne II
 description: Lenggries im Schnee
 date: 2020-100-19
-banner: "Ballerquaranaene10192020130156.jpeg"
+banner: "Ballerquaranaene10192020125730.jpeg"
 tags:
   - MTB
   - Österreich
