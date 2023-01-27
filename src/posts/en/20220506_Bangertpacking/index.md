@@ -12,9 +12,6 @@ tags:
   - "2022"
   - Erik
   - Mark
-strava:
-  - ["Mark - Samstag" ,"https://www.strava.com/activities/7900980052"]
-  - ["Mark - Sonntag" ,"https://www.strava.com/activities/7900979339"]
 
 layout: layouts/post.njk
 ---
