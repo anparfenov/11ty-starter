@@ -1,7 +1,7 @@
 ---
 title: Ballerquarantäne I
 description: Tirol im Sommer 
-date: 1980-01-07
+date: 2020-06-26
 banner: "Ballerquarantaene06262020174921.jpeg"
 tags:
   - MTB
