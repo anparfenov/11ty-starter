@@ -1,7 +1,7 @@
 ---
 title: Riding the Herbst
 description: Leistungsbestimmung im August
-banner: L1040406.jpeg
+banner: L1020924.jpeg
 date: 2013-08-07
 tags:
   - MTB
