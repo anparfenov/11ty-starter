@@ -159,9 +159,9 @@ Autoconverted link https://github.com/nodeca/pica
 
 {% from "components/image-grid.njk" import imageGrid %}
 {{ imageGrid([
- ["2012-08-07 15.10.59", "2018-07-27 19.47.28"],
- ["IMG_20180728_183643", "IMG_20161023_144116"],
- ["L1040393", "PXL_20210405_072920868.MP"]
+ ["2012-08-07 15.10.59.jpeg", "2018-07-27 19.47.28.jpeg"],
+ ["IMG_20180728_183643.jpeg", "IMG_20161023_144116.jpeg"],
+ ["L1040393.jpeg", "PXL_20210405_072920868.MP.jpeg"]
 ]) }}
 
 ## Komoot Embedding

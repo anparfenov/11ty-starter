@@ -14,4 +14,4 @@ tags:
 layout: layouts/post.njk
 ---
 
-Bericht folgt.
+Bericht folgt...

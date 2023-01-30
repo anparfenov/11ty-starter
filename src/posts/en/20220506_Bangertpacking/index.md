@@ -15,14 +15,14 @@ tags:
 layout: layouts/post.njk
 ---
 
-Das geht ja gut los. Der Spezialist für Spaghettireifen bricht mir, noch bevor wir mein Bike auf den Radträger verfrachtet haben, das Tubelessventil mit einer Kombizange ab. Und so flicken wir den ersten platten Reifen noch in Hemsbach auf dem Wendehammer in der Karlsbader Straße. Egal. Es ist Freitag Nachmittag und die Wettervorhersage ist ordentlich. Endlich wollen wir mal in den Vogesen auf Tour gehen. So nah und trotzdem waren wir noch nie vor Ort. 
+Das geht ja gut los. Der Spezialist für Spaghettireifen bricht mir, noch bevor wir mein Bike auf den Radträger verfrachtet haben, das Tubelessventil mit einer Luftpumpe ab. Und so flicken wir den ersten platten Reifen noch in Hemsbach auf dem Wendehammer in der Karlsbader Straße. Egal. Es ist Freitag Nachmittag und die Wettervorhersage ist ordentlich. Endlich wollen wir mal in den Vogesen auf Tour gehen. So nah und trotzdem waren wir noch nie vor Ort. 
 
 Es ist viel Verkehr auf der A5 Richtung Süden. Deshalb wurde die erste Etappe unseres Vogesentrips auch ziemlich gekürzt. Wir starten in Selestat auf dem Parkplatz am Bahnhof. Nach ein paar km Radweg in der Ebene schlagen wir uns auf einer steilen Rampe vorbei am [Château Haut-Koenigsburg](https://www.haut-koenigsbourg.fr/) in den Wald. Wir passieren einige Weiler, aber ganz langsam wird es einsamer und nach knappen 2h Fahrtzeit erreichen wir einen guten Platz für ein Nachtlager. Eigentlich sind wir gar nicht weit weg von einer Fahrstraße gelandet, aber das fällt nicht wirklich auf, da zwischen 21 Uhr und 6 Uhr morgens nicht mehr als drei Autos zu hören sind. Dafür gibt es mit einer Bank, einem Tisch und einer Feuerstelle einige Annehmlichkeiten, und nach Einbruch der Dunkelheit hören wir immer ein Käuzchen rufen. Ein einsA Spot für die erste Nacht.
 
 {% from "components/image-grid.njk" import imageGrid %}
 {{ imageGrid([
- ["PXL_20220506_194343027.MP", "PXL_20220507_062357987"],
- ["PXL_20220506_183721675", "IMG_5607"]
+ ["PXL_20220506_194343027.MP.jpeg", "PXL_20220507_062357987.jpeg"],
+ ["PXL_20220506_183721675.jpeg", "IMG_5607.jpeg"]
 ]) }}
 
 Am nächsten Tag wird ausgeschlafen. Das Schnuffeltuch auf der einen Seite und der neue Schlafsack auf der anderen Seite erhöhen den Komfort in unserem Zelt derart, dass wir fast bis 10 Uhr brauchen, bis das Lager abgeschlagen ist und die Bikes wieder rollen. Aber das ist ja schließlich Urlaub - oder das, was wir uns darunter vorstellen.
