@@ -18,11 +18,11 @@ strava:
 layout: layouts/post.njk
 ---
 
-> Ej! Wir waren dieses Jahr noch garnicht Bikepacken! Bock auf frühen Feierabend, Radfahren, draussen Schlafen und am nächsten Tag wieder um 9:00 geduscht am Schreibtisch Sitzen?
+> "Ej! Wir waren dieses Jahr noch garnicht Bikepacken! Bock auf frühen Feierabend, Radfahren, draussen Schlafen und am nächsten Tag wieder um 9:00 geduscht am Schreibtisch Sitzen?"
 
 Die Antwort ist ja wohl mal klar. Also wurde geplant, Packliste aufgeteilt, Wetterbericht verfolgt, geschraubt... und endlich auch mal ein Termin festgemacht. Da wir mal was anderes sehen wollten, hatten wir uns die Burg Stolzeneck als Ziel ausgesucht. Die hatte uns bei diversen Touren auf dem Neckarsteig schon gefallen. Jetzt war's endlich soweit, die Umgebung drumherum mal zu erkunden. 
 
-![Eberbacking - S24O östlich von Heidelberg](media/media10272012.png "Eberbacking - S24O östlich von Heidelberg")
+![Eberbacking - S24O östlich von Heidelberg](media/media10272012.jpeg "Eberbacking - S24O östlich von Heidelberg")
 
 Da es von Heidelberg auf dem Rad eine zu lange Anreise gewesen wäre, zumindest für das Sub-24h-Overnighter (S24O) Format, sind wir mit Bahnunterstützung unterwegs gewesen. Bei herrlichen (vielleicht sogar ein bisschen zu herrlichen) Bedingungen sind wir Mittwochnachmittag in Eberbach am Bahnhof gestartet. 
 
@@ -30,7 +30,7 @@ Da es von Heidelberg auf dem Rad eine zu lange Anreise gewesen wäre, zumindest 
 
 Erstes Ziel war der Katzenbuckel, danach ging's auf den Itterberg im Norden Eberbach's. 
 
-![Blick vomn Itterberg] (media/20180622_ebepacking_s24o_1.jpg "Blick vom Itterberg")
+![Blick vomn Itterberg] (media/20180622_ebepacking_s24o_1.jpeg "Blick vom Itterberg")
 
 Eine ganz schöne Plackerei bei den ein bisschen zu herrlichen, sprich warmen, Bedingungen. Ein vollgepacktes Rad auf steilen Trails saugt ganz schön Energie aus den Oberschenkeln und Waden. Zum Glück hatten wir noch kein Abendessen und kein Frühstück in den Rucksäcken und Radtaschen - so liefen die Höhen- und Tiefenmeter doch sehr gut. Das könnte auch am größten Spaghetti-Eis des Odenwaldes gelegen haben. Wer weiß!? 
 Da wir spät los sind, neigte der Tag sich auch schon nach kurzer Fahrzeit merkbar dem Ende. Beim Supermarkt haben wir unsere Vorräte für die nächsten beiden Mahlzeiten aufgefüllt. Brot, Wurst, Käse, Gemüse, Schokolade, ...
@@ -52,7 +52,7 @@ Nach ein paar wenigen Stunden Schlaf haben sich die Vögel (gefühlt) viel zu fr
 "Ich hab' doch nicht alles... Ich hab' das Feuerzeug UND den Feuerstein vergessen." 
 
 Tja... Ein Abwägen des Suchen- und Finden-Aufwands ("Ist uns das Frühstück so viel Wert, dass wir jetzt 30 Minuten Feuerutensilien suchen?") ergab, dass wir lieber hungrig und daher vielleicht ein bisschen schlecht gelaunt unsere Sachen zusammenpackten und uns Richtung Bahnhof aufmachten. 10 km und 340 Höhenmeter bekommen wir auch mit leerem Bauch hin, dachten wir uns. 
-! [Unser Rückweg zum Bahnhof] (media/20180622_ebepacking_s24o_2.jpg "Unser Rückweg zum Bahnhof")
+! [Unser Rückweg zum Bahnhof] (media/20180622_ebepacking_s24o_2.jpeg "Unser Rückweg zum Bahnhof")
 Schöne Trails kosten leider auch Energie - die Löcher im Bauch wurden daher immer größer. Mit einem halben Müsliriegel pro Nase konnten wir dann bis zum Bäcker in Eberbach überbrücken.
 
 Mit vollen Bäckertüten (ja, die Gier war groß) saßen wir dann im Zug zurück nach Heidelberg. 9:00 geduscht am Schreibtisch ging sich natürlich nicht aus. Aber darum ging's ja nie wirklich, oder?
