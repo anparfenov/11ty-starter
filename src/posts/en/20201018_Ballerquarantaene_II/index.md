@@ -25,7 +25,7 @@ Eine meiner Lieblingstouren im Bayerischen Backyard wartete noch darauf, präsen
 <br>
 {% from "components/image-grid.njk" import imageGrid %}
 {{ imageGrid([
- ["Ballerquaranaene10182020114331.jpeg", "Ballerquaranaene10182020125312.jpeg"]
+ ["Ballerquaranaene10182020114331.jpeg"],["Ballerquaranaene10182020125312.jpeg"]
 ]) }}
 <br>
 Am Sattel angekommen waren wir überrascht über die Schneemenge und vor allem die Querung war recht mühsam mit dem tiefen Schnee, aber immer zeichnete sich ab, dass die Abfahrt möglich sein sollte und der Boden halbwegs griffig. Die Abfahrt über den Rücken war der reinste Genuss und wir hatten eine Mordsgaudi.
@@ -43,7 +43,7 @@ Wir entschieden uns für den Kotzen - ein kleinen Gipfel bei Lenggries mit südl
 <br>
 {% from "components/image-grid.njk" import imageGrid %}
 {{ imageGrid([
- ["Ballerquaranaene10192020110120.jpeg", "Ballerquaranaene10192020111553.jpeg"]
+ ["Ballerquaranaene10192020110120.jpeg"],["Ballerquaranaene10192020111553.jpeg"]
 ]) }}
 <br>
 
