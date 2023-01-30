@@ -21,7 +21,7 @@ layout: layouts/post.njk
 
 Einer meiner Lieblingsspots für Tage an denen ich keine Lust hatte selbst zu treten war der Wildkogel. Hier kann man an einem Tag richtig viele Tiefenmeter auf alpinen Naturtrails sammeln, ohne die Waden zu zerstören - somit ein guter Einstieg in unseren Trip. Rob J Supertrail, 9 Knightstrail und Wildkogeltrail - mit diesen drei Spielkameraden machten wir uns einen schönen Tag bei herrlichem Wetter und Blick auf die hohen Tauern und den Großglockner. Also auch schon ein Ausblick auf die nächsten Tage. 
 
-![Nine NIghts Trail](media/04708122012.jpeg "Nine Knights Trail")
+![Nine Knights Trail](media/04708122012.jpeg "Nine Knights Trail")
 
 
 # Tag 2: Großglockner Hochalpstraße

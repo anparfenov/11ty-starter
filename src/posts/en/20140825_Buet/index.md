@@ -13,7 +13,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-1994 saßen wir zum ersten Mal auf einem MTB. Im gleichen Jahr kaufte mein Onkel eine Hütte in Sixt in den französischen Alpen. Es hat eine ganze Weile gedauert, bis Andy und ich das erste Mal mit den Bikes in die Alpen gefahren sind – natürlich nach Sixt. 2001 war das noch eine harte Nummer: Stahlrahmen & Cantileverbremsen. Andy mit einem Starrbike, ich mit 80mm Judy TT Elastomerfederweg. Wir haben ganz schön gelitten, aber sofort Blut geleckt. Seitdem sind die immer wiederkehrenden Ausfahrten in die Alpen der Höhepunkt der Bikesaison.
+1994 saßen wir zum ersten Mal auf einem MTB. Ungefährt zur gleichen Zeit kaufte mein Onkel eine Hütte in Sixt in den französischen Alpen. Es hat eine ganze Weile gedauert, bis Andy und ich das erste Mal mit den Bikes in die Alpen gefahren sind – natürlich nach Sixt. 2001 war das noch eine harte Nummer: Stahlrahmen & Cantileverbremsen. Andy mit einem Starrbike, ich mit 80mm Judy TT Elastomerfederweg. Wir haben ganz schön gelitten, aber sofort Blut geleckt. Seitdem sind die immer wiederkehrenden Ausfahrten in die Alpen der Höhepunkt der Bikesaison.
 
 Zu unserem 20-jährigen Trailjubiläum hatten wir uns dieses Jahr entschlossen, wieder zu den Ursprüngen zurückzukehren und im Sommer erneut ins Grand Massif zu fahren, um die Trails um Chamonix unsicher zu machen. Nachdem es fast so aussieht, als könnte uns das Wetter einen Strich durch die Rechnung machen, tut sich Mitte August endlich ein viertägiges Schönwetterfenster auf – und so packen wir Freitag das Auto und sind pünktlich zum Feierabendstau mit Jever Fun auf der A5 – Richtung Süden.
 

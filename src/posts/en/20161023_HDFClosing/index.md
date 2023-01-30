@@ -19,8 +19,7 @@ layout: layouts/post.njk
 
 # Tag1: Reither Spitz
 
-Unteralpt. Das war Marks Situation im
-Jahr 2016. Wir hatten zwar im Sommer schon ein paar intensive Tage. Aber der Hunger wollte auch im Herbst nochmal gestillt werden.
+Unteralpt. Das war Marks Situation im Jahr 2016. Wir hatten zwar im Sommer schon ein paar intensive Tage. Aber der Hunger wollte auch im Herbst nochmal gestillt werden.
 
 Zu der Zeit war ich regelmäßig mit Flo und Andrea unterwegs und so war klar, dass die beiden auch am Start sind. Als Überraschungsgast wurde mein alter Freund aus Kindertagen Björn gecastet, der sich in der letzten Zeit auch immer mal wieder im Heidelberger Raum blicken ließ. Insgesamt somit also zu fünft. Das Zeitfenster war kurz. Zwei Tage, um genau zu sein. 
 <br>
