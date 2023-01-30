@@ -30,7 +30,7 @@ Da es von Heidelberg auf dem Rad eine zu lange Anreise gewesen wäre, zumindest 
 
 Erstes Ziel war der Katzenbuckel, danach ging's auf den Itterberg im Norden Eberbach's. 
 
-![Blick vomn Itterberg] (media/20180622_ebepacking_s24o_1.jpeg "Blick vom Itterberg")
+![Blick vomn Itterberg](media/20180622_ebepacking_s24o_1.jpeg "Blick vom Itterberg")
 
 Eine ganz schöne Plackerei bei den ein bisschen zu herrlichen, sprich warmen, Bedingungen. Ein vollgepacktes Rad auf steilen Trails saugt ganz schön Energie aus den Oberschenkeln und Waden. Zum Glück hatten wir noch kein Abendessen und kein Frühstück in den Rucksäcken und Radtaschen - so liefen die Höhen- und Tiefenmeter doch sehr gut. Das könnte auch am größten Spaghetti-Eis des Odenwaldes gelegen haben. Wer weiß!? 
 Da wir spät los sind, neigte der Tag sich auch schon nach kurzer Fahrzeit merkbar dem Ende. Beim Supermarkt haben wir unsere Vorräte für die nächsten beiden Mahlzeiten aufgefüllt. Brot, Wurst, Käse, Gemüse, Schokolade, ...
@@ -53,7 +53,7 @@ Nach ein paar wenigen Stunden Schlaf haben sich die Vögel (gefühlt) viel zu fr
 
 Tja... Ein Abwägen des Suchen- und Finden-Aufwands ("Ist uns das Frühstück so viel Wert, dass wir jetzt 30 Minuten Feuerutensilien suchen?") ergab, dass wir lieber hungrig und daher vielleicht ein bisschen schlecht gelaunt unsere Sachen zusammenpackten und uns Richtung Bahnhof aufmachten. 10 km und 340 Höhenmeter bekommen wir auch mit leerem Bauch hin, dachten wir uns. 
 
-! [Unser Rückweg zum Bahnhof] (media/20180622_ebepacking_s24o_2.jpeg "Unser Rückweg zum Bahnhof")
+![Unser Rückweg zum Bahnhof](media/20180622_ebepacking_s24o_2.jpeg "Unser Rückweg zum Bahnhof")
 
 Schöne Trails kosten leider auch Energie - die Löcher im Bauch wurden daher immer größer. Mit einem halben Müsliriegel pro Nase konnten wir dann bis zum Bäcker in Eberbach überbrücken.
 
