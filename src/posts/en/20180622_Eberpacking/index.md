@@ -52,7 +52,9 @@ Nach ein paar wenigen Stunden Schlaf haben sich die Vögel (gefühlt) viel zu fr
 "Ich hab' doch nicht alles... Ich hab' das Feuerzeug UND den Feuerstein vergessen." 
 
 Tja... Ein Abwägen des Suchen- und Finden-Aufwands ("Ist uns das Frühstück so viel Wert, dass wir jetzt 30 Minuten Feuerutensilien suchen?") ergab, dass wir lieber hungrig und daher vielleicht ein bisschen schlecht gelaunt unsere Sachen zusammenpackten und uns Richtung Bahnhof aufmachten. 10 km und 340 Höhenmeter bekommen wir auch mit leerem Bauch hin, dachten wir uns. 
+
 ! [Unser Rückweg zum Bahnhof] (media/20180622_ebepacking_s24o_2.jpeg "Unser Rückweg zum Bahnhof")
+
 Schöne Trails kosten leider auch Energie - die Löcher im Bauch wurden daher immer größer. Mit einem halben Müsliriegel pro Nase konnten wir dann bis zum Bäcker in Eberbach überbrücken.
 
 Mit vollen Bäckertüten (ja, die Gier war groß) saßen wir dann im Zug zurück nach Heidelberg. 9:00 geduscht am Schreibtisch ging sich natürlich nicht aus. Aber darum ging's ja nie wirklich, oder?
