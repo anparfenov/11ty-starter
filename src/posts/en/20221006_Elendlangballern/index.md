@@ -76,11 +76,7 @@ Langsam neigt sich der Tag auch dem Ende zu. Es ist 18 Uhr, das Licht ändert si
 Die Schutzhütte [Fodara Vedla](https://www.fodara.it/de) ist weniger Schutzhütte als ein Hotel. Es gibt eine Fußbodenheizung und ein Bad, das den Immobilienwert von manchem Heidelberger Altbau verdoppeln würde. Die Garage erinnert an das Versteck eines James Bond Superschurken - den Eingang zu einem geheimen Stollen, der zur Kommandozentrale führt, tief im Berg, finden wir jedoch nicht. Dafür überzeugt die Küche, wenn auch nicht mit üppigen Portionen oder vielfältigen vegetarischen Auswahlmöglichkeiten. Und: Es gibt Nachtisch - vermutlich auch ohne Nachfrage.
 
 
-<br>
-![Angekommen an der Fodara Vedla](media/Dolos01052023220928(4).jpeg)
-
-<br>
-<br>
+![Angekommen an der Fodara Vedla](media/Dolos01052023220928(4).jpeg "Angekommen an der Fodara Vedla")
 
 
 # Sonntag 2. Oktober
@@ -90,17 +86,17 @@ Die Schutzhütte [Fodara Vedla](https://www.fodara.it/de) ist weniger Schutzhüt
 <br>
 Der Tag beginnt einsam im Frühstückssaal. Es ist 7 Uhr und die einzigen, die auf große Tour wollen, sind wir. Das Frühstück schmeckt, wir richten ein kleines Vesper und machen uns mit leichtem Gepäck auf den Weg. Heute wollen wir kringeln und am Abend nochmal an der Fodara Vedla übernachten. Unser heutiges Tagesziel ist leider nur entlang des Aufstiegswegs von gestern zu erreichen. Eine direkte Verbindung oberhalb des Talkessels, die Elmar ins Gespräch gebracht hatte, ist auf Grund von Regenfällen unpassierbar. Und so machen wir uns ohne große Erwartungen auf die Abfahrt und sehr zu unserer Freude hat der Steig entlang der Fahrstraße einige spaßige Sektionen parat. Nur das letzte Stück brennen wir auf der elend steilen Piste ab. Die Pederühütte würdigen wir jetzt, früh am Morgen, noch nicht mit einem Besuch, sondern machen uns direkt weiter an den Anstieg ins Fanes Tal. Dieser Abschnitt ist gut zu pedalieren und wir erreichen bei mäßiger Anstrengung nach einer guten Stunde die Faneshütte auf 2060m.
 
-<br>
+
 ![Im Fanestal](media/Dolos10022022112023.jpeg)
-<br>
+
 
 Inspiriert von scheu.eu und Elmar planen wir heute eine Erkundungstour Richtung Kreuzkofel und zurück am Col Bechei vorbei Richtung Sennes. Und so steigen wir nach kurzer Rast ohne Einkehr weiter bis auf knapp 2400m im Fanes Hochtal. Hier ist nichts mehr zu fahren, das Rad wird getragen oder geschoben. Mit jedem Meter wird der Wind stärker und das Panorama besser. Aber gleichzeitig mischt sich immer mehr Schnee in die Aussicht und es ist klar, dass wir beides, Kreuzkofel und Col Bechei, nicht an einem Tag schaffen werden. Wir beschließen, umzukehren und nehmen die zweite Abfahrt des Tages in Angriff. Viel mehr ist fahrbar als ursprünglich gedacht. Es ist trocken und die Pneus entwickeln ordentlich Grip auf dem Dolomitenfels. Lediglich ein längeres Karstfeld müssen wir schiebend bewältigen. An der Lavarellahütte gibt es dann ein Bierchen aus der höchsten Brauerei Europas und deluxe Spinatknödel. Andy unternimmt auch noch einen Badeversuch, muss sich aber den extremen Temperaturen geschlagen geben. Abends wartet ja wieder unser Hotelbadezimmer. 
 <br>
 Während des Vormittags konnten wir lange Zeit unser nächstes Tagesziel den Col Picodei bestens einsehen. Das beflügelt die Neugier und wir brechen bald auf zum nächsten Anstieg. Diesen bewältigen wir bis zum Limosee noch im Sattel, danach kommt das Bike auf den Rücken. Und das alles nur um herauszufinden, dass der Pfad ab dem Col Picodei weiter nach Osten gesperrt ist. Naja, die Aussicht ist auch nicht von schlechten Eltern. Insbesondere vom Gipfel, den wir ohne Räder erreichen, bietet sich eine fantastische Rundumsicht auf die umliegenden Bergmassive. Nur die Drei Zinnen können wir noch nicht erkennen.
 
-<br>
+
 ![Am Col Picodei](media/Dolos10022022134252.jpeg)
-<br>
+
 
 Es bleibt uns also nicht wirklich eine andere Wahl und wir machen uns auf dem Aufstiegsweg zurück Richtung Faneshütte. Der Weg ist deutlich flowiger als heute morgen und so ballern wir halb motiviert zurück zu den Seen und führen nebenbei das ein oder andere Gespräch. Nachdem unser Vesper auf einer Aussichtsbank oberhalb der Faneshütte vernichtet wurde, nehmen wir den unteren Teil des 7er Trail in Angriff und auch diese Episode macht erneut großen Spaß. Und so ist auch der größte Wermutstropfen an diesem Tag nicht der gesperrte Trail, sondern Andys Bremse, die immer mehr Probleme mit dem Druckpunkt macht.
 
@@ -126,9 +122,9 @@ Wir teilen uns die Sennesalm an diesem Morgen mit vier bis fünf weiteren Wander
 
 Mittlerweile ist allen klar, dass mit Andys Bremse was geschehen muss, damit in den kommenden Tagen Fahrspaß und womöglich gar Sicherheit nicht auf der Strecke bleiben. Die Touristeninformation am Pragser Wildsee ist wenig hilfreich, aber mit dem Smartphone haben wir recht fix einen Bikeshop in Welsberg ausgeguckt und mit einer halbwegs sinnvollen Route über den Kühwiesenkopf verbunden. Der Rosskopf, beschrieben auf ride.ch, wurde also gestrichen und - Oh Boy - das war ein Volltreffer. Zum einen lassen wir nach unserem Essen im Seerestaurant innerhalb von wenigen Minuten den ganzen Trubel hinter uns, zum anderen reiht sich der Kühwiesenkopftrail hinab nach Welsberg in Punkto Fahrspaß und Panorama auf ähnlichem Niveau ein, wie die Leckerbissen zuvor. Schier endlos zieht sich der Singletrail hinab und hat dabei alles am Start, was das Bikerherz begehrt.
 
-<br>
+
 ![KWK](media/Dolos10032022150807.jpeg)
-<br>
+
 
 Im Bikeshop angekommen endet unsere Glückssträhne weiterhin nicht. 90 Sekunden nachdem wir vorstellig wurden mit unserem Problem, hängt Andys Fanes schon am Montageständer, und nochmal 5 Minuten später ist der Druckpunkt wieder da.
 <br>
@@ -152,9 +148,9 @@ Aber die Zivilistation hat ja durchaus auch Vorteile, jetzt und hier in Form des
 
 Nach dem Essen folgen wir der Bundesstraße auf einem Radweg und verlassen die Provinz Bozen. Für den Nachmittag haben wir einen unbekannten Aufstieg zur Forcella Popena ausgesucht, der sich gut in den Verlauf der Tour einfügt. Auch diese pragmatische Lösung entpuppt sich abermals als Glücksgriff. Erneut sind wir, sobald wir die Bundesstraße gegen einen Trail eingetauscht haben, einsam unterwegs. Diese Einsamkeit wird noch verstärkt durch die fortgeschrittene Stunde und das beginnende Abendlicht. On Top gibt es extra Abenteuer Feeling durch ein kryptisches Italienisches Schild, das von einer Brückensperrung weiter oben zeugt. Egal, wir wollen es ausprobieren und es gäbe auch einige Alternativen, die uns trotzdem ins Grand Hotel führen werden. Abbruch wäre aber auch keine Option gewesen, denn Christian wollte ja auch an Tag 4 wieder ein bisschen an seiner Trageleidenschaft arbeiten. Hierfür gibt es über 400hm auch wieder reichlich Gelegenheit. Die Mühen lohnen sich durchaus. Von der Passhöhe haben wir einen Top Blick auf den Misurina See und vor allen Dingen auf das gewaltige Massiv des Zurion. Und der Trail hinab zum See ist erste Sahne. Lediglich die erste Kehre lassen wir aus, dann geht's ab. Singletrail direkt bis an den See.
 
-<br>
+
 ![Abends an der Forcella Popena](media/Dolos10042022132051.jpeg)
-<br>
+
 
 Das Grand Hotel Misurina fällt dann aber gegenüber den anderen Unterkünften etwas ab. Der Name trägt zwar dick auf, aber unser Zimmer ist weniger gemütlich, und das Essen ist auch nicht wirklich auf dem mittlerweile gewohnten Standard. Naja, das Vorspeisenbuffet leistet, auch wenn wir uns das mit der legendären Kaiser Gruppe teilen müssen, was hier und da auch mal Schlange stehen bedeutet. Immerhin konnten wir den Hotelpool nutzen, ganz regelkonform mit Reservierung und Gore Badekappe.
 <br>
@@ -170,9 +166,9 @@ Der letzte Tag beginnt früh. Noch vor dem Frühstück mit Pulverei organisieren
 
 An der Mautstation überholen wir eine ganze Stange der motorisierten Fahrzeuge, und danach wird es auch angenehmer auf der Straße zu fahren, da die Autos nun immer mit etwas Abstand kommen. Während mich der Verkehr zu Anfang noch stört, habe ich bald meinen Frieden damit gemacht und genieße die Aussicht auf die Drei Zinnen, die mit jeder Kehre näher kommen. Am Rifugio ist dann High Life. Der Parkplatz ist voll, ebenso die Wege weiter Richtung Paternsattel. Deshalb halten wir uns hier an das Bikeverbot, schieben unsere Bikes und werden Teil der Völkerwanderung. Am Paternsattel fällt dann endgültig die Entscheidung, heute eine etwas kürzere Tour in Angriff zu nehmen als ursprünglich geplant, hauptsächlich, um nicht erst gegen 3 Uhr morgens in Heidelberg anzukommen. Das gibt uns auch für den Rest des Tages etwas mehr Luft und diese nutzen wir dann auch gleich für eine Kraxelvariante vom Paternsattel zur Drei Zinnen Hütte. Anstatt den unten in der Hochebene verlaufenden Weg zu nehmen, queren wir oberhalb auf einem Pfad, der, soweit wir das einsehen konnten, fahrbar aussah. Das stellte sich aber nach der ersten Ecke als Irrtum heraus. An der ein oder anderen Stelle kamen wir etwas ins Schwitzen, wurden aber schlussendlich mit der Aussicht aus einer Galerie, die im Krieg in den Fels gesprengt wurde, belohnt.
 
-<br>
+
 ![An der Drei Zinnen Hütte](media/Dolos01052023220928(1).jpeg)
-<br>
+
 
 An der Drei Zinnen Hütte angekommen, verspeisten wir unser Vesper, genossen noch ein letztes Mal die Aussicht auf die ikonischen Drei Zinnen und machten uns dann an die von Elmar angepriesene, letzte Abfahrt der Tour durch das Fischleintal. Offiziell ist dieser Trail verboten, aber bis auf eine Studienrätin fühlte sich niemand von unserer Performance gestört. Ganz im Gegenteil - die Urlauber, die sich ab Sexten zu Fuß durchs Fischleintal auf den Weg gemacht hatten an diesem Tag, feierten uns richtig ab. “Ihr seids brutal” war nur eines der vielen Komplimente, die wir zu hören bekamen. Nach vier Tagen im Sattel waren wir aber auch wirklich top in Form, und auf Grund der gut moderierten täglichen Umfänge, auch nicht zu erschöpft, um auf der letzten Abfahrt nicht unser bestes Tennis zu zeigen. Beseelt von den Drei Zinnen, vom Tal, vom Biken kamen wir an der Talschlusshütte an und genossen ab hier einen gemütlichen Roll-Out nach Toblach, vorbei an Kulturlandschaften die ein bisschen zu perfekt aussahen. Ist Südtirol vielleicht gar nicht real? Wir wissen es nicht!
 
