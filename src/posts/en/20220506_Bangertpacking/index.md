@@ -21,8 +21,8 @@ Es ist viel Verkehr auf der A5 Richtung Süden. Deshalb wurde die erste Etappe u
 
 {% from "components/image-grid.njk" import imageGrid %}
 {{ imageGrid([
- ["PXL_20220506_194343027.MP", "PXL_20220507_062357987"],
- ["PXL_20220506_183721675", "IMG_5607"]
+ ["PXL_20220506_194343027.MP.jpeg", "PXL_20220507_062357987.jpeg"],
+ ["PXL_20220506_183721675.jpeg", "IMG_5607.jpeg"]
 ]) }}
 
 Am nächsten Tag wird ausgeschlafen. Das Schnuffeltuch auf der einen Seite und der neue Schlafsack auf der anderen Seite erhöhen den Komfort in unserem Zelt derart, dass wir fast bis 10 Uhr brauchen, bis das Lager abgeschlagen ist und die Bikes wieder rollen. Aber das ist ja schließlich Urlaub - oder das, was wir uns darunter vorstellen.
