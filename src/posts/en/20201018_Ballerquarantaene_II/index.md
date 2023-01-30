@@ -1,7 +1,7 @@
 ---
 title: Ballerquarantäne II
 description: Lenggries im Schnee
-date: 2020-100-19
+date: 2020-10-19
 banner: "Ballerquaranaene10192020125730.jpeg"
 tags:
   - MTB
