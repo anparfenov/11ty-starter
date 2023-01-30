@@ -16,6 +16,11 @@ layout: layouts/post.njk
 No doubt about it: it’s one of these Internet movies that make you wanna jump on your bike right away. Amazing trails, stunning scenery, impressive skills combined with good music and nice editing. For us it also triggered a diffuse feeling like ‘hey this looks though, trails are exposed, but hey I could do that section and that one... OK I am going to carry my bike at this point but whatever’ and we wanted to benchmark our level of riding against the rider in the video.
 
 
+
+<iframe width="100%" src="https://www.youtube.com/embed/PqohPTjseiY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
 We’ve done plenty of mountain biking in the Alps: day tours, bike parks, multiday excursions – some pretty technical and exhausting riding but we never came to the point where we could not go any further and presumably we were secretly looking for this experience.
 
 In early 2012 we started to plan our very own attempt to do as shown in the video. It took us some time to research the exact trails but with www.kompass.at and www.maps.google.com we eventually found out. We discussed our plan with a couple of riders of Heidelberg’s Finest Mountainbike Trails but only two were crazy enough to join the mission.
