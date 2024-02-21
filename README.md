@@ -6,7 +6,7 @@ It uses [sass](https://sass-lang.com/), [nunjucks](https://mozilla.github.io/nun
 
 It also has i18n support.
 
-[DEMO](https://moody-person.github.io/11ty-starter/) on github pages
+[DEMO](https://anparfenov.github.io/11ty-starter/) on github pages
 
 ## Installation
 
